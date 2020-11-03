@@ -1,0 +1,81 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Adrià Mitjavila Ventura
+
+jobtitle: "Bioinformatician at Istituto Europeo di Oncologia"
+address: "Girona (Spain) - Milan (Italy)"
+fontawesome: yes
+email: adria.mitjavila94@gmail.com
+# github: svmiller
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+web: "amitjavilaventura.github.io"
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\ 
+
+# Education
+
+*Scuola Europea di Medicina Molecolare*, PhD. Computational Biology \hfill \emph{2019 - Present}
+
+*Universitat Oberta de Catalunya*, MSc. Bioinformatics and Biostatistics \hfill \emph{2018 - Present}
+
+*Universidad de Sevilla*, MSc. Molecular Genetics and Biotechnology \hfill \emph{2017 - 2018}
+
+*Universitat de Girona*, BSC. Biotechnology \hfill \emph{2012 - 2017}
+
+\ 
+
+# Employment
+
+*Istituto Europeo di Oncologia*  \hfill \textbf{Milan (Italy)}
+
+* PhD Candidate in Computational Biology \hfill \emph{10/2019 - Present}
+
+* Bioinformatician \hfill \emph{07/2019 - 10/2019}
+
+*Instituto de Biomedicina de Sevilla* \hfill \textbf{Seville (Spain)}
+
+* Research assistant \hfill \emph{07/2018 - 10/2018}
+
+* Master's thesis student \hfill \emph{09/2017 - 07/2018}
+
+*Institut d'Invesitació Biomèdica de Girona* \hfill \textbf{Girona (Spain)}
+
+* Research internship student \hfill \emph{07/2017 - 09/2017}
+
+*Microbial. Sistemes i aplicacions analítiques, S.L.* \hfill \textbf{Girona (Spain)}
+
+* Bachelor's thesis student \hfill \emph{01/2017 - 06/2017}
+
+* Internship student \hfill \emph{09/2016 - 06/2017}
+
+\ 
+
+# Publications
+
+## Journal Articles
+
+Begley *et al*. 2020 **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
+
+\ 
+
+# References
+
+Available upon request.
+
+\ 
