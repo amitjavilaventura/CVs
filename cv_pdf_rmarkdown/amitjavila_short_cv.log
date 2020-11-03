@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.2)  3 NOV 2020 10:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.11.2)  3 NOV 2020 11:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv.tex
-(./cv.tex
+**amitjavila_short_cv.tex
+(./amitjavila_short_cv.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-10-27> xparse <2020-03-03> (/Users/ieo5089/Library/T
 inyTeX/texmf-dist/tex/latex/base/article.cls
@@ -372,8 +372,8 @@ LaTeX Info: Redefining \today on input line 736.
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count301
 \l__pdf_internal_box=\box50
-) (./cv.aux)
-\openout1 = `cv.aux'.
+) (./amitjavila_short_cv.aux)
+\openout1 = `amitjavila_short_cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
 LaTeX Font Info:    ... okay on input line 104.
@@ -456,9 +456,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 104.
 LaTeX Info: Redefining \pageref on input line 104.
 LaTeX Info: Redefining \nameref on input line 104.
-(./cv.out) (./cv.out)
+(./amitjavila_short_cv.out) (./amitjavila_short_cv.out)
 \@outlinefile=\write3
-\openout3 = `cv.out'.
+\openout3 = `amitjavila_short_cv.out'.
 
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
@@ -517,18 +517,18 @@ AED: lastpage setting LastPage
 [1
 
 {/Users/ieo5089/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] 
-(./cv.aux)
-Package rerunfilecheck Info: File `cv.out' has not changed.
+(./amitjavila_short_cv.aux)
+Package rerunfilecheck Info: File `amitjavila_short_cv.out' has not changed.
 (rerunfilecheck)             Checksum: 3FCBAEC663F9001E0E310843E30B17C5;521.
  ) 
 Here is how much of TeX's memory you used:
  13096 strings out of 481413
- 186491 string characters out of 5918628
- 491444 words of memory out of 5000000
+ 186746 string characters out of 5918628
+ 491512 words of memory out of 5000000
  29637 multiletter control sequences out of 15000+600000
  571885 words of font info for 83 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 80i,11n,85p,1191b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,11n,85p,1208b,400s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/ieo5089/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </Use
 rs/ieo5089/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk
 >{/Users/ieo5089/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawe
@@ -540,7 +540,7 @@ lic/fpl/fplrij8a.pfb></Users/ieo5089/Library/TinyTeX/texmf-dist/fonts/type1/urw
 /palatino/uplb8a.pfb></Users/ieo5089/Library/TinyTeX/texmf-dist/fonts/type1/urw
 /palatino/uplr8a.pfb></Users/ieo5089/Library/TinyTeX/texmf-dist/fonts/type1/urw
 /palatino/uplri8a.pfb>
-Output written on cv.pdf (1 page, 100552 bytes).
+Output written on amitjavila_short_cv.pdf (1 page, 100552 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
