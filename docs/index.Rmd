@@ -1,6 +1,11 @@
 ---
 title: "Adrià Mitjavila Ventura"
 pagetitle: Adrià Mitjavila Ventura
+output: 
+  html_document:
+    toc: yes
+    toc_float: yes
+    toc_depth: 3
 ---
 
 ```{r setup, include=FALSE}
@@ -13,7 +18,7 @@ library(fontawesome)
 fa(name = "user")
 ```
 
-## `r fa(name = "user")` &nbsp; Bioinformatician at the [*Istituto Europeo di Oncologia*](https://www.research.ieo.it/adri%C3%A0-mitjavila-ventura/)
+### `r fa(name = "user")` &nbsp; Bioinformatician at the [*Istituto Europeo di Oncologia*](https://www.research.ieo.it/adri%C3%A0-mitjavila-ventura/)
 
 ```{r image_me, eval = T}
 htmltools::img(src = "fotojo.png", 
