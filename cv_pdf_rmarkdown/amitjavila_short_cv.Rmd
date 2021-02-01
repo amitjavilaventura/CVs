@@ -12,8 +12,8 @@ jobtitle: "Bioinformatician at Istituto Europeo di Oncologia"
 address: "Girona (Spain) - Milan (Italy)"
 fontawesome: yes
 email: adria.mitjavila94@gmail.com
-# github: svmiller
-# twitter: stevenvmiller
+# github: amitjavilaventura
+# twitter: adriamitjavila
 #osf: "Enter 5 digit osf string here"
 web: "amitjavilaventura.github.io"
 

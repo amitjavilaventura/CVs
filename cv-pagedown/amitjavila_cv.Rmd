@@ -27,10 +27,11 @@ knitr::include_graphics(path = "foto_jo.jpg")
 
 ## Contact {#contact}
 
+-   <i class="fa fa-home"></i> Girona (Spain) - Milan (Italy)
 -   <i class="fa fa-envelope"></i> [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
 -   <i class="fa fa-link"></i> [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
--   <i class="fa fa-github"></i> [GitHub](https://github.com/amitjavilaventura)
--   <i class="fa fa-gitlab"></i> [GitLab](https://gitlab.com/amitjavilaventura)
+-   <i class="fa fa-github"></i> [/amitjavilaventura](https://github.com/amitjavilaventura)
+-   <i class="fa fa-gitlab"></i> [/amitjavilaventura](https://gitlab.com/amitjavilaventura)
 
 ## Skills {#skills}
 
@@ -43,10 +44,9 @@ knitr::include_graphics(path = "foto_jo.jpg")
 -   ATAC-seq
 -   MNase-seq
 
-**Programming:**
+**Programming/scripting:**
 
--   R
--   Rmarkdown
+-   R/Shiny
 -   Python
 
 **Workflow management**
@@ -56,6 +56,7 @@ knitr::include_graphics(path = "foto_jo.jpg")
 **Environment management**
 
 -   Conda
+-   Docker 
 
 **Code repositories:**
 
