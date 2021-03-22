@@ -242,15 +242,12 @@ $endif$
 
 \vspace{2 mm}
 
-\moveleft.5\hoffset\centerline{ $if(address)$$if(fontawesome)$\faHome \hspace{1 mm} $else$ $endif$ {\small \tt $address$} \hspace{1 mm}$endif$ } 
+\moveleft.5\hoffset\centerline{ $if(address)$$if(fontawesome)$\faHome \hspace{1 mm} $else$ $endif$ {\small \tt $address$} \hspace{1 mm}$endif$ $if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\small \tt $email$} \hspace{1 mm}$endif$ } 
 
 \vspace{1 mm}
 
-\moveleft.5\hoffset\centerline{ $if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\small \tt $email$} \hspace{1 mm}$endif$ $if(web)$$if(fontawesome)$\faUser \hspace{ 0.5 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\small  \tt $web$} \hspace{1 mm} $endif$}
+\moveleft.5\hoffset\centerline{ $if(web)$$if(fontawesome)$\faUser \hspace{ 0.5 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\small  \tt $web$} \hspace{1 mm} $endif$ $if(github)$$if(fontawesome)$\faGithub \hspace{0.5 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\small \tt $github$} \hspace{1 mm} $endif$ $if(gitlab)$$if(fontawesome)$\faGitlab \hspace{0.5 mm}$else$\emph{Gitlab:}$endif$ \href{http://gitlab.com/gitlab}{\small \tt $gitlab$ \hspace{1 mm} $endif$ }}
 
-\vspace{1 mm}
-
-\moveleft.5\hoffset\centerline{  $if(github)$$if(fontawesome)$\faGithub \hspace{0.5 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\small \tt $github$} \hspace{1 mm} $endif$ $if(gitlab)$$if(fontawesome)$\faGitlab \hspace{0.5 mm}$else$\emph{Gitlab:}$endif$ \href{http://gitlab.com/gitlab}{\small \tt $gitlab$} \hspace{1 mm} $endif$ } 
 
 \vspace{2 mm}
 
