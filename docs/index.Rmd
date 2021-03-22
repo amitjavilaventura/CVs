@@ -202,7 +202,7 @@ English    | Advanced (IELTS 7.5 - C1) |            |              |
 
 # Publications
 
-My full list of publications can be consulted [here](publications.html).
+My full list of publications can be consulted [here](https://amitjavilaventura.github.io/publications/).
 
 ## Journal Articles {.tabset}
 
