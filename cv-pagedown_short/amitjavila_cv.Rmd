@@ -1,0 +1,226 @@
+---
+title: "amitjavila_cv"
+author: Adrià Mitjavila Ventura
+output:
+  pagedown::html_resume:
+    css: ['css/styles.css', 'resume']
+    # set to true to be able to see it in the navigator and print as PDF; false only to visualize in the RStudio viewer panel (faster).
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  results = "asis", 
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE
+)
+
+library(tidyverse)
+```
+
+# Aside
+
+<center>
+```{r logo, warning = FALSE, message = FALSE, error = FALSE, out.width="50%", eval=T, fig.align="center", out.width="75%"}
+knitr::include_graphics(path = "fotojo.png")
+```
+</center>
+
+## Contact {#contact}
+
+-   <i class="fa fa-home"></i> Girona (Spain) - Milan (Italy)
+-   <i class="fa fa-envelope"></i> [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
+-   <i class="fa fa-link"></i> [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
+-   <i class="fa fa-github"></i> [/amitjavilaventura](https://github.com/amitjavilaventura)
+-   <i class="fa fa-gitlab"></i> [/amitjavilaventura](https://gitlab.com/amitjavilaventura)
+
+## Skills {#skills}
+
+
+**Omics data analysis:**
+
+-   Microarray
+-   RNA-seq
+-   ChIP-seq
+-   ATAC-seq
+-   MNase-seq
+
+**Programming/scripting:**
+
+-   R/Shiny
+-   Python
+
+**Workflow management**
+
+-   Snakemake
+
+**Environment management**
+
+-   Conda
+-   Docker 
+
+**Code repositories:**
+
+-   GitHub
+-   GitLab
+
+<!--
+**Operating systems:**
+
+-   MS Windows
+-   MAC OS
+-   Ubuntu
+
+**Offimatics:**
+
+-   MS Office
+-   OpenOffice
+-->
+
+**Languages:**
+
+-   Catalan
+-   Spanish
+-   English
+-   Italian
+
+## Disclaimer {#disclaimer}
+
+```{r eval=FALSE}
+Made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Some code is from [wjakethompson](https://github.com/wjakethompson/cv)
+```
+
+Last updated on `r Sys.Date()`
+
+# Main
+
+## Adrià Mitjavila Ventura {#title}
+
+### Bioinformatician at *Istituto Europeo di Oncologia*.
+
+<p style="font-size:13px">Biotechnologist living around computers, pursuing a PhD in Computational Biology and interested in data analysis to support experimental research as well as in pure computational experiments and in software/pipeline development.</p>
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### PhD in Computational Biology
+
+Scuola Europea di Medicina Molecolare
+
+Milan, Italy
+
+2019<br>|<br>Present
+
+### MSc in Bioinformatics and Biostatistics
+
+Universitat Oberta de Catalunya
+
+Online
+
+2018<br>|<br>Present
+
+### MSc in Molecular Genetics and Biotechnology
+
+Universidad de Sevilla
+
+Seville, Spain
+
+2017<br>|<br>2018
+
+- Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
+
+### BSc in Biotechnology
+
+Universitat de Girona
+
+Girona, Spain
+
+2012<br>|<br>2017
+
+- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
+
+## Experience {data-icon="laptop"}
+
+### PhD candidate in Computational Biology
+
+*Istituto Europeo di Oncologia*
+
+Milan, Italy
+
+10/2019 <br>|<br>Present
+
+**Epigenetics & Computational Biology**
+
+### Bioinformatician
+
+*Istituto Europeo di Oncologia*
+
+Milan, Italy
+
+07/2019<br>|<br>10/2019
+
+**Epigenetics & Computational Biology**
+
+### Master's thesis student & research assistant
+
+*Instituto de Biomedicina de Sevilla*
+
+Seville, Spain
+
+09/2017<br>|<br>10/2018
+
+**Gene expression & Computational Biology**
+
+### Internship & Bachelor's thesis student
+
+*Microbial. Sistemes i aplicacions analítiques, S.L.*
+
+Girona, Spain
+
+09/2016<br>|<br>06/2017
+
+**Molecular Microbiology**
+
+## Publications {data-icon="book"}
+
+### Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration
+
+Begley V *et al*. RNA Biology. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
+
+N/A
+
+2020 
+
+
+## Honors & Awards {data-icon="award"}
+
+### SEMM PhD Fellowship
+
+*Scuola Europea di Medicina Molecolare* - *European School of Molecular Medicine*
+
+Milan, Italy
+
+10/2019 <br>|<br> Present
+
+### Elite Rower
+*Federación Española de Remo* - *Spanish Rowing Federation*
+
+N/A 
+
+2015 <br>|<br> 2021
+
+###  World Rowing U23 Champion
+
+FISA - WorldRowing
+
+Rotterdam, Netherlands. 
+
+2016
+
+```{r eval=FALSE}
+## Tutorials and Workshops {data-icon="chalkboard-teacher"}
+```
+
+
