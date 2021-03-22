@@ -14,6 +14,7 @@ urlcolor: blue
 title: "CV"
 author: Adrià Mitjavila Ventura
 
+#academictitle: "MSc"
 jobtitle: "Bioinformatician"
 address: "Girona (Spain) - Milan (Italy)"
 fontawesome: yes
@@ -24,7 +25,7 @@ gitlab: amitjavilaventura
 #osf: "Enter 5 digit osf string here"
 web: "amitjavilaventura.github.io"
 
-keywords: R Markdown, academic CV, template
+keywords: Adria, Mitjavila, CV, academic, bioinformatician, LaTeX, Markdown
 
 updated: yes
 ---
@@ -39,13 +40,13 @@ updated: yes
 
 # Education \hrulefill
 
-*Scuola Europea di Medicina Molecolare*, PhD. Computational Biology \hfill {\small\emph{2019 - Present}}
+**PhD. Computational Biology**, *Scuola Europea di Medicina Molecolare*, Milan (Italy) \hfill {\small\emph{2019 - Present}}
 
-*Universitat Oberta de Catalunya*, MSc. Bioinformatics and Biostatistics \hfill {\small\emph{2018 - Present}}
+**MSc. Bioinformatics and Biostatistics**, *Universitat Oberta de Catalunya*, Online \hfill {\small\emph{2018 - Present}}
 
-*Universidad de Sevilla*, MSc. Molecular Genetics and Biotechnology \hfill {\small\emph{2017 - 2018}}
+**MSc. Molecular Genetics and Biotechnology**, *Universidad de Sevilla*, Seville (Spain) \hfill {\small\emph{2017 - 2018}}
 
-*Universitat de Girona*, BSC. Biotechnology \hfill {\small\emph{2012 - 2017}}
+**BSc. Biotechnology**, *Universitat de Girona*, Girona (Spain)  \hfill {\small\emph{2012 - 2017}}
 
 
 # Employment \hrulefill

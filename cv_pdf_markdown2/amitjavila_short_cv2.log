@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.19)  22 MAR 2021 23:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.19)  23 MAR 2021 00:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -335,12 +335,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip64
 )
-Package hyperref Info: Option `unicode' set `true' on input line 95.
-Package hyperref Info: Option `colorlinks' set `true' on input line 95.
-Package hyperref Info: Option `breaklinks' set `true' on input line 95.
+Package hyperref Info: Option `unicode' set `true' on input line 96.
+Package hyperref Info: Option `colorlinks' set `true' on input line 96.
+Package hyperref Info: Option `breaklinks' set `true' on input line 96.
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 95.
+(hyperref)                setting the option has no effect on input line 96.
 
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
@@ -411,32 +411,32 @@ LaTeX Warning: Unused global option(s):
 (./amitjavila_short_cv2.aux)
 \openout1 = `amitjavila_short_cv2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 103.
-LaTeX Font Info:    ... okay on input line 103.
-LaTeX Info: Redefining \microtypecontext on input line 103.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 104.
+LaTeX Font Info:    ... okay on input line 104.
+LaTeX Info: Redefining \microtypecontext on input line 104.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 103.
+LaTeX Info: Redefining \showhyphens on input line 104.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -479,7 +479,7 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 103.
+(lastpage)             ! on input line 104.
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -491,7 +491,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ) (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-Package hyperref Info: Link coloring ON on input line 103.
+Package hyperref Info: Link coloring ON on input line 104.
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -503,9 +503,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count308
 )
-LaTeX Info: Redefining \ref on input line 103.
-LaTeX Info: Redefining \pageref on input line 103.
-LaTeX Info: Redefining \nameref on input line 103.
+LaTeX Info: Redefining \ref on input line 104.
+LaTeX Info: Redefining \pageref on input line 104.
+LaTeX Info: Redefining \nameref on input line 104.
 (./amitjavila_short_cv2.out) (./amitjavila_short_cv2.out)
 \@outlinefile=\write3
 \openout3 = `amitjavila_short_cv2.out'.
@@ -514,69 +514,69 @@ LaTeX Info: Redefining \nameref on input line 103.
 File: fc-english.def 2016/01/12
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 116.
+ut line 117.
 
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesometw
 o.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-16.
+17.
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-116.
+117.
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-116.
+117.
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-116.
+117.
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-116.
+117.
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-116.
+117.
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 116.
+(Font)              scaled to size 9.37807pt on input line 117.
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 116.
+(Font)              scaled to size 7.29405pt on input line 117.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 116.
+(Font)              scaled to size 5.21004pt on input line 117.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 116.
+(Font)              scaled to size 9.37807pt on input line 117.
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 116.
+(Font)              scaled to size 7.29405pt on input line 117.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 116.
+(Font)              scaled to size 5.21004pt on input line 117.
 LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
-nput line 120.
+nput line 121.
 
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesometh
 ree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inp
-ut line 120.
+ut line 121.
 
 (/Users/ieo5089/Library/TinyTeX/texmf-dist/tex/latex/fontawesome/ufontawesomeon
 e.fd
@@ -594,11 +594,11 @@ Package rerunfilecheck Info: File `amitjavila_short_cv2.out' has not changed.
 (rerunfilecheck)             Checksum: 474CD993126FD91B55400DA39D28C2C5;553.
  ) 
 Here is how much of TeX's memory you used:
- 14492 strings out of 480942
- 214807 string characters out of 5905798
- 565403 words of memory out of 5000000
- 31214 multiletter control sequences out of 15000+600000
- 465915 words of font info for 227 fonts, out of 8000000 for 9000
+ 14513 strings out of 480942
+ 215006 string characters out of 5905798
+ 565569 words of memory out of 5000000
+ 31216 multiletter control sequences out of 15000+600000
+ 469206 words of font info for 239 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  83i,11n,88p,1209b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/ieo5089/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/User
@@ -614,10 +614,10 @@ xmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/ieo5089/Library/TinyTeX/te
 xmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/ieo5089/Library/TinyTeX/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/ieo5089/Library/TinyTeX/te
 xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on amitjavila_short_cv2.pdf (1 page, 110312 bytes).
+Output written on amitjavila_short_cv2.pdf (1 page, 111686 bytes).
 PDF statistics:
  118 PDF objects out of 1000 (max. 8388607)
  77 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 500000)
- 108585 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 116777 words of extra memory for PDF output out of 128383 (max. 10000000)
 
