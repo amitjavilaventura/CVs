@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 )
 
 library(tidyverse)
+#library(fontawesome)
 ```
 
 # Aside
@@ -30,10 +31,11 @@ knitr::include_graphics(path = "fotojo.png")
 ## Contact {#contact}
 
 -   <i class="fa fa-home"></i> Girona (Spain) - Milan (Italy)
--   <i class="fa fa-envelope"></i> [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
--   <i class="fa fa-link"></i> [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
--   <i class="fa fa-github"></i> [/amitjavilaventura](https://github.com/amitjavilaventura)
--   <i class="fa fa-gitlab"></i> [/amitjavilaventura](https://gitlab.com/amitjavilaventura)
+-   <i class="fa fa-at"></i> [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
+-   <i class="fa fa-globe"></i> [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
+-   <i class="fab fa-github"></i> [/amitjavilaventura](https://github.com/amitjavilaventura)
+-   <i class="fab fa-gitlab"></i> [/amitjavilaventura](https://gitlab.com/amitjavilaventura)
+
 
 ## Skills {#skills}
 
@@ -48,23 +50,20 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Programming/scripting:**
 
--   R/Shiny
+-   R (base/tidyverse)
 -   Python
-
-**Workflow management**
-
--   Snakemake
-
-**Environment management**
-
--   Conda
--   Docker 
+-   Bash
 
 **Code repositories:**
 
 -   GitHub
 -   GitLab
 
+**Others:**
+
+-   Snakemake
+-   Conda
+-   Docker 
 <!--
 **Operating systems:**
 
@@ -80,18 +79,20 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Languages:**
 
--   Catalan
--   Spanish
--   English
--   Italian
+-   Catalan (Native)
+-   Spanish (Native)
+-   English (C1 - IELTS 7.5)
+-   Italian (Basic)
 
 ## Disclaimer {#disclaimer}
 
-```{r eval=FALSE}
+<!--
 Made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Some code is from [wjakethompson](https://github.com/wjakethompson/cv)
-```
+-->
+
+Build with [**pagedown**](https://github.com/rstudio/pagedown)
 
 Last updated on `r Sys.Date()`
 

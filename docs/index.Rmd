@@ -39,7 +39,7 @@ htmltools::img(src = "fotojo.png",
 <a href="https://github.com/amitjavilaventura">`r fa(name = "github")`</a> &nbsp;
 <a href="https://gitlab.com/amitjavilaventura">`r fa(name = "gitlab")`</a> &nbsp; 
 <a href="https://www.linkedin.com/in/adria-mitjavila-ventura/">`r fa(name = "linkedin")`</a> &nbsp; 
- 
+<a href="https://orcid.org/0000-0002-0337-1929"> **ORCID** </a> &nbsp;
 
 ***
 
