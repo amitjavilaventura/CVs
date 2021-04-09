@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.3.19)  23 MAR 2021 00:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.9)  9 APR 2021 11:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -591,14 +591,14 @@ AED: lastpage setting LastPage
 
 ] (./amitjavila_short_cv2.aux)
 Package rerunfilecheck Info: File `amitjavila_short_cv2.out' has not changed.
-(rerunfilecheck)             Checksum: 474CD993126FD91B55400DA39D28C2C5;553.
+(rerunfilecheck)             Checksum: 6F76A5EC11BE191021CD73976E075047;635.
  ) 
 Here is how much of TeX's memory you used:
- 14513 strings out of 480942
- 215006 string characters out of 5905798
- 565569 words of memory out of 5000000
- 31216 multiletter control sequences out of 15000+600000
- 469206 words of font info for 239 fonts, out of 8000000 for 9000
+ 14532 strings out of 480934
+ 215169 string characters out of 5905649
+ 556613 words of memory out of 5000000
+ 31221 multiletter control sequences out of 15000+600000
+ 471292 words of font info for 248 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  83i,11n,88p,1209b,503s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/ieo5089/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/User
@@ -614,10 +614,10 @@ xmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/ieo5089/Library/TinyTeX/te
 xmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/ieo5089/Library/TinyTeX/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/ieo5089/Library/TinyTeX/te
 xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on amitjavila_short_cv2.pdf (1 page, 111686 bytes).
+Output written on amitjavila_short_cv2.pdf (1 page, 113221 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 116777 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 122929 words of extra memory for PDF output out of 128383 (max. 10000000)
 

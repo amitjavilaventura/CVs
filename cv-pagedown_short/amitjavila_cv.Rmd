@@ -23,7 +23,7 @@ library(tidyverse)
 # Aside
 
 <center>
-```{r logo, warning = FALSE, message = FALSE, error = FALSE, out.width="50%", eval=T, fig.align="center", out.width="75%"}
+```{r logo, warning = FALSE, message = FALSE, error = FALSE, out.width="75%", eval=F, fig.align="center"}
 knitr::include_graphics(path = "fotojo.png")
 ```
 </center>
@@ -102,10 +102,11 @@ Last updated on `r Sys.Date()`
 
 ### Bioinformatician at *Istituto Europeo di Oncologia*.
 
-<p style="font-size:13px">Biotechnologist living around computers, pursuing a PhD in Computational Biology and interested in data analysis to support experimental research as well as in pure computational experiments and in software/pipeline development.</p>
+<p style="font-size:13px">Biotechnologist living around computers, interested in data analysis to support experimental research as well as in pure computational experiments and in software/pipeline development.</p>
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
+<!--
 ### PhD in Computational Biology
 
 Scuola Europea di Medicina Molecolare
@@ -113,6 +114,7 @@ Scuola Europea di Medicina Molecolare
 Milan, Italy
 
 2019<br>|<br>Present
+-->
 
 ### MSc in Bioinformatics and Biostatistics
 
@@ -144,6 +146,7 @@ Girona, Spain
 
 ## Experience {data-icon="laptop"}
 
+<!--
 ### PhD candidate in Computational Biology
 
 *Istituto Europeo di Oncologia*
@@ -153,6 +156,7 @@ Milan, Italy
 10/2019 <br>|<br>Present
 
 **Epigenetics & Computational Biology**
+-->
 
 ### Bioinformatician
 
@@ -160,7 +164,7 @@ Milan, Italy
 
 Milan, Italy
 
-07/2019<br>|<br>10/2019
+07/2019<br>|<br>Present
 
 **Epigenetics & Computational Biology**
 
@@ -197,6 +201,7 @@ N/A
 
 ## Honors & Awards {data-icon="award"}
 
+<!--
 ### SEMM PhD Fellowship
 
 *Scuola Europea di Medicina Molecolare* - *European School of Molecular Medicine*
@@ -204,6 +209,7 @@ N/A
 Milan, Italy
 
 10/2019 <br>|<br> Present
+-->
 
 ### Elite Rower
 *Federación Española de Remo* - *Spanish Rowing Federation*

@@ -30,8 +30,6 @@ urlcolor: blue
 
 # Education \hrulefill
 
-*Scuola Europea di Medicina Molecolare*, PhD. Computational Biology \hfill \emph{2019 - Present}
-
 *Universitat Oberta de Catalunya*, MSc. Bioinformatics and Biostatistics \hfill \emph{2018 - Present}
 
 *Universidad de Sevilla*, MSc. Molecular Genetics and Biotechnology \hfill \emph{2017 - 2018}
@@ -43,9 +41,7 @@ urlcolor: blue
 
 *Istituto Europeo di Oncologia*  \hfill \textbf{Milan (Italy)}
 
-* \footnotesize PhD Candidate in Computational Biology \hfill \emph{10/2019 - Present}
-
-* \footnotesize Bioinformatician \hfill \emph{07/2019 - 10/2019}
+* \footnotesize Bioinformatician \hfill \emph{07/2019 - Present}
 
 *Instituto de Biomedicina de Sevilla* \hfill \textbf{Seville (Spain)}
 

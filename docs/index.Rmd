@@ -43,7 +43,7 @@ htmltools::img(src = "fotojo.png",
 
 ***
 
-Former biotechnologist who is living between computers and pursuing a PhD in Computational Biology. My interests are mostly related to Molecular Genetics, Signal Transduction and Epigenetics. 
+Former biotechnologist who is living between computers. My interests are mostly related to omics data analysis related to Epigenetics research. 
 
 I am said to be a motivated, ambitious man. Furthermore, I can work individually as well as in a team and I believe myself capable of leading a little group of professional people.
 
@@ -51,12 +51,14 @@ I am said to be a motivated, ambitious man. Furthermore, I can work individually
 
 # Academic education{.tabset}
 
+<!--
 ## PhD in Computational Biology
 * 2019 - Present
 * __*Università degli Studi di Milano (UNIMI)*__ and __*Scuola Europea di Medicina Molecolare (SEMM)*__ (Milan, Italy). 
 * [SEMM website](https://www.semm.it/)
 
 <br>
+-->
 
 ## MSc in Bioinformatics and Biostatistics
 * 2018 - Present
@@ -88,6 +90,7 @@ I am said to be a motivated, ambitious man. Furthermore, I can work individually
 
 # Professional experience {.tabset}
 
+<!--
 ## PhD candidate in Computational Biology
 * 10/2019 - Present
 * __*Instituto Europeo di Oncologia (IEO)*__ and __*Scuola Europea di Medicina Molecolare (SEMM)*__ (Milan, Italy).
@@ -95,9 +98,10 @@ I am said to be a motivated, ambitious man. Furthermore, I can work individually
 * Supervisor: Dr. Diego Pasini.
 
 <br>
+-->
 
 ## Bioinformatician
-* 07/2019 - 10/2019
+* 07/2019 - Present
 * __*Instituto Europeo di Oncologia (IEO)*__ (Milan, Italy).
 * Department of Experimental Oncology, group of Epigenetic Mechanisms in Stem Cell Differentiation and Cancer (PI: Dr. Diego Pasini).
 
@@ -272,12 +276,15 @@ __*Associació de Biotecnòlegs de Catalunya*__ - **Catalan Biotechnologists Ass
 <br>
 
 # Other honours and awards {.tabset}
+
+<!--
 ## SEMM PhD Fellowship
 * __*Scuola Europea di Medicina Molecolare*__ - **European School of Molecular Medicine**
 * Fellowship to pursue their PhD program in Systems Medicine (curriculum of Computational Biology)
 * 10/2019 - Present
 
 <br>
+-->
 
 ## Elite Rower
 * __*Federación Española de Remo*__ - **Spanish Rowing Federation**
