@@ -5,7 +5,8 @@ output:
   pagedown::html_resume:
     css: ['css/styles.css', 'resume']
     # set to true to be able to see it in the navigator and print as PDF; false only to visualize in the RStudio viewer panel (faster).
-    self_contained: true
+#    self_contained: true
+#knit: pagedown::chrome_print
 ---
 
 ```{r setup, include=FALSE}
@@ -20,10 +21,19 @@ library(tidyverse)
 #library(fontawesome)
 ```
 
+```{css}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
 # Aside
 
 <center>
-```{r logo, warning = FALSE, message = FALSE, error = FALSE, out.width="75%", eval=F, fig.align="center"}
+```{r logo, warning = FALSE, message = FALSE, error = FALSE, out.width="75%", eval=T, fig.align="center"}
 knitr::include_graphics(path = "fotojo.png")
 ```
 </center>
@@ -34,7 +44,6 @@ knitr::include_graphics(path = "fotojo.png")
 -   <i class="fa fa-at"></i> [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
 -   <i class="fa fa-globe"></i> [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
 -   <i class="fab fa-github"></i> [/amitjavilaventura](https://github.com/amitjavilaventura)
--   <i class="fab fa-gitlab"></i> [/amitjavilaventura](https://gitlab.com/amitjavilaventura)
 
 
 ## Skills {#skills}
@@ -50,32 +59,17 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Programming/scripting:**
 
--   R (base/tidyverse)
+-   R/Bioconductor
 -   Python
 -   Bash
 
-**Code repositories:**
-
--   GitHub
--   GitLab
-
-**Others:**
+**Other:**
 
 -   Snakemake
 -   Conda
--   Docker 
-<!--
-**Operating systems:**
+-   Docker
+-   Git
 
--   MS Windows
--   MAC OS
--   Ubuntu
-
-**Offimatics:**
-
--   MS Office
--   OpenOffice
--->
 
 **Languages:**
 
@@ -83,6 +77,13 @@ knitr::include_graphics(path = "fotojo.png")
 -   Spanish (Native)
 -   English (C1 - IELTS 7.5)
 -   Italian (Basic)
+
+<br>
+
+***
+
+**References** *available upon request*
+
 
 ## Disclaimer {#disclaimer}
 
@@ -94,27 +95,56 @@ Some code is from [wjakethompson](https://github.com/wjakethompson/cv)
 
 Build with [**pagedown**](https://github.com/rstudio/pagedown)
 
+Source code available [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown_short/amitjavila_cv.Rmd)
+
 Last updated on `r Sys.Date()`
+
 
 # Main
 
 ## Adrià Mitjavila Ventura {#title}
 
-### Bioinformatician at *Istituto Europeo di Oncologia*.
+### Bioinformatician at *Istituto Europeo di Oncologia*
 
-<p style="font-size:13px">Biotechnologist living around computers, interested in data analysis to support experimental research as well as in pure computational experiments and in software/pipeline development.</p>
+<p style="font-size:13px">Biotechnologist living around computers, interested in data analysis to support experimental research as well as in pure (bio)computational experiments and in software/pipeline development.</p>
 
-## Education {data-icon="graduation-cap" data-concise="true"}
+## Experience {data-icon="laptop"}
 
-<!--
-### PhD in Computational Biology
+### Bioinformatician
 
-Scuola Europea di Medicina Molecolare
+*Istituto Europeo di Oncologia*
 
 Milan, Italy
 
-2019<br>|<br>Present
--->
+07/2019 - Present
+
+* Analysis and integration of RNA-seq, ChIP-seq and ATAC-seq data.
+* Development of an ATAC-seq pipeline for Snakemake.
+
+### Master's thesis student & research assistant
+
+*Instituto de Biomedicina de Sevilla*
+
+Seville, Spain
+
+09/2017 - 10/2018
+
+* Analysis of MNase-seq data.
+* Performance and analysis of MNase-qPCR experiments.
+
+### Internship & Bachelor's thesis student
+
+*Microbial. Sistemes i aplicacions analítiques, S.L.*
+
+Girona, Spain
+
+09/2016 - 06/2017
+
+* qPCR of intestinal biopsies to detect/quantify bacterial genres.
+* Statistical analysis of high-throughput sequencing data to quantify bacteria species.
+
+
+## Education {data-icon="graduation-cap" data-concise="true"}
 
 ### MSc in Bioinformatics and Biostatistics
 
@@ -122,7 +152,7 @@ Universitat Oberta de Catalunya
 
 Online
 
-2018<br>|<br>Present
+2018 - Present
 
 ### MSc in Molecular Genetics and Biotechnology
 
@@ -130,7 +160,7 @@ Universidad de Sevilla
 
 Seville, Spain
 
-2017<br>|<br>2018
+2017 - 2018
 
 - Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
 
@@ -140,55 +170,12 @@ Universitat de Girona
 
 Girona, Spain
 
-2012<br>|<br>2017
+2012 - 2017
 
 - Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
 
-## Experience {data-icon="laptop"}
 
-<!--
-### PhD candidate in Computational Biology
-
-*Istituto Europeo di Oncologia*
-
-Milan, Italy
-
-10/2019 <br>|<br>Present
-
-**Epigenetics & Computational Biology**
--->
-
-### Bioinformatician
-
-*Istituto Europeo di Oncologia*
-
-Milan, Italy
-
-07/2019<br>|<br>Present
-
-**Epigenetics & Computational Biology**
-
-### Master's thesis student & research assistant
-
-*Instituto de Biomedicina de Sevilla*
-
-Seville, Spain
-
-09/2017<br>|<br>10/2018
-
-**Gene expression & Computational Biology**
-
-### Internship & Bachelor's thesis student
-
-*Microbial. Sistemes i aplicacions analítiques, S.L.*
-
-Girona, Spain
-
-09/2016<br>|<br>06/2017
-
-**Molecular Microbiology**
-
-## Publications {data-icon="book"}
+## [Publications](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 
 ### Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration
 
@@ -199,24 +186,33 @@ N/A
 2020 
 
 
+## Organizations {data-icon="handshake"}
+
+### ASBTEC - Associació de Biotecnòlegs de Catalunya
+
+Board member (2019 - Present) <br> Active member (2018 - Present)
+
+N/A 
+
+2017 - Present
+
+### SCB - Societat Catalana de Biologia
+
+N/A 
+
+N/A 
+
+2018 - Present
+
 ## Honors & Awards {data-icon="award"}
 
-<!--
-### SEMM PhD Fellowship
-
-*Scuola Europea di Medicina Molecolare* - *European School of Molecular Medicine*
-
-Milan, Italy
-
-10/2019 <br>|<br> Present
--->
-
 ### Elite Rower
+
 *Federación Española de Remo* - *Spanish Rowing Federation*
 
 N/A 
 
-2015 <br>|<br> 2021
+2015 - 2021
 
 ###  World Rowing U23 Champion
 
@@ -225,9 +221,3 @@ FISA - WorldRowing
 Rotterdam, Netherlands. 
 
 2016
-
-```{r eval=FALSE}
-## Tutorials and Workshops {data-icon="chalkboard-teacher"}
-```
-
-

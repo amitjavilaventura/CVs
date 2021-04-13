@@ -49,7 +49,7 @@ sup {
 /* Customize some of the sizing variables */
 :root {
   --sidebar-width: 13rem; /* Shrink sidebar width  */
-  --sidebar-background-color: #F7F7F7; /* Make sidebar grey */
+  --sidebar-background-color: #e6f3ff; /* Make sidebar light blue */
   --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
   --decorator-outer-dim: 10px; /* Make position deliniating circles larger */
   --decorator-border: 2px solid #009FB7; /* Make timeline a blue as well*/
@@ -94,6 +94,11 @@ sup {
   margin-left: -2px;
   margin-top: 1px;
 }
+.fa-tools {
+  margin-left: -2px;
+  margin-top: 1px;
+}
+
 
 .details li ul li {
   margin-left: 20px;

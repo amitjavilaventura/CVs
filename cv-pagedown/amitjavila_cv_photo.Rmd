@@ -50,19 +50,16 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Programming/scripting:**
 
--   R/Shiny
+-   R/Bioconductor
+-   Bash
 -   Python
-
-**Git:**
-
--   GitHub
--   GitLab
 
 **Other**
 
 -   Snakemake
 -   Conda
 -   Docker 
+-   Git
 
 **Languages:**
 
@@ -92,51 +89,6 @@ Last updated on `r Sys.Date()`
 <p style="font-size:13px">I am said to be a motivated, ambitious man. Furthermore, I can work individually as well as in a team and I believe myself capable of leading a little group of professional people.</p>
 
 <p style="font-size:13px">On the other hand, I have been an elite rower, combining my academic career with high-level training and competitions and achieving excellent results at both, Spanish and international level.</p>
-
-
-## Education {data-icon="graduation-cap" data-concise="true"}
-
-<!--
-### PhD in Computational Biology
-
-Scuola Europea di Medicina Molecolare
-
-Milan, Italy
-
-2019<br>|<br>Present
-
-- Supervisor: Dr. Diego Pasini.
--->
-
-### MSc in Bioinformatics and Biostatistics
-
-Universitat Oberta de Catalunya
-
-Online
-
-2018<br>|<br>Present
-
-### MSc in Molecular Genetics and Biotechnology
-
-Universidad de Sevilla
-
-Seville, Spain
-
-2017<br>|<br>2018
-
-- Specialization on Molecular Biology R&D  
-- Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
-
-### BSc in Biotechnology
-
-Universitat de Girona
-
-Girona, Spain
-
-2012<br>|<br>2017
-
-- Specialization in Cellular & Molecular Biotechnology.  
-- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
 
 ## Experience {data-icon="laptop"}
 
@@ -228,7 +180,60 @@ Girona, Spain
 
 Microbiological and molecular analyses of food and water samples to search for pathogens and perform food forensics.
 
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+<!--
+### PhD in Computational Biology
+
+Scuola Europea di Medicina Molecolare
+
+Milan, Italy
+
+2019<br>|<br>Present
+
+- Supervisor: Dr. Diego Pasini.
+-->
+
+### MSc in Bioinformatics and Biostatistics
+
+Universitat Oberta de Catalunya
+
+Online
+
+2018<br>|<br>Present
+
+### MSc in Molecular Genetics and Biotechnology
+
+Universidad de Sevilla
+
+Seville, Spain
+
+2017<br>|<br>2018
+
+- Specialization on Molecular Biology R&D  
+- Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
+
+### BSc in Biotechnology
+
+Universitat de Girona
+
+Girona, Spain
+
+2012<br>|<br>2017
+
+- Specialization in Cellular & Molecular Biotechnology.  
+- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
+
 ## Publications {data-icon="book"}
+
+### Full list of publications [here](https://orcid.org/0000-0002-0337-1929)
+
+N/A
+
+N/A
+
+N/A
 
 ### Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration
 
