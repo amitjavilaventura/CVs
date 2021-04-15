@@ -64,13 +64,11 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Experimental:**
 
--   DNA extraction
+-   DNA extraction...
 -   Electrophoresis
 -   Western blot
 -   MNase-digestion
 -   Bacterial/yeast culture
--   (q)PCR
-
 
 **Languages:**
 
@@ -79,11 +77,10 @@ knitr::include_graphics(path = "fotojo.png")
 -   English (C1 - IELTS 7.5)
 -   Italian (Basic)
 
-
 ## Disclaimer {#disclaimer}
 
 References available upon request<br>
-Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown_short/amitjavila_cv.Rmd)<br>
+CV build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown_short/amitjavila_cv.Rmd)<br>
 Last updated on `r Sys.Date()`
 
 
