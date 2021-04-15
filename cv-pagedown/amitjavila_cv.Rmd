@@ -71,7 +71,7 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Disclaimer {#disclaimer}
 
-Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown/amitjavila_cv_photo.Rmd) 
+Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown/amitjavila_cv.Rmd) 
 
 Last updated on `r Sys.Date()`
 

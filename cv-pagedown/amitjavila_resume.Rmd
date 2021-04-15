@@ -4,10 +4,12 @@ author: Adrià Mitjavila Ventura
 output:
   pagedown::html_resume:
     css: ['css/styles.css', 'resume']
-    # set to true to be able to see it in the navigator and print as PDF; false only to visualize in the RStudio viewer panel (faster).
+    # set to true to be able to see it in the navigator; false to visualize in the RStudio viewer
     self_contained: true
+# this will produce the pdf output directly
 knit: pagedown::chrome_print
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
@@ -18,7 +20,7 @@ knitr::opts_chunk$set(
 )
 
 library(tidyverse)
-#library(fontawesome)
+library(fontawesome)
 ```
 
 
@@ -32,10 +34,14 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Contact {#contact}
 
--   <i class="fa fa-home"></i> Girona (Spain) - Milan (Italy)
--   <i class="fa fa-at"></i> [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
--   <i class="fa fa-globe"></i> [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
--   <i class="fab fa-github"></i> [/amitjavilaventura](https://github.com/amitjavilaventura)
+-   `r fontawesome::fa(name = "home")` Girona (Spain) - Milan (Italy)
+-   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
+-   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
+-   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura)
+-   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929)
+
+
+
 
 
 ## Skills {#skills}
@@ -79,9 +85,9 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Disclaimer {#disclaimer}
 
-References available upon request<br>
-CV build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown_short/amitjavila_cv.Rmd)<br>
-Last updated on `r Sys.Date()`
+References available upon request.<br>
+Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown/amitjavila_resume.Rmd).<br>
+Last updated on `r Sys.Date()`.
 
 
 # Main
@@ -159,7 +165,7 @@ Girona, Spain
 - Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
 
 
-## [Publications](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
+## Publications {data-icon="book"}
 
 ### Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration
 
