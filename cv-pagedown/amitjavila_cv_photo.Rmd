@@ -70,11 +70,7 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Disclaimer {#disclaimer}
 
-```{r eval=FALSE}
-Made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Some code is from [wjakethompson](https://github.com/wjakethompson/cv)
-```
+Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here]() 
 
 Last updated on `r Sys.Date()`
 
@@ -86,27 +82,9 @@ Last updated on `r Sys.Date()`
 
 <p style="font-size:13px">Biotechnologist living around computers. Interested in data analysis to support experimental research as well as in pure computational experiments and in software/pipeline development.</p>
 
-<p style="font-size:13px">I am said to be a motivated, ambitious man. Furthermore, I can work individually as well as in a team and I believe myself capable of leading a little group of professional people.</p>
-
-<p style="font-size:13px">On the other hand, I have been an elite rower, combining my academic career with high-level training and competitions and achieving excellent results at both, Spanish and international level.</p>
+<p style="font-size:13px">References available upon request.</p>
 
 ## Experience {data-icon="laptop"}
-
-<!--
-### PhD student in Computational Biology
-
-*Istituto Europeo di Oncologia*
-
-Milan, Italy
-
-10/2019 <br>|<br>Present
-
-**Pasini's lab** <br>
-Analisis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Development of an ATACseq pipeline for Snakemake.
-
-- Scuola Europea di Medicina Molecolare & Università degli studi di Milano
-- SEMM PhD fellowship
--->
 
 ### Bioinformatician
 
@@ -114,7 +92,7 @@ Analisis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Development of a
 
 Milan, Italy
 
-07/2019 <br> | <br> Present
+07/2019 - Present
 
 **Pasini's lab**<br>
 Analysis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Comparison of different ATAC-seq peak callers. | Development of an ATAC-seq pipeline for Snakemake.
@@ -126,7 +104,7 @@ Analysis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Comparison of di
 
 Seville, Spain
 
-07/2018<br>|<br>10/2018
+07/2018 - 10/2018
 
 **Gene expression lab** <br> 
 Analysis of MNase-seq data from Ccr4-mutant yeast.
@@ -137,7 +115,7 @@ Analysis of MNase-seq data from Ccr4-mutant yeast.
 
 Seville, Spain
 
-09/2017<br>|<br>07/2018
+09/2017 - 07/2018
 
 **Gene expression lab**. <br> 
 Analysis of MNase-seq data from Xrn1-mutant yeast | MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis. 
@@ -151,7 +129,7 @@ Analysis of MNase-seq data from Xrn1-mutant yeast | MNase-qPCR experiments, incl
 
 Girona, Spain
 
-07/2017<br>|<br>09/2017
+07/2017 - 09/2017
 
 **Unit of Diabetes, Endocrinology and Nutrition** <br> 
 Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity.
@@ -163,12 +141,13 @@ Identification of new factors (genetic and bacterial) related to adipose tissue 
 
 Girona, Spain
 
-01/2017<br>|<br>06/2017
+01/2017 - 06/2017
 
 DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect clusters and families of bacteria | NGS data analysis to quantify bacterial genders in intestinal biopsies. 
 
 - Supervisor: Prof. Jesús García-Gil. 
 - BSc degree in Biotecnology.
+
 
 ### Internship student
 
@@ -176,24 +155,14 @@ DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect cluste
 
 Girona, Spain
 
-09/2016<br>|<br>06/2017
+09/2016 - 06/2017
 
 Microbiological and molecular analyses of food and water samples to search for pathogens and perform food forensics.
 
 
+
+
 ## Education {data-icon="graduation-cap" data-concise="true"}
-
-<!--
-### PhD in Computational Biology
-
-Scuola Europea di Medicina Molecolare
-
-Milan, Italy
-
-2019<br>|<br>Present
-
-- Supervisor: Dr. Diego Pasini.
--->
 
 ### MSc in Bioinformatics and Biostatistics
 
@@ -201,7 +170,7 @@ Universitat Oberta de Catalunya
 
 Online
 
-2018<br>|<br>Present
+2018 - Present
 
 ### MSc in Molecular Genetics and Biotechnology
 
@@ -209,7 +178,7 @@ Universidad de Sevilla
 
 Seville, Spain
 
-2017<br>|<br>2018
+2017 - 2018
 
 - Specialization on Molecular Biology R&D  
 - Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
@@ -220,14 +189,14 @@ Universitat de Girona
 
 Girona, Spain
 
-2012<br>|<br>2017
+2012 - 2017
 
 - Specialization in Cellular & Molecular Biotechnology.  
 - Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
 
 ## Publications {data-icon="book"}
 
-### Full list of publications [here](https://orcid.org/0000-0002-0337-1929)
+### Full list of publications in [my ORCID profile](https://orcid.org/0000-0002-0337-1929)
 
 N/A
 
@@ -243,68 +212,46 @@ N/A
 
 2020 
 
-## Organizations {data-icon="handshake"}
 
-### SCB
 
-Catalan Society of Biology
+```{css}
+.extra-sidebar {
+  top: 0;
+  padding-top: 0;
+}
 
-N/A
+.extra-sidebar h1 {
+  display: none;
+}
 
-2018 <br>|<br> Present
+.extra-sidebar .level2:first-of-type {
+  margin-top: 0;
+}
+```
 
-The Catalan Society of Biology ([*SCB*](https://scb.iec.cat)) it is a branch of the Institute of Catalan Studies ([*IEC*](https://www.iec.cat)) that searches to bring professionals and students of the life sciences together in order to allow the exchange of ideas and the difussion of the research to the society.
+# Second page sidebar {.aside .extra-sidebar}
 
-### ASBTEC
+## Organizations
 
-Catalan Biotechnologists Association ([*ASBTEC*](http://www.asbtec.org))
+**[ASBTEC](https://asbtec.cat)**
 
-N/A
+-   Board member (2019 - Present)
+-   Collaborator (2018 - Present)
+-   Member (2017 - Present)
 
-2017 <br>|<br> Present
+**[SCB](https://scb.cat)**
 
-The Catalan Biotechnologists Associacition ([*ASBTEC*](http://www.asbtec.org)) is a non-profit association that works to promote Biotechnology within society and wants to be the link between the academia and the industry. To do so, it is organizing several workshops and symposioums with topics that range from divulgation to academic research or entrepreneurship.
-
-- Board member (2019 - Present)  | Supervisor of the communication team and responsible of social networks.
-- Active member (2018 - Present) | Responsible of Instagram and Facebook social networks.
-
+-   Member (2018 - Present)
 
 ## Honors & Awards {data-icon="award"}
 
-<!--
-### SEMM PhD Fellowship
+**Elite sportsman**
 
-__*Scuola Europea di Medicina Molecolare*__ - **European School of Molecular Medicine**
+-   *Federación Española de Remo*
+-   2015 - 2021
 
-Milan, Italy
+**World Rowing U23 Champion**
 
-10/2019 <br>|<br> Present
-
-Fellowship to pursue their PhD program in Systems Medicine (curriculum of Computational Biology)
--->
-
-### Elite Rower
-
-__*Federación Española de Remo*__ - **Spanish Rowing Federation**
-
-N/A 
-
-2015 <br>|<br> 2021
-
-I have been granted the category of high-level athlete in Spain, first in 2015 for finishing at 6th place at the World Rowing Under-23 Championship and once more in 2016 for becoming World Rowing Under-23 Champion. See my sports curriculum [here](https://amitjavilaventura.github.io/sports_cv.html) and my *WorldRowing* athlete page [here](http://www.worldrowing.com/athletes/athlete/44383/mitjavila-adria).
-
-###  World Rowing U23 Champion
-
-**FISA - WorldRowing**
-
-Rotterdam, Netherlands. 
-
-2016
-
-1^st^ place at the World Rowing Under-23 Championship in the category of lightweigt double scull (*BLM2x*)
-
-```{r eval=FALSE}
-## Tutorials and Workshops {data-icon="chalkboard-teacher"}
-```
-
-
+-   BLM2x
+-   Rotterdam, Netherlands. 
+-   2016

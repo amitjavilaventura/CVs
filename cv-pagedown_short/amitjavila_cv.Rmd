@@ -1,5 +1,5 @@
 ---
-title: "amitjavila_cv"
+title: "Adria Mitjavila - CV"
 author: Adrià Mitjavila Ventura
 output:
   pagedown::html_resume:
@@ -21,14 +21,6 @@ library(tidyverse)
 #library(fontawesome)
 ```
 
-```{css}
-.pagedjs_page:not(:first-of-type) {
-  --sidebar-width: 0rem;
-  --sidebar-background-color: #ffffff;
-  --main-width: calc(var(--content-width) - var(--sidebar-width));
-  --decorator-horizontal-margin: 0.2in;
-}
-```
 
 # Aside
 
@@ -63,12 +55,22 @@ knitr::include_graphics(path = "fotojo.png")
 -   Python
 -   Bash
 
-**Other:**
+**Other (informatics):**
 
 -   Snakemake
 -   Conda
 -   Docker
 -   Git
+
+**Experimental:**
+
+-   DNA extraction
+-   Electrophoresis
+-   Western blot
+-   MNase-digestion
+-   Bacterial/yeast culture
+-   (q)PCR
+
 
 **Languages:**
 
@@ -77,20 +79,12 @@ knitr::include_graphics(path = "fotojo.png")
 -   English (C1 - IELTS 7.5)
 -   Italian (Basic)
 
-<br>
-
-
-
 
 ## Disclaimer {#disclaimer}
 
-Build with [**pagedown**](https://github.com/rstudio/pagedown)
-
-Source code available [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown_short/amitjavila_cv.Rmd)
-
+References available upon request<br>
+Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown_short/amitjavila_cv.Rmd)<br>
 Last updated on `r Sys.Date()`
-
-
 
 
 # Main
@@ -177,40 +171,3 @@ Begley V *et al*. RNA Biology. DOI: [10.1080/15476286.2020.1845504](https://doi.
 N/A
 
 2020 
-
-
-## Organizations {data-icon="handshake"}
-
-### ASBTEC - *Associació de Biotecnòlegs de Catalunya*
-
-Board member (2019 - Present) <br> Active member (2018 - Present)
-
-N/A 
-
-2017 - Present
-
-### SCB - *Societat Catalana de Biologia*
-
-N/A 
-
-N/A 
-
-2018 - Present
-
-## Honors & Awards {data-icon="award"}
-
-### Elite Rower
-
-*Federación Española de Remo* - Spanish Rowing Federation
-
-N/A 
-
-2015 - 2021
-
-###  World Rowing U23 Champion
-
-FISA - WorldRowing
-
-Rotterdam, Netherlands. 
-
-2016

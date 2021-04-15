@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Code+Pro|Oxygen");
 
+
 .pagedjs_page:not(:first-of-type) {
   --sidebar-width: 3rem;
   --sidebar-background-color: #ffffff;
@@ -7,7 +8,9 @@
   --decorator-horizontal-margin: 0.2in;
 }
 
+
 /* Main text is monserrat*/
+
 body {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
@@ -49,7 +52,7 @@ sup {
 /* Customize some of the sizing variables */
 :root {
   --sidebar-width: 13rem; /* Shrink sidebar width  */
-  --sidebar-background-color: #F7F7F7; /* Make sidebar grey */
+  --sidebar-background-color: #F2FCFF; /* Make sidebar light gray */
   --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
   --decorator-outer-dim: 10px; /* Make position deliniating circles larger */
   --decorator-border: 2px solid #009FB7; /* Make timeline a blue as well*/
