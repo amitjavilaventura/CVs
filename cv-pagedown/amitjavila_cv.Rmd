@@ -20,6 +20,7 @@ knitr::opts_chunk$set(
 )
 
 library(tidyverse)
+library(fontawesome)
 ```
 
 # Aside
@@ -32,11 +33,11 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Contact {#contact}
 
--   <i class="fa fa-home"></i> Girona (Spain) - Milan (Italy)
--   <i class="fa fa-envelope"></i> [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
--   <i class="fa fa-link"></i> [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
--   <i class="fa fa-github"></i> [/amitjavilaventura](https://github.com/amitjavilaventura)
--   <i class="fa fa-gitlab"></i> [/amitjavilaventura](https://gitlab.com/amitjavilaventura)
+-   `r fontawesome::fa(name = "home")` Girona (Spain) - Milan (Italy)
+-   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
+-   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
+-   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura)
+-   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929)
 
 ## Skills {#skills}
 
@@ -197,14 +198,6 @@ Girona, Spain
 
 ## Publications {data-icon="book"}
 
-### Full list of publications in [my ORCID profile](https://orcid.org/0000-0002-0337-1929)
-
-N/A
-
-N/A
-
-N/A
-
 ### Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration
 
 Begley V *et al*. RNA Biology. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
@@ -265,6 +258,7 @@ N/A
 -   Data manipulation with `dplyr`
 -   Data visualization with `ggplot2` (I)
 -   Introduction to the Tidyverse
+-   Reshaping data with `tidyr`
 -   Writing efficient R code
 -   Machine learning for everyone
 

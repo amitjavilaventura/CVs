@@ -49,6 +49,14 @@ sup {
   --pagedjs-margin-left: 0.3in;
 }
 
+* {
+  /* Override default right margin for sidebar*/
+  --pagedjs-margin-right: 0.3in;
+  --pagedjs-margin-left: 0.3in;
+  --pagedjs-margin-top: 0.7in;
+  --pagedjs-margin-bottom: 0.6in;
+}
+
 /* Customize some of the sizing variables */
 :root {
   --sidebar-width: 13rem; /* Shrink sidebar width  */
@@ -154,7 +162,15 @@ sup {
   margin-top: 0.3in;
 }
 
+[data-id="disclaimer"] {
+  margin-bottom: -0.9in;
+}
+
 [data-id="disclaimer"] p {
   margin-block-start: 0.15em;
   margin-block-end: 0.15em;
+}
+
+[data-id="title"] {
+  margin: .1in .5in .1in -0.5in;
 }
