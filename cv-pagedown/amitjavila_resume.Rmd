@@ -39,8 +39,7 @@ knitr::include_graphics(path = "fotojo.png")
 -   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
 -   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura)
 -   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929)
-
-
+-   `r fontawesome::fa(name = "blog")` [BioBit](https://biobit.netlify.app)
 
 
 
@@ -102,35 +101,35 @@ Last updated on `r Sys.Date()`.
 
 ### Bioinformatician
 
-*Istituto Europeo di Oncologia*
+*[Istituto Europeo di Oncologia](https://www.research.ieo.it/)*, **[Pasini's lab](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/)**
 
 Milan, Italy
 
 07/2019 - Present
 
 * Analysis and integration of RNA-seq, ChIP-seq and ATAC-seq data.
-* Development of an ATAC-seq pipeline for Snakemake.
+* Development of a Snakemake pipeline for ATAC-seq.
 
 ### Master's thesis student & Research assistant
 
-*Instituto de Biomedicina de Sevilla*
+*[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*, **[Gene expression lab](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx)**
 
 Seville, Spain
 
 09/2017 - 10/2018
 
-* Analysis of MNase-seq data.
+* Analysis of MNase-seq data. 
 * Performance and analysis of MNase-qPCR experiments.
 
 ### Internship & Bachelor's thesis student
 
-*Microbial. Sistemes i aplicacions analítiques, S.L.*
+*[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/)*
 
 Girona, Spain
 
 09/2016 - 06/2017
 
-* qPCR of intestinal biopsies to detect/quantify bacterial genres.
+* qPCR of intestinal biopsies to detect/quantify bacterial genres. 
 * Statistical analysis of high-throughput sequencing data to quantify bacteria species.
 
 
@@ -164,13 +163,12 @@ Girona, Spain
 
 - Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
 
-
 ## Publications {data-icon="book"}
 
-### Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration
+### <span style="font-size:12px"> Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration</span>
 
 Begley V *et al*. RNA Biology. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
 
 N/A
 
-2020 
+2020

@@ -38,6 +38,7 @@ knitr::include_graphics(path = "fotojo.png")
 -   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
 -   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura)
 -   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929)
+-   `r fontawesome::fa(name = "blog")` [BioBit](https://biobit.netlify.app)
 
 ## Skills {#skills}
 
@@ -62,6 +63,14 @@ knitr::include_graphics(path = "fotojo.png")
 -   Conda
 -   Docker 
 -   Git
+
+**Experimental:**
+
+-   DNA extraction...
+-   Electrophoresis
+-   Western blot
+-   MNase-digestion
+-   Bacterial/yeast culture
 
 **Languages:**
 
@@ -90,56 +99,56 @@ Last updated on `r Sys.Date()`
 
 ### Bioinformatician
 
-*Istituto Europeo di Oncologia*
+*[Istituto Europeo di Oncologia](https://www.research.ieo.it/)*
 
 Milan, Italy
 
 07/2019 - Present
 
-**Pasini's lab**<br>
+[**Pasini's lab**](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/)<br>
 Analysis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Comparison of different ATAC-seq peak callers. | Development of an ATAC-seq pipeline for Snakemake.
 
 
 ### Research Assistant
 
-*Instituto de Biomedicina de Sevilla*
+*[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*
 
 Seville, Spain
 
 07/2018 - 10/2018
 
-**Gene expression lab** <br> 
+[**Gene expression lab**](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx) <br> 
 Analysis of MNase-seq data from Ccr4-mutant yeast.
 
 ### Master's thesis student
 
-*Instituto de Biomedicina de Sevilla*
+*[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*
 
 Seville, Spain
 
 09/2017 - 07/2018
 
-**Gene expression lab**. <br> 
+[**Gene expression lab**](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx) <br> 
 Analysis of MNase-seq data from Xrn1-mutant yeast | MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis. 
 
 - Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo.
 - MSc degree in Molecular Genetics and Biotechnology.
 
-### Research internship student
+### Internship student
 
-*Institut d'Investigació Biomèdica de Girona*
+*[Institut d'Investigació Biomèdica de Girona](https://idibgi.org/)*
 
 Girona, Spain
 
 07/2017 - 09/2017
 
-**Unit of Diabetes, Endocrinology and Nutrition** <br> 
+[**Unit of Diabetes, Endocrinology and Nutrition**](https://idibgi.org/grups/nes-nutricio-eumetabolisme-i-salut/) <br> 
 Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity.
 
 
 ### Bachelor's thesis student
 
-*Microbial. Sistemes i aplicacions analítiques, S.L.*
+*[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/)*
 
 Girona, Spain
 
@@ -153,7 +162,7 @@ DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect cluste
 
 ### Internship student
 
-*Microbial. Sistemes i aplicacions analítiques, S.L.*
+*[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/)*
 
 Girona, Spain
 
@@ -166,7 +175,7 @@ Microbiological and molecular analyses of food and water samples to search for p
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
-### MSc in Bioinformatics and Biostatistics
+### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion)
 
 Universitat Oberta de Catalunya
 
@@ -174,7 +183,7 @@ Online
 
 2018 - Present
 
-### MSc in Molecular Genetics and Biotechnology
+### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/)
 
 Universidad de Sevilla
 
@@ -185,7 +194,7 @@ Seville, Spain
 - Specialization on Molecular Biology R&D  
 - Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
 
-### BSc in Biotechnology
+### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
 
 Universitat de Girona
 
@@ -209,6 +218,7 @@ N/A
 
 
 ```{css}
+/* things for extra sidebar */
 .extra-sidebar {
   top: 0;
   padding-top: 0;
@@ -233,34 +243,29 @@ N/A
 
 **[DPomics](https://github.com/amitjavilaventura/DPomics) (*ongoing*):**
 
--   Omics visualization.
+-   Shiny app for omics visualization.
 
 **[DNAme](https://github.com/amitjavilaventura/DNAme):**
 
--   Convert your name to a DNA sequence.
+-   Shiny app to convert your name to a DNA sequence.
 
 **[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake) (*ongoing*):**
 
--   Pipeline for ATAC-seq data.
+-   Snakemake pipeline for ATAC-seq data.
 
 ## Additional education
 
-**IELTS Academic Exam:**
+**IELTS Academic Exam**
 
--   Overall grade: 7.5
-
-**DataCamp courses:**
+**DataCamp:**
 
 -   Introduction to Git
 -   Introduction to Bash scripting
--   Introduction to Python
 -   Intermediate Python
--   Data manipulation with `dplyr`
--   Data visualization with `ggplot2` (I)
--   Introduction to the Tidyverse
--   Reshaping data with `tidyr`
--   Writing efficient R code
--   Machine learning for everyone
+-   [Data visualization with R](https://learn.datacamp.com/skill-tracks/data-visualization-with-r) (*ongoing*)
+-   [Tidyverse fundamentals](https://learn.datacamp.com/skill-tracks/tidyverse-fundamentals) (*ongoing*)
+-   [Machine learning fundamentals in R](https://learn.datacamp.com/skill-tracks/machine-learning-fundamentals) (*ongoing*)
+-   [Analyzing genomic data in R](https://learn.datacamp.com/skill-tracks/analyzing-genomic-data-in-r) (*ongoing*)
 
 ## Organizations
 
