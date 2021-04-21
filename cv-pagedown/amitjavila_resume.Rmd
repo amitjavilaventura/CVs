@@ -70,6 +70,7 @@ knitr::include_graphics(path = "fotojo.png")
 **Experimental:**
 
 -   DNA extraction...
+-   (q)PCR
 -   Electrophoresis
 -   Western blot
 -   MNase-digestion
@@ -135,7 +136,7 @@ Girona, Spain
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
-### MSc in Bioinformatics and Biostatistics
+### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion)
 
 Universitat Oberta de Catalunya
 
@@ -143,7 +144,7 @@ Online
 
 2018 - Present
 
-### MSc in Molecular Genetics and Biotechnology
+### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/)
 
 Universidad de Sevilla
 
@@ -153,7 +154,7 @@ Seville, Spain
 
 - Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
 
-### BSc in Biotechnology
+### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
 
 Universitat de Girona
 

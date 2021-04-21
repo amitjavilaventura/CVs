@@ -67,6 +67,7 @@ knitr::include_graphics(path = "fotojo.png")
 **Experimental:**
 
 -   DNA extraction...
+-   (q)PCR
 -   Electrophoresis
 -   Western blot
 -   MNase-digestion
