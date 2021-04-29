@@ -39,49 +39,41 @@ knitr::include_graphics(path = "fotojo.png")
 -   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
 -   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura)
 -   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929)
--   `r fontawesome::fa(name = "paperclip")` [Web CV](https://amitjavilaventura.github.io/CVs/cv_pdf_long.html)
 -   `r fontawesome::fa(name = "blog")` [biobit.netlify.app](https://biobit.netlify.app)
 
 
 ## Skills {#skills}
 
-
 **Omics data analysis:**
 
--   Microarray
--   RNA-seq
--   ChIP-seq
--   ATAC-seq
--   MNase-seq
+-   Microarray, RNA-/ChIP-/ATAC-/MNase-seq
 
 **Programming/scripting:**
 
--   R/Bioconductor
--   Python
--   Bash
+-   R/Bioconductor, Python, Bash
 
 **Other (informatics):**
 
--   Snakemake
--   Conda
--   Docker
--   Git
+-   Snakemake, Conda, Docker, Git
 
 **Experimental:**
 
--   DNA extraction...
--   (q)PCR
--   Electrophoresis
--   Western blot
--   MNase-digestion
--   Bacterial/yeast culture
+-   (RT-)(q)PCR, primer design, electrophoresis, WB, MNase-digestion, bacterial culture
 
 **Languages:**
 
--   Catalan (Native)
--   Spanish (Native)
--   English (C1 - IELTS 7.5)
--   Italian (Basic)
+-   Catalan (Native), Spanish (Native), English (C1 - IELTS 7.5), Italian (Basic)
+
+## Development
+
+**[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/)**
+
+**[DPomics](https://github.com/amitjavilaventura/DPomics)** (*ongoing*)
+
+**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*)
+
+More on [my GitHub profile](https://github.com/amitjavilaventura)
+
 
 ## Disclaimer {#disclaimer}
 

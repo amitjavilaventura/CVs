@@ -262,11 +262,12 @@ N/A
 
 -   Introduction to Git
 -   Introduction to Bash scripting
--   Intermediate Python
--   [Data visualization with R](https://learn.datacamp.com/skill-tracks/data-visualization-with-r) (*ongoing*)
--   [Tidyverse fundamentals](https://learn.datacamp.com/skill-tracks/tidyverse-fundamentals) (*ongoing*)
--   [Machine learning fundamentals in R](https://learn.datacamp.com/skill-tracks/machine-learning-fundamentals) (*ongoing*)
--   [Analyzing genomic data in R](https://learn.datacamp.com/skill-tracks/analyzing-genomic-data-in-r) (*ongoing*)
+-   [Track: Data visualization with R](https://learn.datacamp.com/skill-tracks/data-visualization-with-r) (*ongoing*)
+-   [Track: Tidyverse fundamentals](https://learn.datacamp.com/skill-tracks/tidyverse-fundamentals)
+-   [Track: Machine learning fundamentals in R](https://learn.datacamp.com/skill-tracks/machine-learning-fundamentals) (*ongoing*)
+-   [Track: Analyzing genomic data in R](https://learn.datacamp.com/skill-tracks/analyzing-genomic-data-in-r) (*ongoing*)
+-   [Track: Python Fundamentals](https://learn.datacamp.com/skill-tracks/python-fundamentals) (*ongoing*)
+
 
 ## Organizations
 
