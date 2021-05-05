@@ -33,11 +33,12 @@ updated: yes
 \vspace{3mm}
 
 \small 
-\emph{Biotechnologist living around computers, pursuing a PhD in Computational Biology and interested in data analysis to support experimental research as well as in pure computational experiments and in software/pipeline development.}
+\emph{Biotechnologist living around computers, interested in data analysis to support experimental research as well as in pure computational experiments and in software/pipeline development.}
 
 \normalsize
 
 \vspace{2mm}
+
 # Education \hrulefill
 
 <!--
