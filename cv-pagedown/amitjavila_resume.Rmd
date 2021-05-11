@@ -36,10 +36,10 @@ knitr::include_graphics(path = "fotojo.png")
 
 -   `r fontawesome::fa(name = "home")` Girona (Spain) - Milan (Italy)
 -   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
--   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
--   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura)
--   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929)
--   `r fontawesome::fa(name = "blog")` [biobit.netlify.app](https://biobit.netlify.app)
+-   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io){target="_blank"}
+-   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura){target="_blank"}
+-   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929){target="_blank"}
+-   `r fontawesome::fa(name = "blog")` [biobit.netlify.app](https://biobit.netlify.app){target="_blank"}
 
 
 ## Skills {#skills}
@@ -54,7 +54,7 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Other (informatics):**
 
--   Snakemake, Conda, Docker, Git
+-   R Markdown, Snakemake, Conda, Docker, Git
 
 **Experimental:**
 
@@ -92,9 +92,9 @@ Last updated on `r Sys.Date()`.
 
 ## Experience {data-icon="laptop"}
 
-### Bioinformatician
+### [Bioinformatician](https://amitjavilaventura.github.io/research/003-ieo/){target="_blank"}
 
-*[Istituto Europeo di Oncologia](https://www.research.ieo.it/)*, **[Pasini's lab](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/)**
+*[Istituto Europeo di Oncologia](https://www.research.ieo.it/){target="_blank"}*, **[Pasini's lab](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/){target="_blank"}**
 
 Milan, Italy
 
@@ -103,9 +103,9 @@ Milan, Italy
 * Analysis and integration of RNA-seq, ChIP-seq and ATAC-seq data.
 * Development of a Snakemake pipeline for ATAC-seq.
 
-### Master's thesis student & Research assistant
+### [Master's thesis student & Research assistant](https://amitjavilaventura.github.io/research/002-ibis/){target="_blank"}
 
-*[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*, **[Gene expression lab](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx)**
+*[Instituto de Biomedicina de Sevilla](ibis-sevilla.es){target="_blank"}*, **[Gene expression lab](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx){target="_blank"}**
 
 Seville, Spain
 
@@ -114,9 +114,9 @@ Seville, Spain
 * Analysis of MNase-seq data. 
 * Performance and analysis of MNase-qPCR experiments.
 
-### Internship & Bachelor's thesis student
+### [Internship & Bachelor's thesis student](https://amitjavilaventura.github.io/research/001-microbial/){target="_blank"}
 
-*[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/)*
+*[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/){target="_blank"}*
 
 Girona, Spain
 
@@ -128,7 +128,7 @@ Girona, Spain
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
-### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion)
+### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion){target="_blank"}
 
 Universitat Oberta de Catalunya
 
@@ -136,7 +136,7 @@ Online
 
 2018 - Present
 
-### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/)
+### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/){target="_blank"}
 
 Universidad de Sevilla
 
@@ -146,7 +146,7 @@ Seville, Spain
 
 - Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
 
-### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
+### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215){target="_blank"}
 
 Universitat de Girona
 
@@ -160,7 +160,7 @@ Girona, Spain
 
 ### <span style="font-size:12px"> Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration</span>
 
-Begley V *et al*. RNA Biology. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
+Begley V *et al*. RNA Biology. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"}.
 
 N/A
 
