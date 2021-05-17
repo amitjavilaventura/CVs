@@ -1,308 +1,265 @@
 ---
-title: "Adrià Mitjavila Ventura"
-pagetitle: Adrià Mitjavila Ventura
-output: 
-  html_document:
-    toc: yes
-    toc_float: yes
-    toc_depth: 3
+title: "amitjavila_cv"
+author: Adrià Mitjavila Ventura
+output:
+  pagedown::html_resume:
+    css: ['css/styles.css', 'resume']
+    # set to true to be able to see it in the navigator and print as PDF; false only to visualize in the RStudio viewer panel (faster).
+    self_contained: true
+knit: pagedown::chrome_print
 ---
 
+<style> p{ text-align: justify } </style>
+
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE,
-                      message = FALSE,
-                      error = FALSE,
-                      warning = FALSE)
+knitr::opts_chunk$set(
+  results = "asis", 
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE
+)
 
+library(tidyverse)
 library(fontawesome)
-fa(name = "user")
 ```
 
-### `r fa(name = "user")` &nbsp; Bioinformatician at the [*Istituto Europeo di Oncologia*](https://www.research.ieo.it/adri%C3%A0-mitjavila-ventura/)
+# Aside
 
-```{r image_me, eval = T}
-htmltools::img(src = "fotojo.png", 
-               alt = 'foto_carnet', 
-               style = 'float; position:absolute; top:1; right:0; padding-top:10px; padding-bottom:35px; padding-right:200px; height:200px')
+<center>
+```{r logo, warning = FALSE, message = FALSE, error = FALSE, out.width="75%", eval=TRUE, fig.align="center"}
+knitr::include_graphics(path = "fotojo.png")
+```
+</center>
+
+## Contact {#contact}
+
+-   `r fontawesome::fa(name = "home")` Girona (Spain) - Milan (Italy)
+-   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
+-   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
+-   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura)
+-   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929)
+-   `r fontawesome::fa(name = "blog")` [BioBit](https://biobit.netlify.app)
+-   `r fontawesome::fa(name = "file")` [1-page resumee](amitjavila_resume.pdf){ target="_blank"}
+
+## Skills {#skills}
+
+
+**Omics data analysis:**
+
+-   Microarray, RNA-seq, ChIP-seq, ATAC-seq, MNase-seq
+
+**Programming/scripting:**
+
+-   R/Bioconductor, Bash, Python
+
+**Other:**
+
+-   Snakemake, Conda, Docker , Git
+
+**Experimental:**
+
+-   (q)PCR, electrophoresis, molecular cloning, Western blot, MNase-digestion, bacterial/yeast culture
+
+**Languages:**
+
+-   Catalan (Native), Spanish (Native), English (IELTS 7.5 - C1), Italian (Basic)
+
+## Disclaimer {#disclaimer}
+
+Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown/amitjavila_cv.Rmd) 
+
+Last updated on `r Sys.Date()`
+
+# Main
+
+## Adrià Mitjavila Ventura {#title}
+
+### Bioinformatician at *Istituto Europeo di Oncologia*
+
+<p style="font-size:13px">Biotechnologist living around computers. Interested in data analysis to support experimental research as well as in pure computational experiments and in software/pipeline development.</p>
+
+<p style="font-size:13px">References available upon request.</p>
+
+## Experience {data-icon="laptop"}
+
+### Bioinformatician
+
+*[Istituto Europeo di Oncologia](https://www.research.ieo.it/)*
+
+Milan, Italy
+
+07/2019 - Present
+
+[**Pasini's lab**](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/)<br>
+Analysis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Comparison of different ATAC-seq peak callers. | Development of an ATAC-seq pipeline for Snakemake.
+
+
+### Research Assistant
+
+*[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*
+
+Seville, Spain
+
+07/2018 - 10/2018
+
+[**Gene expression lab**](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx) <br> 
+Analysis of MNase-seq data from Ccr4-mutant yeast.
+
+### Master's thesis student
+
+*[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*
+
+Seville, Spain
+
+09/2017 - 07/2018
+
+[**Gene expression lab**](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx) <br> 
+Analysis of MNase-seq data from Xrn1-mutant yeast | MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis. 
+
+- Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo.
+- MSc degree in Molecular Genetics and Biotechnology.
+
+### Internship student
+
+*[Institut d'Investigació Biomèdica de Girona](https://idibgi.org/)*
+
+Girona, Spain
+
+07/2017 - 09/2017
+
+[**Unit of Diabetes, Endocrinology and Nutrition**](https://idibgi.org/grups/nes-nutricio-eumetabolisme-i-salut/) <br> 
+Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity.
+
+
+### Bachelor's thesis student
+
+*[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/)*
+
+Girona, Spain
+
+01/2017 - 06/2017
+
+DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect clusters and families of bacteria | NGS data analysis to quantify bacterial genders in intestinal biopsies. 
+
+- Supervisor: Prof. Jesús García-Gil. 
+- BSc degree in Biotecnology.
+
+
+### Internship student
+
+*[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/)*
+
+Girona, Spain
+
+09/2016 - 06/2017
+
+Microbiological and molecular analyses of food and water samples to search for pathogens and perform food forensics.
+
+
+
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion)
+
+Universitat Oberta de Catalunya
+
+Online
+
+2018 - Present
+
+### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/)
+
+Universidad de Sevilla
+
+Seville, Spain
+
+2017 - 2018
+
+- Specialization on Molecular Biology R&D  
+- Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
+
+### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
+
+Universitat de Girona
+
+Girona, Spain
+
+2012 - 2017
+
+- Specialization in Cellular & Molecular Biotechnology.  
+- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
+
+## Publications {data-icon="book"}
+
+### Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration
+
+Begley V *et al*. RNA Biology. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
+
+N/A
+
+2020 
+
+
+
+```{css}
+/* things for extra sidebar */
+.extra-sidebar {
+  top: 0;
+  padding-top: 0;
+}
+
+.extra-sidebar h1 {
+  display: none;
+}
+
+.extra-sidebar .level2:first-of-type {
+  margin-top: 0;
+}
 ```
 
-***
+# Aside2 {.aside .extra-sidebar}
 
-<p> `r fa(name = "home")` &nbsp; <b>Girona (Spain) - Milan (Italy)</b> </p>
+## Development
 
-<p> `r fa(name = "building")` &nbsp; <b>Istituto Europeo di Oncologia</b> </p>
+**[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):**
 
-<p> `r fa(name = "at")` &nbsp; <b>adria.mitjavila94 @ gmail.com</b> </p>
+-   Visualize outputs from ChromHMM in R.
 
+**[DPomics](https://github.com/amitjavilaventura/DPomics) (*ongoing*):**
 
-<a href="https://amitjavilaventura.github.io/">`r fa(name = "globe")`</a> &nbsp;
-<a href="https://github.com/amitjavilaventura">`r fa(name = "github")`</a> &nbsp;
-<a href="https://gitlab.com/amitjavilaventura">`r fa(name = "gitlab")`</a> &nbsp; 
-<a href="https://www.linkedin.com/in/adria-mitjavila-ventura/">`r fa(name = "linkedin")`</a> &nbsp; 
-<a href="https://orcid.org/0000-0002-0337-1929"> **ORCID** </a> &nbsp;
+-   Shiny app for omics visualization.
 
-***
+**[DNAme](https://github.com/amitjavilaventura/DNAme):**
 
-Former biotechnologist who is living between computers. My interests are mostly related to omics data analysis related to Epigenetics research. 
+-   Shiny app to convert your name to a DNA sequence.
 
-I am said to be a motivated, ambitious man. Furthermore, I can work individually as well as in a team and I believe myself capable of leading a little group of professional people.
+**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake) (*ongoing*):**
 
-***
+-   Snakemake pipeline for ATAC-seq data.
 
-# Academic education{.tabset}
 
-<!--
-## PhD in Computational Biology
-* 2019 - Present
-* __*Università degli Studi di Milano (UNIMI)*__ and __*Scuola Europea di Medicina Molecolare (SEMM)*__ (Milan, Italy). 
-* [SEMM website](https://www.semm.it/)
+## Organizations
 
-<br>
--->
+**[ASBTEC](https://asbtec.cat):**
 
-## MSc in Bioinformatics and Biostatistics
-* 2018 - Present
-* __*Universitat Oberta de Catalunya (UOC)*__ and __*Universitat de Barcelona (UB)*__ (On-line).
-* Master's degree focussed on the study and use of statistics and informatics for the management, analysis and interpretetion of biological and medical data.
-* [Master's website (*in Spanish*)](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion)
+-   Board member (2019 - Present)
+-   Collaborator (2018 - Present)
+-   Member (2017 - Present)
 
-<br>
+**[SCB](https://scb.cat):**
 
-## MSc in Molecular Genetics and Biotechnology
-* 2017 - 2018
-* __*Universidad de Sevilla (US)*__ (Seville, Spain).
-* Master's degree focussed on the study of the molecular processes of living organisms, the gene expression, signal transduction and epigenetics. Specialization in R&D in Molecular Biology.
-* Grade: 9.33/10.
-* Master's thesis: “Influence of Xrn1 in nucleosome positioning across *Saccharomyces cerevisiae* genome and its effects in transcription”. Grade: 9.2/10.
-* [Master's website (*in Spanish*)](https://masteroficial.us.es/gmb/)
+-   Member (2018 - Present)
 
-<br>
+## Honors & Awards {data-icon="award"}
 
-## BSc in Biotechnology
-* 2012 - 2017
-* __*Universitat de Girona (UdG)*__ (Girona, Spain).
-* Bachelor's degree focussed on the bases of Biology and Biotechnology. Specialization in Cellular & Molecular Biotechnology.
-* Grade: 8.12/10
-* Bachelor's thesis: “Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy”. Grade: 9.4/10.
-* [Bachelor's website](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
+**Elite sportsman:**
 
-<br>
+-   *Federación Española de Remo*
+-   2015 - 2021
 
-# Professional experience {.tabset}
+**World Rowing U23 Champion:**
 
-<!--
-## PhD candidate in Computational Biology
-* 10/2019 - Present
-* __*Instituto Europeo di Oncologia (IEO)*__ and __*Scuola Europea di Medicina Molecolare (SEMM)*__ (Milan, Italy).
-* Department of Experimental Oncology, group of Epigenetic Mechanisms in Stem Cell Differentiation and Cancer (PI: Dr. Diego Pasini).
-* Supervisor: Dr. Diego Pasini.
-
-<br>
--->
-
-## Bioinformatician
-* 07/2019 - Present
-* __*Instituto Europeo di Oncologia (IEO)*__ (Milan, Italy).
-* Department of Experimental Oncology, group of Epigenetic Mechanisms in Stem Cell Differentiation and Cancer (PI: Dr. Diego Pasini).
-
-<br>
-
-## Research assistant
-* 07/2018 - 10/2018
-* __*Insituto de Biomedicina de Sevilla (IBiS)*__ (Seville, Spain).
-* Department of Genetics, group of Gene Expression (PI: Dr. Sebastián Chávez de Diego). 
-* Bioinformatic analyses of MNase-seq data from wild-type and Ccr4-KO yeast strains to study the effect of Ccr4 in nucleosome positioning.
-
-<br>
-
-## Master thesis student
-* 09/2017 - 06/2018. 
-* __*Insituto de Biomedicina de Sevilla (IBiS)*__ and __*Universidad de Sevilla (US)*__ (Seville, Spain).
-* Department of Genetics, group of Gene Expression (PI: Dr. Sebastián Chávez de Diego). 
-* Project in the context of the MSc degree in Molecular Genetics and Biotechnology from the __*Universidad de Sevilla (US)*__.
-* Thesis title: “Influence of Xrn1 in nucleosome positioning across *Saccharomyces cerevisiae* genome and its effects in transcription”.
-* Bioinformatic analyses of MNase-seq data from wild-type and Xrn1-KO yeast strains to study the effect of Xrn1 in nucleosome positioning. MNase-qPCR analyses in a Xrn1 conditional mutant with two selected genes.
-* Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo.
-* Grade: 9.2/10.
-
-<br>
-
-## Research internship
-* 07/2017 - 09/2017
-* __*Institut d'Investigació Biomèdica de Girona (IdIBGi)*__ (Girona, Spain)
-* Department of Inflammation and Metabolism, group of Diabetes, Endocrinology and Nutrition (PI: Dr. José Manuel Fernández-Real).
-* Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity.
-
-<br>
-
-## Bachelor thesis student
-* 01/2017 - 06/2017
-* __*Microbial. Sistemes i aplicacions analítiques, S.L.*__ and __*Universitat de Girona (UdG)*__ (Girona, Spain)
-* Thesis in the context of the BSc degree in Biotechnology from the __*Universitat de Girona (UdG)*__
-* Thesis title: “Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy”. 
-* DNA extraction of intestinal mucosa biopsies to analyse the microbiota before and after different treatments using qPCR and NGS.
-* Supervisor: Dr. Jesus Garcia Gil.
-* Grade: 9.4/10.
-
-<br>
-
-## Professional internship
-* 09/2016 - 01/2017
-* __*Microbial. Sistemes i aplicacions analítiques, S.L.*__ (Girona, Spain)
-* Microbiological and molecular analyses of food and water samples to search for pathogens and perform food forensics.
-
-<br>
-
-# Skills {.tabset}
-
-## Informatics/Offimatics
-
-Language    | Package/environment management    | Workflow management | Code repositories                              | Operating systems  | Offimatics    |
-:---------: | :----------------------------:    | :-----------------: | :---------------:                              | :----------------: | :-----------: |
-R           | Conda                             | Snakemake           | [GitHub](https://github.com/amitjavilaventura) | Windows            | MS Office     |         
-Python      |                                   |                     | [GitLab](https://gitlab.com/amitjavilaventura) | Linux (Ubuntu)     | OpenOffice    |
-Bash        |                                   |                     |                                                | MAC                |               |
-Markdown    |                                   |                     |                                                |                    |               |
-            |                                   |                     |                                                |                    |               |
-
-<br>
- 
-## Bioinformatics
-
-Omics analyses   | Browsers            | DBs       | Other   | 
-:-------------:  | :---------------:   | :-------: | :----:  |
-Microarray       | UCSC Genome Browser | TCGA      | Galaxy  |
-RNA-seq          | IGV                 | ENCODE    |         |
-ChIP-seq         | VISTA               |           |         |
-ATAC-seq         |                     |           |         |
-MNase-seq        |                     |           |         |
-                 |                     |           |         |
-
-<br>
-
-## Experimental techniques
-
-Culture           | Nucleic acid    | Proteins     | Separation/Detection                |
-:-----:           | :----------:    | :------:     | :--------:                          |
-Bacterial culture | Extraction      | Extraction   | Electrophoresis (agarose, SDS-PAGE) |
-Yeast culture     | Purification    | Purification | Western Blot                        |
-Cell culture      | (RT-)(q)PCR     |              |                                     | 
-                  | Clonning        |              |                                     | 
-                  | MNAse digestion |              |                                     | 
-                  |                 |              |                                     | 
-
-<br>
-
-## Languages
-
-Language   | Level                     | Language   | Level        |
-:--------: | :-----:                   | :--------: | :-----:      |
-Catalan    | Native                    | Italian    | Intermediate |
-Spanish    | Native                    |            |              |
-English    | Advanced (IELTS 7.5 - C1) |            |              |
-           |                           |            |              |
-           
-<br>
-
-# Publications
-
-My full list of publications can be consulted [here](https://amitjavilaventura.github.io/publications/).
-
-## Journal Articles {.tabset}
-
-### Begley *et al* (2020)
-
-Begley V *et al* (2020). **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration***RNA Biology*. [doi: 10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
-
-<br>
-
-# Additional education {.tabset}
-
-## IELTS Academic Exam
-* __British Council__
-* Overall grade: 7.5
-  + Listening: 7.0
-  + Reading: 8.0
-  + Speaking: 7.0
-  + Writing: 7.5
-* 08/2019
-
-<br>
-
-## DataCamp
-
-Courses:
-
-* Theory:
-  + Machine learning for everyone
-
-* Git:
-  + Introduction to Git
-  
-* Shell/Bash:
-  + Introduction to Bash Scripting
-  + Introduction to Shell
-  
-* Python:
-  + Introduction to Python
-  + Intermediate Python
-  
-* R:
-  + Intermediate R: practice
-  + Data maniplation with `dplyr`
-  + Data visualization with `ggplot2` (part 1)
-  + Writing efficient R code
-
-<br>
-
-# Organizations {.tabset}
-
-## SCB
-__*Societat Catalana de Biologia*__ - **Catalan Society of Biology**
-
-* The Catalan Society of Biology ([*SCB*](https://scb.iec.cat)) it is a branch of the Institute of Catalan Studies ([*IEC*](https://www.iec.cat)) that searches to bring professionals and students of the life sciences together in order to allow the exchange of ideas and the difussion of the research to the society.
-* Member since 2017.
-
-<br>
-
-## ASBTEC
-__*Associació de Biotecnòlegs de Catalunya*__ - **Catalan Biotechnologists Association**
-
-* The Catalan Biotechnologists Associacition ([*ASBTEC*](http://www.asbtec.org)) is a non-profit association that works to promote Biotechnology within society and wants to be the link between the academia and the industry. To do so, it is organizing several workshops and symposioums with topics that range from divulgation to academic research or entrepreneurship. 
-* Member since 2017.
-* Active member since 2018.
-* Board member since 2019.
-
-<br>
-
-# Other honours and awards {.tabset}
-
-<!--
-## SEMM PhD Fellowship
-* __*Scuola Europea di Medicina Molecolare*__ - **European School of Molecular Medicine**
-* Fellowship to pursue their PhD program in Systems Medicine (curriculum of Computational Biology)
-* 10/2019 - Present
-
-<br>
--->
-
-## Elite Rower
-* __*Federación Española de Remo*__ - **Spanish Rowing Federation**
-* I have been granted the category of high-level athlete in Spain, first in 2015 for finishing at 6th place at the World Rowing Under-23 Championship and once more in 2016 for becoming World Rowing Under-23 Champion. See my sports curriculum [here](https://amitjavilaventura.github.io/sports_cv.html) and my WorldRowing athlete page [here](http://www.worldrowing.com/athletes/athlete/44383/mitjavila-adria).
-* 2015-2021
-
-<br>
-
-## World Rowing U23 Champion
-* **FISA - WorldRowing**
-* 1st place at the World Rowing Under-23 Championship in the category of lightweigt double scull (*BLM2x*)
-* Rotterdam, Netherlands. 2016
-
-<br>
-
-
-
-
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+-   BLM2x
+-   Rotterdam, Netherlands. 
+-   2016

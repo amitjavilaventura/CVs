@@ -115,6 +115,10 @@ sup {
     line-height: 1;
 }
 
+[data-id="skills"] {
+  margin-bottom: -0.9in;
+}
+
 /* When we have links at bottom in a list make sure they actually are numbered */
 #links li {
   list-style-type: decimal;
@@ -165,6 +169,7 @@ sup {
 [data-id="disclaimer"] {
   margin-bottom: -0.9in;
 }
+
 
 [data-id="disclaimer"] p {
   margin-block-start: 0.15em;

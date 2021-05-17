@@ -1,0 +1,15 @@
+---
+title: "CV - Long version"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
+```
+
+<br><br><br>
+
+```{r out.width="100%", out.height="1000px"}
+knitr::include_graphics("amitjavila_cv.pdf")
+```
+
+*Build with `pagedown`*

@@ -1,0 +1,909 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Adrià Mitjavila Ventura</title>
+
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-sm-12 col-md-4 col-lg-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-sm-12 col-md-8 col-lg-9">
+
+
+
+
+<div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Adrià Mitjavila Ventura</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fas fa-file-invoice"></span>
+     
+     Web CV
+  </a>
+</li>
+<li>
+  <a href="cv_pdf.html">
+    <span class="fas fa-file-pdf"></span>
+     
+     PDF CV - Short
+  </a>
+</li>
+<li>
+  <a href="cv_pdf_long.html">
+    <span class="fas fa-file-pdf"></span>
+     
+     PDF CV - Long
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://amitjavilaventura.github.io">
+    <span class="fas fa-globe fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Adrià Mitjavila Ventura</h1>
+
+</div>
+
+
+<div id="bioinformatician-at-the-istituto-europeo-di-oncologia" class="section level3">
+<h3><svg aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0 96 57.3 96 128s57.3 128 128 128zm89.6 32h-16.7c-22.2 10.2-46.9 16-72.9 16s-50.6-5.8-72.9-16h-16.7C60.2 288 0 348.2 0 422.4V464c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-41.6c0-74.2-60.2-134.4-134.4-134.4z"/></svg>   Bioinformatician at the <a href="https://www.research.ieo.it/adri%C3%A0-mitjavila-ventura/"><em>Istituto Europeo di Oncologia</em></a></h3>
+<p><img src="fotojo.png" alt="foto_carnet" style="float; position:absolute; top:1; right:0; padding-top:10px; padding-bottom:35px; padding-right:200px; height:200px"/></p>
+<hr />
+<p>
+<svg aria-hidden="true" role="img" viewBox="0 0 576 512" style="height:1em;width:1.12em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M280.37 148.26L96 300.11V464a16 16 0 0 0 16 16l112.06-.29a16 16 0 0 0 15.92-16V368a16 16 0 0 1 16-16h64a16 16 0 0 1 16 16v95.64a16 16 0 0 0 16 16.05L464 480a16 16 0 0 0 16-16V300L295.67 148.26a12.19 12.19 0 0 0-15.3 0zM571.6 251.47L488 182.56V44.05a12 12 0 0 0-12-12h-56a12 12 0 0 0-12 12v72.61L318.47 43a48 48 0 0 0-61 0L4.34 251.47a12 12 0 0 0-1.6 16.9l25.5 31A12 12 0 0 0 45.15 301l235.22-193.74a12.19 12.19 0 0 1 15.3 0L530.9 301a12 12 0 0 0 16.9-1.6l25.5-31a12 12 0 0 0-1.7-16.93z"/></svg>   <b>Girona (Spain) - Milan (Italy)</b>
+</p>
+<p>
+<svg aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M436 480h-20V24c0-13.255-10.745-24-24-24H56C42.745 0 32 10.745 32 24v456H12c-6.627 0-12 5.373-12 12v20h448v-20c0-6.627-5.373-12-12-12zM128 76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76zm0 96c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40zm52 148h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12zm76 160h-64v-84c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v84zm64-172c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40zm0-96c0 6.627-5.373 12-12 12h-40c-6.627 0-12-5.373-12-12V76c0-6.627 5.373-12 12-12h40c6.627 0 12 5.373 12 12v40z"/></svg>   <b>Istituto Europeo di Oncologia</b>
+</p>
+<p>
+<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M256 8C118.941 8 8 118.919 8 256c0 137.059 110.919 248 248 248 48.154 0 95.342-14.14 135.408-40.223 12.005-7.815 14.625-24.288 5.552-35.372l-10.177-12.433c-7.671-9.371-21.179-11.667-31.373-5.129C325.92 429.757 291.314 440 256 440c-101.458 0-184-82.542-184-184S154.542 72 256 72c100.139 0 184 57.619 184 160 0 38.786-21.093 79.742-58.17 83.693-17.349-.454-16.91-12.857-13.476-30.024l23.433-121.11C394.653 149.75 383.308 136 368.225 136h-44.981a13.518 13.518 0 0 0-13.432 11.993l-.01.092c-14.697-17.901-40.448-21.775-59.971-21.775-74.58 0-137.831 62.234-137.831 151.46 0 65.303 36.785 105.87 96 105.87 26.984 0 57.369-15.637 74.991-38.333 9.522 34.104 40.613 34.103 70.71 34.103C462.609 379.41 504 307.798 504 232 504 95.653 394.023 8 256 8zm-21.68 304.43c-22.249 0-36.07-15.623-36.07-40.771 0-44.993 30.779-72.729 58.63-72.729 22.292 0 35.601 15.241 35.601 40.77 0 45.061-33.875 72.73-58.161 72.73z"/></svg>   <b>adria.mitjavila94 @ gmail.com</b>
+</p>
+<p><a href="https://amitjavilaventura.github.io/"><svg aria-hidden="true" role="img" viewBox="0 0 496 512" style="height:1em;width:0.97em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z"/></svg></a>   <a href="https://github.com/amitjavilaventura"><svg aria-hidden="true" role="img" viewBox="0 0 496 512" style="height:1em;width:0.97em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg></a>   <a href="https://gitlab.com/amitjavilaventura"><svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M105.2 24.9c-3.1-8.9-15.7-8.9-18.9 0L29.8 199.7h132c-.1 0-56.6-174.8-56.6-174.8zM.9 287.7c-2.6 8 .3 16.9 7.1 22l247.9 184-226.2-294zm160.8-88l94.3 294 94.3-294zm349.4 88l-28.8-88-226.3 294 247.9-184c6.9-5.1 9.7-14 7.2-22zM425.7 24.9c-3.1-8.9-15.7-8.9-18.9 0l-56.6 174.8h132z"/></svg></a>   <a href="https://www.linkedin.com/in/adria-mitjavila-ventura/"><svg aria-hidden="true" role="img" viewBox="0 0 448 512" style="height:1em;width:0.88em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg></a>   <a href="https://orcid.org/0000-0002-0337-1929"> <strong>ORCID</strong> </a>  </p>
+<hr />
+<p>Former biotechnologist who is living between computers. My interests are mostly related to omics data analysis related to Epigenetics research.</p>
+<p>I am said to be a motivated, ambitious man. Furthermore, I can work individually as well as in a team and I believe myself capable of leading a little group of professional people.</p>
+<hr />
+</div>
+<div id="academic-education" class="section level1 tabset">
+<h1 class="tabset">Academic education</h1>
+<!--
+## PhD in Computational Biology
+* 2019 - Present
+* __*Università degli Studi di Milano (UNIMI)*__ and __*Scuola Europea di Medicina Molecolare (SEMM)*__ (Milan, Italy). 
+* [SEMM website](https://www.semm.it/)
+
+<br>
+-->
+<div id="msc-in-bioinformatics-and-biostatistics" class="section level2">
+<h2>MSc in Bioinformatics and Biostatistics</h2>
+<ul>
+<li>2018 - Present</li>
+<li><strong><em>Universitat Oberta de Catalunya (UOC)</em></strong> and <strong><em>Universitat de Barcelona (UB)</em></strong> (On-line).</li>
+<li>Master’s degree focussed on the study and use of statistics and informatics for the management, analysis and interpretetion of biological and medical data.</li>
+<li><a href="https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion">Master’s website (<em>in Spanish</em>)</a></li>
+</ul>
+<p><br></p>
+</div>
+<div id="msc-in-molecular-genetics-and-biotechnology" class="section level2">
+<h2>MSc in Molecular Genetics and Biotechnology</h2>
+<ul>
+<li>2017 - 2018</li>
+<li><strong><em>Universidad de Sevilla (US)</em></strong> (Seville, Spain).</li>
+<li>Master’s degree focussed on the study of the molecular processes of living organisms, the gene expression, signal transduction and epigenetics. Specialization in R&amp;D in Molecular Biology.</li>
+<li>Grade: 9.33/10.</li>
+<li>Master’s thesis: “Influence of Xrn1 in nucleosome positioning across <em>Saccharomyces cerevisiae</em> genome and its effects in transcription”. Grade: 9.2/10.</li>
+<li><a href="https://masteroficial.us.es/gmb/">Master’s website (<em>in Spanish</em>)</a></li>
+</ul>
+<p><br></p>
+</div>
+<div id="bsc-in-biotechnology" class="section level2">
+<h2>BSc in Biotechnology</h2>
+<ul>
+<li>2012 - 2017</li>
+<li><strong><em>Universitat de Girona (UdG)</em></strong> (Girona, Spain).</li>
+<li>Bachelor’s degree focussed on the bases of Biology and Biotechnology. Specialization in Cellular &amp; Molecular Biotechnology.</li>
+<li>Grade: 8.12/10</li>
+<li>Bachelor’s thesis: “Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy”. Grade: 9.4/10.</li>
+<li><a href="https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&amp;ID=3103G0215">Bachelor’s website</a></li>
+</ul>
+<p><br></p>
+</div>
+</div>
+<div id="professional-experience" class="section level1 tabset">
+<h1 class="tabset">Professional experience</h1>
+<!--
+## PhD candidate in Computational Biology
+* 10/2019 - Present
+* __*Instituto Europeo di Oncologia (IEO)*__ and __*Scuola Europea di Medicina Molecolare (SEMM)*__ (Milan, Italy).
+* Department of Experimental Oncology, group of Epigenetic Mechanisms in Stem Cell Differentiation and Cancer (PI: Dr. Diego Pasini).
+* Supervisor: Dr. Diego Pasini.
+
+<br>
+-->
+<div id="bioinformatician" class="section level2">
+<h2>Bioinformatician</h2>
+<ul>
+<li>07/2019 - Present</li>
+<li><strong><em>Instituto Europeo di Oncologia (IEO)</em></strong> (Milan, Italy).</li>
+<li>Department of Experimental Oncology, group of Epigenetic Mechanisms in Stem Cell Differentiation and Cancer (PI: Dr. Diego Pasini).</li>
+</ul>
+<p><br></p>
+</div>
+<div id="research-assistant" class="section level2">
+<h2>Research assistant</h2>
+<ul>
+<li>07/2018 - 10/2018</li>
+<li><strong><em>Insituto de Biomedicina de Sevilla (IBiS)</em></strong> (Seville, Spain).</li>
+<li>Department of Genetics, group of Gene Expression (PI: Dr. Sebastián Chávez de Diego).</li>
+<li>Bioinformatic analyses of MNase-seq data from wild-type and Ccr4-KO yeast strains to study the effect of Ccr4 in nucleosome positioning.</li>
+</ul>
+<p><br></p>
+</div>
+<div id="master-thesis-student" class="section level2">
+<h2>Master thesis student</h2>
+<ul>
+<li>09/2017 - 06/2018.</li>
+<li><strong><em>Insituto de Biomedicina de Sevilla (IBiS)</em></strong> and <strong><em>Universidad de Sevilla (US)</em></strong> (Seville, Spain).</li>
+<li>Department of Genetics, group of Gene Expression (PI: Dr. Sebastián Chávez de Diego).</li>
+<li>Project in the context of the MSc degree in Molecular Genetics and Biotechnology from the <strong><em>Universidad de Sevilla (US)</em></strong>.</li>
+<li>Thesis title: “Influence of Xrn1 in nucleosome positioning across <em>Saccharomyces cerevisiae</em> genome and its effects in transcription”.</li>
+<li>Bioinformatic analyses of MNase-seq data from wild-type and Xrn1-KO yeast strains to study the effect of Xrn1 in nucleosome positioning. MNase-qPCR analyses in a Xrn1 conditional mutant with two selected genes.</li>
+<li>Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo.</li>
+<li>Grade: 9.2/10.</li>
+</ul>
+<p><br></p>
+</div>
+<div id="research-internship" class="section level2">
+<h2>Research internship</h2>
+<ul>
+<li>07/2017 - 09/2017</li>
+<li><strong><em>Institut d’Investigació Biomèdica de Girona (IdIBGi)</em></strong> (Girona, Spain)</li>
+<li>Department of Inflammation and Metabolism, group of Diabetes, Endocrinology and Nutrition (PI: Dr. José Manuel Fernández-Real).</li>
+<li>Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity.</li>
+</ul>
+<p><br></p>
+</div>
+<div id="bachelor-thesis-student" class="section level2">
+<h2>Bachelor thesis student</h2>
+<ul>
+<li>01/2017 - 06/2017</li>
+<li><strong><em>Microbial. Sistemes i aplicacions analítiques, S.L.</em></strong> and <strong><em>Universitat de Girona (UdG)</em></strong> (Girona, Spain)</li>
+<li>Thesis in the context of the BSc degree in Biotechnology from the <strong><em>Universitat de Girona (UdG)</em></strong></li>
+<li>Thesis title: “Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy”.</li>
+<li>DNA extraction of intestinal mucosa biopsies to analyse the microbiota before and after different treatments using qPCR and NGS.</li>
+<li>Supervisor: Dr. Jesus Garcia Gil.</li>
+<li>Grade: 9.4/10.</li>
+</ul>
+<p><br></p>
+</div>
+<div id="professional-internship" class="section level2">
+<h2>Professional internship</h2>
+<ul>
+<li>09/2016 - 01/2017</li>
+<li><strong><em>Microbial. Sistemes i aplicacions analítiques, S.L.</em></strong> (Girona, Spain)</li>
+<li>Microbiological and molecular analyses of food and water samples to search for pathogens and perform food forensics.</li>
+</ul>
+<p><br></p>
+</div>
+</div>
+<div id="skills" class="section level1 tabset">
+<h1 class="tabset">Skills</h1>
+<div id="informaticsoffimatics" class="section level2">
+<h2>Informatics/Offimatics</h2>
+<table>
+<colgroup>
+<col width="10%" />
+<col width="27%" />
+<col width="17%" />
+<col width="15%" />
+<col width="16%" />
+<col width="12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">Language</th>
+<th align="center">Package/environment management</th>
+<th align="center">Workflow management</th>
+<th align="center">Code repositories</th>
+<th align="center">Operating systems</th>
+<th align="center">Offimatics</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">R</td>
+<td align="center">Conda</td>
+<td align="center">Snakemake</td>
+<td align="center"><a href="https://github.com/amitjavilaventura">GitHub</a></td>
+<td align="center">Windows</td>
+<td align="center">MS Office</td>
+</tr>
+<tr class="even">
+<td align="center">Python</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"><a href="https://gitlab.com/amitjavilaventura">GitLab</a></td>
+<td align="center">Linux (Ubuntu)</td>
+<td align="center">OpenOffice</td>
+</tr>
+<tr class="odd">
+<td align="center">Bash</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center">MAC</td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="center">Markdown</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+</div>
+<div id="bioinformatics" class="section level2">
+<h2>Bioinformatics</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Omics analyses</th>
+<th align="center">Browsers</th>
+<th align="center">DBs</th>
+<th align="center">Other</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Microarray</td>
+<td align="center">UCSC Genome Browser</td>
+<td align="center">TCGA</td>
+<td align="center">Galaxy</td>
+</tr>
+<tr class="even">
+<td align="center">RNA-seq</td>
+<td align="center">IGV</td>
+<td align="center">ENCODE</td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">ChIP-seq</td>
+<td align="center">VISTA</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="center">ATAC-seq</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">MNase-seq</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+</div>
+<div id="experimental-techniques" class="section level2">
+<h2>Experimental techniques</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Culture</th>
+<th align="center">Nucleic acid</th>
+<th align="center">Proteins</th>
+<th align="center">Separation/Detection</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Bacterial culture</td>
+<td align="center">Extraction</td>
+<td align="center">Extraction</td>
+<td align="center">Electrophoresis (agarose, SDS-PAGE)</td>
+</tr>
+<tr class="even">
+<td align="center">Yeast culture</td>
+<td align="center">Purification</td>
+<td align="center">Purification</td>
+<td align="center">Western Blot</td>
+</tr>
+<tr class="odd">
+<td align="center">Cell culture</td>
+<td align="center">(RT-)(q)PCR</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="center">Clonning</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">MNAse digestion</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+</div>
+<div id="languages" class="section level2">
+<h2>Languages</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Language</th>
+<th align="center">Level</th>
+<th align="center">Language</th>
+<th align="center">Level</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Catalan</td>
+<td align="center">Native</td>
+<td align="center">Italian</td>
+<td align="center">Intermediate</td>
+</tr>
+<tr class="even">
+<td align="center">Spanish</td>
+<td align="center">Native</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="center">English</td>
+<td align="center">Advanced (IELTS 7.5 - C1)</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+</div>
+</div>
+<div id="publications" class="section level1">
+<h1>Publications</h1>
+<p>My full list of publications can be consulted <a href="https://amitjavilaventura.github.io/publications/">here</a>.</p>
+<div id="journal-articles" class="section level2 tabset">
+<h2 class="tabset">Journal Articles</h2>
+<div id="begley-et-al-2020" class="section level3">
+<h3>Begley <em>et al</em> (2020)</h3>
+<p>Begley V <em>et al</em> (2020). <strong>Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration</strong><em>RNA Biology</em>. <a href="https://doi.org/10.1080/15476286.2020.1845504">doi: 10.1080/15476286.2020.1845504</a>.</p>
+<p><br></p>
+</div>
+</div>
+</div>
+<div id="additional-education" class="section level1 tabset">
+<h1 class="tabset">Additional education</h1>
+<div id="ielts-academic-exam" class="section level2">
+<h2>IELTS Academic Exam</h2>
+<ul>
+<li><strong>British Council</strong></li>
+<li>Overall grade: 7.5
+<ul>
+<li>Listening: 7.0</li>
+<li>Reading: 8.0</li>
+<li>Speaking: 7.0</li>
+<li>Writing: 7.5</li>
+</ul></li>
+<li>08/2019</li>
+</ul>
+<p><br></p>
+</div>
+<div id="datacamp" class="section level2">
+<h2>DataCamp</h2>
+<p>Courses:</p>
+<ul>
+<li>Theory:
+<ul>
+<li>Machine learning for everyone</li>
+</ul></li>
+<li>Git:
+<ul>
+<li>Introduction to Git</li>
+</ul></li>
+<li>Shell/Bash:
+<ul>
+<li>Introduction to Bash Scripting</li>
+<li>Introduction to Shell</li>
+</ul></li>
+<li>Python:
+<ul>
+<li>Introduction to Python</li>
+<li>Intermediate Python</li>
+</ul></li>
+<li>R:
+<ul>
+<li>Intermediate R: practice</li>
+<li>Data maniplation with <code>dplyr</code></li>
+<li>Data visualization with <code>ggplot2</code> (part 1)</li>
+<li>Writing efficient R code</li>
+</ul></li>
+</ul>
+<p><br></p>
+</div>
+</div>
+<div id="organizations" class="section level1 tabset">
+<h1 class="tabset">Organizations</h1>
+<div id="scb" class="section level2">
+<h2>SCB</h2>
+<p><strong><em>Societat Catalana de Biologia</em></strong> - <strong>Catalan Society of Biology</strong></p>
+<ul>
+<li>The Catalan Society of Biology (<a href="https://scb.iec.cat"><em>SCB</em></a>) it is a branch of the Institute of Catalan Studies (<a href="https://www.iec.cat"><em>IEC</em></a>) that searches to bring professionals and students of the life sciences together in order to allow the exchange of ideas and the difussion of the research to the society.</li>
+<li>Member since 2017.</li>
+</ul>
+<p><br></p>
+</div>
+<div id="asbtec" class="section level2">
+<h2>ASBTEC</h2>
+<p><strong><em>Associació de Biotecnòlegs de Catalunya</em></strong> - <strong>Catalan Biotechnologists Association</strong></p>
+<ul>
+<li>The Catalan Biotechnologists Associacition (<a href="http://www.asbtec.org"><em>ASBTEC</em></a>) is a non-profit association that works to promote Biotechnology within society and wants to be the link between the academia and the industry. To do so, it is organizing several workshops and symposioums with topics that range from divulgation to academic research or entrepreneurship.</li>
+<li>Member since 2017.</li>
+<li>Active member since 2018.</li>
+<li>Board member since 2019.</li>
+</ul>
+<p><br></p>
+</div>
+</div>
+<div id="other-honours-and-awards" class="section level1 tabset">
+<h1 class="tabset">Other honours and awards</h1>
+<!--
+## SEMM PhD Fellowship
+* __*Scuola Europea di Medicina Molecolare*__ - **European School of Molecular Medicine**
+* Fellowship to pursue their PhD program in Systems Medicine (curriculum of Computational Biology)
+* 10/2019 - Present
+
+<br>
+-->
+<div id="elite-rower" class="section level2">
+<h2>Elite Rower</h2>
+<ul>
+<li><strong><em>Federación Española de Remo</em></strong> - <strong>Spanish Rowing Federation</strong></li>
+<li>I have been granted the category of high-level athlete in Spain, first in 2015 for finishing at 6th place at the World Rowing Under-23 Championship and once more in 2016 for becoming World Rowing Under-23 Champion. See my sports curriculum <a href="https://amitjavilaventura.github.io/sports_cv.html">here</a> and my WorldRowing athlete page <a href="http://www.worldrowing.com/athletes/athlete/44383/mitjavila-adria">here</a>.</li>
+<li>2015-2021</li>
+</ul>
+<p><br></p>
+</div>
+<div id="world-rowing-u23-champion" class="section level2">
+<h2>World Rowing U23 Champion</h2>
+<ul>
+<li><strong>FISA - WorldRowing</strong></li>
+<li>1st place at the World Rowing Under-23 Championship in the category of lightweigt double scull (<em>BLM2x</em>)</li>
+<li>Rotterdam, Netherlands. 2016</li>
+</ul>
+<p><br></p>
+<p><br><br><br><br> <br><br><br><br> <br><br><br><br></p>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

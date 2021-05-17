@@ -1,0 +1,21 @@
+name: "Adrià Mitjavila Ventura"
+output_dir: "."
+navbar:
+  title: "Adrià Mitjavila Ventura"
+  type: inverse
+  left:
+    - text: " Web CV"
+      icon: fa-file-invoice
+      href: index.html
+    - text: " PDF CV - Short"
+      icon: fa-file-pdf
+      href: cv_pdf.html
+    - text: " PDF CV - Long"
+      icon: fa-file-pdf
+      href: cv_pdf_long.html
+  right:
+    - icon: fa-globe fa-lg
+      href: https://amitjavilaventura.github.io
+output:
+  html_document:
+    theme: flatly
