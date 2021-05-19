@@ -35,10 +35,10 @@ knitr::include_graphics(path = "fotojo.png")
 
 -   `r fontawesome::fa(name = "home")` Girona (Spain) - Milan (Italy)
 -   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
--   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io)
--   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura)
--   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929)
--   `r fontawesome::fa(name = "blog")` [BioBit](https://biobit.netlify.app)
+-   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io){ target="_blank" }
+-   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura){ target="_blank" }
+-   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929){ target="_blank" }
+-   `r fontawesome::fa(name = "blog")` [BioBit](https://biobit.netlify.app){ target="_blank" }
 -   `r fontawesome::fa(name = "file")` [1-page resume](amitjavila_resume.pdf){ target="_blank" }
 -   `r fontawesome::fa(name = "running")` [Sports CV](amitjavila_sports.html){ target="_blank" }
 
