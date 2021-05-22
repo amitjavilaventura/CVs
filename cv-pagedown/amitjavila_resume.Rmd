@@ -54,7 +54,7 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Other (informatics):**
 
--   R Markdown, Snakemake, Conda, Docker, Git
+-   R Markdown, Snakemake, Git, HPC, Conda, Docker
 
 **Experimental:**
 
@@ -92,6 +92,21 @@ Last updated on `r Sys.Date()`.
 
 ## Experience {data-icon="laptop"}
 
+<!--
+### Master's thesis student
+
+*[Universitat Oberta de Catalunya (UOC)](https://estudis.uoc.edu/ca/masters-universitaris/bioinformatica-bioestadistica/presentacio)*
+
+Online
+
+xx/2021 - Present
+
+* Analysis of the colorectal cancer ignorome.
+* Differential expression analysis in microarray and RNA-seq data.
+
+-->
+
+
 ### [Bioinformatician](https://amitjavilaventura.github.io/research/003-ieo/){target="_blank"}
 
 *[Istituto Europeo di Oncologia](https://www.research.ieo.it/){target="_blank"}*, **[Pasini's lab](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/){target="_blank"}**
@@ -100,6 +115,7 @@ Milan, Italy
 
 07/2019 - Present
 
+* Study of Wnt/$\beta$catenin signaling pathway -and others- in the context of colorectal cancer and stem cell development.
 * Analysis and integration of RNA-seq, ChIP-seq and ATAC-seq data.
 * Development of a Snakemake pipeline for ATAC-seq.
 
@@ -111,8 +127,8 @@ Seville, Spain
 
 09/2017 - 10/2018
 
-* Analysis of MNase-seq data. 
-* Performance and analysis of MNase-qPCR experiments.
+* Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcription.
+* Analysis of MNase-seq data. Performance and analysis of MNase-qPCR experiments.
 
 ### [Internship & Bachelor's thesis student](https://amitjavilaventura.github.io/research/001-microbial/){target="_blank"}
 
@@ -122,9 +138,10 @@ Girona, Spain
 
 09/2016 - 06/2017
 
-* qPCR of intestinal biopsies to detect/quantify bacterial genres. 
+* Microbiological and molecular analyses for pathogen detection and food forensics.
+* Study of butyrate effects on the ileal microbiota of colectomized colorectal cancer patients.
+* qPCR of intestinal biopsies to detect/quantify bacterial genders. 
 * Statistical analysis of high-throughput sequencing data to quantify bacteria species.
-
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -136,9 +153,13 @@ Online
 
 2018 - Present
 
+<!--
+- Master's thesis: *xxx*.
+-->
+
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/){target="_blank"}
 
-Universidad de Sevilla
+Universidad de Sevilla - *Grade: 9.33/10*
 
 Seville, Spain
 
@@ -148,7 +169,7 @@ Seville, Spain
 
 ### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215){target="_blank"}
 
-Universitat de Girona
+Universitat de Girona - *Grade: 8.12/10*
 
 Girona, Spain
 
@@ -156,7 +177,7 @@ Girona, Spain
 
 - Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
 
-## Publications {data-icon="book"}
+## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 
 ### <span style="font-size:12px"> Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration</span>
 

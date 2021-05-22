@@ -115,6 +115,8 @@ Milan, Italy
 [**Pasini's lab**](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/)<br>
 Analysis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Comparison of different ATAC-seq peak callers. | Development of an ATAC-seq pipeline for Snakemake.
 
+-   Study of Wnt/$\beta$catenin signaling pathway -and others- in the context of colorectal cancer and stem cell development.
+
 ### Master's thesis student & Research assistant
 
 *[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*
@@ -124,10 +126,10 @@ Seville, Spain
 09/2017 - 10/2018
 
 [**Gene expression lab**](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx) <br> 
-Analysis of MNase-seq data from Xrn1- and Ccr4-mutant yeast strains | MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis. 
+Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcription. | Analysis of MNase-seq data from Xrn1-, Ccr4-mutant and WT yeast strains. | MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis. 
 
 - Thesis title: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
-- Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo.
+- Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
 - MSc degree in Molecular Genetics and Biotechnology.
 
 ### Internship student
@@ -150,7 +152,7 @@ Girona, Spain
 
 09/2016 - 06/2017
 
-Microbiological and molecular analyses of food and water for pathogen detection and food forensics | DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect clusters and families of bacteria | NGS data analysis to quantify bacterial genders in intestinal biopsies. 
+Microbiological and molecular analyses of food and water for pathogen detection and food forensics |  Study of butyrate effects on the ileal microbiota of colectomized colorectal cancer patients. | DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect clusters and families of bacteria | NGS data analysis to quantify bacterial genders in intestinal biopsies. 
 
 - Thesis title: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
 - Supervisor: Prof. Jesús García-Gil. 
@@ -174,9 +176,9 @@ Seville, Spain
 
 2017 - 2018
 
-- Specialization on Molecular Biology R&D  
+- Specialization on Molecular Biology R&D . 
 - Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
-- Grade: 9.33/10
+- Grade: 9.33/10.
 
 ### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
 
@@ -188,7 +190,7 @@ Girona, Spain
 
 - Specialization in Cellular & Molecular Biotechnology.  
 - Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
-- Grade: 8.12/10
+- Grade: 8.12/10.
 
 ## Publications {data-icon="book"}
 
@@ -222,22 +224,13 @@ N/A
 
 ## Development
 
-**[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):**
+**[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):** Visualize outputs from ChromHMM in R.
 
--   Visualize outputs from ChromHMM in R.
+**[DPomics](https://github.com/amitjavilaventura/DPomics) (*ongoing*):** Shiny app for omics visualization.
 
-**[DPomics](https://github.com/amitjavilaventura/DPomics) (*ongoing*):**
+**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake) (*ongoing*):** Snakemake pipeline for ATAC-seq data.
 
--   Shiny app for omics visualization.
-
-**[DNAme](https://github.com/amitjavilaventura/DNAme):**
-
--   Shiny app to convert your name to a DNA sequence.
-
-**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake) (*ongoing*):**
-
--   Snakemake pipeline for ATAC-seq data.
-
+More on my [GitHub profile](https://github.com/amitjavilaventura).
 
 ## Organizations
 

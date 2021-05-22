@@ -10,7 +10,34 @@
     
     <title>amitjavila_cv</title>
 
-    
+            <!-- dynamically load mathjax for compatibility with self-contained -->
+    <script>
+    (function() {
+      // Retrieve previous config object if defined
+      window.PagedConfig = window.PagedConfig || {};
+      let beforePaged = PagedConfig.before;
+      window.PagedConfig.before = async () => {
+        if (beforePaged) await beforePaged();
+        return new Promise((resolve, reject) => {
+          var script = document.createElement("script");
+          script.type = "text/javascript";
+          var src = `https://mathjax.rstudio.com/latest/MathJax.js` + "?config=TeX-MML-AM_CHTML";
+          if (location.protocol !== "file:" && /^https?:/.test(src))
+            src = src.replace(/^https?:/, '');
+          script.src = src;
+          window.MathJax = {
+            AuthorInit: () => {
+              MathJax.Hub.Register.StartupHook("Begin", () => {
+                MathJax.Hub.Queue(resolve);
+              });
+            }
+          };
+          document.getElementsByTagName("head")[0].appendChild(script);
+        });
+      };
+    })();
+    </script>
+        
         <script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
         <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
         <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
@@ -114,6 +141,9 @@ Analysis of the CRC ignorome.
 <p>07/2019 - Present</p>
 <p><a href="https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/"><strong>Pasini’s lab</strong></a><br>
 Analysis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Comparison of different ATAC-seq peak callers. | Development of an ATAC-seq pipeline for Snakemake.</p>
+<ul>
+<li>Study of Wnt/<span class="math inline">\(\beta\)</span>catenin signaling pathway -and others- in the context of colorectal cancer and stem cell development.</li>
+</ul>
 </div>
 <div id="masters-thesis-student-research-assistant" class="section level3">
 <h3>Master’s thesis student &amp; Research assistant</h3>
@@ -121,10 +151,10 @@ Analysis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Comparison of di
 <p>Seville, Spain</p>
 <p>09/2017 - 10/2018</p>
 <p><a href="https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx"><strong>Gene expression lab</strong></a> <br>
-Analysis of MNase-seq data from Xrn1- and Ccr4-mutant yeast strains | MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis.</p>
+Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcription. | Analysis of MNase-seq data from Xrn1-, Ccr4-mutant and WT yeast strains. | MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis.</p>
 <ul>
 <li>Thesis title: <em>Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription</em>.</li>
-<li>Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo.</li>
+<li>Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.</li>
 <li>MSc degree in Molecular Genetics and Biotechnology.</li>
 </ul>
 </div>
@@ -141,7 +171,7 @@ Identification of new factors (genetic and bacterial) related to adipose tissue 
 <p><em><a href="https://www.microbial-systems.com/">Microbial. Sistemes i aplicacions analítiques, S.L.</a></em></p>
 <p>Girona, Spain</p>
 <p>09/2016 - 06/2017</p>
-<p>Microbiological and molecular analyses of food and water for pathogen detection and food forensics | DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect clusters and families of bacteria | NGS data analysis to quantify bacterial genders in intestinal biopsies.</p>
+<p>Microbiological and molecular analyses of food and water for pathogen detection and food forensics | Study of butyrate effects on the ileal microbiota of colectomized colorectal cancer patients. | DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect clusters and families of bacteria | NGS data analysis to quantify bacterial genders in intestinal biopsies.</p>
 <ul>
 <li>Thesis title: <em>Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy</em>.</li>
 <li>Supervisor: Prof. Jesús García-Gil.</li>
@@ -163,10 +193,9 @@ Identification of new factors (genetic and bacterial) related to adipose tissue 
 <p>Seville, Spain</p>
 <p>2017 - 2018</p>
 <ul>
-<li>Specialization on Molecular Biology R&amp;D<br />
-</li>
+<li>Specialization on Molecular Biology R&amp;D .</li>
 <li>Master’s thesis: <em>Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription</em>.</li>
-<li>Grade: 9.33/10</li>
+<li>Grade: 9.33/10.</li>
 </ul>
 </div>
 <div id="bsc-in-biotechnology" class="section level3">
@@ -178,7 +207,7 @@ Identification of new factors (genetic and bacterial) related to adipose tissue 
 <li>Specialization in Cellular &amp; Molecular Biotechnology.<br />
 </li>
 <li>Bachelor’s thesis: <em>Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy</em>.</li>
-<li>Grade: 8.12/10</li>
+<li>Grade: 8.12/10.</li>
 </ul>
 </div>
 </div>
@@ -211,22 +240,10 @@ Identification of new factors (genetic and bacterial) related to adipose tissue 
 <h1>Aside2</h1>
 <div id="development" class="section level2">
 <h2>Development</h2>
-<p><strong><a href="https://amitjavilaventura.github.io/chromHMMviewR/"><code>chromHMMviewR</code></a>:</strong></p>
-<ul>
-<li>Visualize outputs from ChromHMM in R.</li>
-</ul>
-<p><strong><a href="https://github.com/amitjavilaventura/DPomics">DPomics</a> (<em>ongoing</em>):</strong></p>
-<ul>
-<li>Shiny app for omics visualization.</li>
-</ul>
-<p><strong><a href="https://github.com/amitjavilaventura/DNAme">DNAme</a>:</strong></p>
-<ul>
-<li>Shiny app to convert your name to a DNA sequence.</li>
-</ul>
-<p><strong><a href="https://github.com/amitjavilaventura/ATACseq-snakemake">ATAC-seq snakemake</a> (<em>ongoing</em>):</strong></p>
-<ul>
-<li>Snakemake pipeline for ATAC-seq data.</li>
-</ul>
+<p><strong><a href="https://amitjavilaventura.github.io/chromHMMviewR/"><code>chromHMMviewR</code></a>:</strong> Visualize outputs from ChromHMM in R.</p>
+<p><strong><a href="https://github.com/amitjavilaventura/DPomics">DPomics</a> (<em>ongoing</em>):</strong> Shiny app for omics visualization.</p>
+<p><strong><a href="https://github.com/amitjavilaventura/ATACseq-snakemake">ATAC-seq snakemake</a> (<em>ongoing</em>):</strong> Snakemake pipeline for ATAC-seq data.</p>
+<p>More on my <a href="https://github.com/amitjavilaventura">GitHub profile</a>.</p>
 </div>
 <div id="organizations" class="section level2">
 <h2>Organizations</h2>
