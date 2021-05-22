@@ -47,10 +47,19 @@ knitr::include_graphics(path = "fotojo.png")
 **Omics data analysis:**
 
 -   Microarray, RNA-/ChIP-/ATAC-/MNase-seq
+<!--
+-   High-trhoughtput sequencing: read quality control, alignment to reference genome, 
+-->
 
 **Programming/scripting:**
 
 -   R/Bioconductor, Python, Bash
+
+<!--
+**Statistics:**
+
+-   Statistical modeling, linear regression, machine learning
+-->
 
 **Other (informatics):**
 
@@ -90,9 +99,9 @@ Last updated on `r Sys.Date()`.
 ## Experience {data-icon="laptop"}
 
 <!--
-### Master's thesis student
+### [Master's thesis student](https://amitjavilaventura.github.io/research/004-uoc_tfm/){target="_blank"}
 
-*[Universitat Oberta de Catalunya (UOC)](https://estudis.uoc.edu/ca/masters-universitaris/bioinformatica-bioestadistica/presentacio)*
+*Universitat Oberta de Catalunya (UOC)*
 
 Online
 
@@ -106,7 +115,7 @@ xx/2021 - Present
 
 ### [Bioinformatician](https://amitjavilaventura.github.io/research/003-ieo/){target="_blank"}
 
-*[Istituto Europeo di Oncologia](https://www.research.ieo.it/){target="_blank"}*, **[Pasini's lab](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/){target="_blank"}**
+*Istituto Europeo di Oncologia*, **Pasini's lab**
 
 Milan, Italy
 
@@ -118,7 +127,7 @@ Milan, Italy
 
 ### [Master's thesis student & Research assistant](https://amitjavilaventura.github.io/research/002-ibis/){target="_blank"}
 
-*[Instituto de Biomedicina de Sevilla](ibis-sevilla.es){target="_blank"}*, **[Gene expression lab](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx){target="_blank"}**
+*Instituto de Biomedicina de Sevilla*, **Gene expression**
 
 Seville, Spain
 
@@ -129,7 +138,7 @@ Seville, Spain
 
 ### [Internship & Bachelor's thesis student](https://amitjavilaventura.github.io/research/001-microbial/){target="_blank"}
 
-*[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/){target="_blank"}*
+*Microbial. Sistemes i aplicacions analítiques, S.L.*
 
 Girona, Spain
 
@@ -162,7 +171,7 @@ Seville, Spain
 
 2017 - 2018
 
-- Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
+- Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*. Grade: 9.2/10
 
 ### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215){target="_blank"}
 
@@ -172,7 +181,7 @@ Girona, Spain
 
 2012 - 2017
 
-- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
+- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10
 
 ## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 
