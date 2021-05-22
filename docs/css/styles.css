@@ -164,6 +164,7 @@ sup {
 [data-id="disclaimer"] p {
   margin-block-start: 0.15em;
   margin-block-end: 0.15em;
+  text-align: right;
 }
 
 /* Change position of the tilte */

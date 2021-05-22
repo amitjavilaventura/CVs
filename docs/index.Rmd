@@ -52,9 +52,13 @@ knitr::include_graphics(path = "fotojo.png")
 
 -   R/Bioconductor, Bash, Python
 
-**Other:**
+**Other (informatics):**
 
--   Snakemake, Conda, Docker , Git
+-   R Markdown, Snakemake, Conda, Docker, Git, HPC
+
+**Operating systems:**
+
+-   Ubuntu, Windows, macOS
 
 **Experimental:**
 
@@ -66,6 +70,8 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Disclaimer {#disclaimer}
 
+References available upon request
+
 Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown/amitjavila_cv.Rmd) 
 
 Last updated on `r Sys.Date()`
@@ -76,11 +82,27 @@ Last updated on `r Sys.Date()`
 
 ### Bioinformatician at *Istituto Europeo di Oncologia*
 
-<p style="font-size:13px">Biotechnologist living around computers. Interested in data analysis to support experimental research as well as in pure computational experiments and in software/pipeline development.</p>
-
-<p style="font-size:13px">References available upon request.</p>
+<p style="font-size:13px">Biotechnologist living around computers. Interested in data analysis to support experimental research as well as in pure (bio)computational experiments and in software/pipeline development.</p>
 
 ## Experience {data-icon="laptop"}
+
+<!--
+
+### Master's thesis student
+
+*[Universitat Oberta de Catalunya (UOC)](https://estudis.uoc.edu/ca/masters-universitaris/bioinformatica-bioestadistica/presentacio)*
+
+Online
+
+xx/2021 - Present
+
+Analysis of the CRC ignorome.
+
+- Thesis title: *xxxx*.
+- Supervisors: Dr. Izaskun Mallona.
+- MSc degree in Bioinformatics and Biostatistics.
+
+-->
 
 ### Bioinformatician
 
@@ -93,29 +115,18 @@ Milan, Italy
 [**Pasini's lab**](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/)<br>
 Analysis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Comparison of different ATAC-seq peak callers. | Development of an ATAC-seq pipeline for Snakemake.
 
-
-### Research Assistant
-
-*[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*
-
-Seville, Spain
-
-07/2018 - 10/2018
-
-[**Gene expression lab**](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx) <br> 
-Analysis of MNase-seq data from Ccr4-mutant yeast.
-
-### Master's thesis student
+### Master's thesis student & Research assistant
 
 *[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*
 
 Seville, Spain
 
-09/2017 - 07/2018
+09/2017 - 10/2018
 
 [**Gene expression lab**](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx) <br> 
-Analysis of MNase-seq data from Xrn1-mutant yeast | MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis. 
+Analysis of MNase-seq data from Xrn1- and Ccr4-mutant yeast strains | MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis. 
 
+- Thesis title: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
 - Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutierrez Pozo.
 - MSc degree in Molecular Genetics and Biotechnology.
 
@@ -131,21 +142,7 @@ Girona, Spain
 Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity.
 
 
-### Bachelor's thesis student
-
-*[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/)*
-
-Girona, Spain
-
-01/2017 - 06/2017
-
-DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect clusters and families of bacteria | NGS data analysis to quantify bacterial genders in intestinal biopsies. 
-
-- Supervisor: Prof. Jesús García-Gil. 
-- BSc degree in Biotecnology.
-
-
-### Internship student
+### Internship & Bachelor's thesis student
 
 *[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/)*
 
@@ -153,10 +150,11 @@ Girona, Spain
 
 09/2016 - 06/2017
 
-Microbiological and molecular analyses of food and water samples to search for pathogens and perform food forensics.
+Microbiological and molecular analyses of food and water for pathogen detection and food forensics | DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect clusters and families of bacteria | NGS data analysis to quantify bacterial genders in intestinal biopsies. 
 
-
-
+- Thesis title: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
+- Supervisor: Prof. Jesús García-Gil. 
+- BSc degree in Biotecnology.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -178,6 +176,7 @@ Seville, Spain
 
 - Specialization on Molecular Biology R&D  
 - Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
+- Grade: 9.33/10
 
 ### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
 
@@ -189,6 +188,7 @@ Girona, Spain
 
 - Specialization in Cellular & Molecular Biotechnology.  
 - Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
+- Grade: 8.12/10
 
 ## Publications {data-icon="book"}
 
