@@ -91,7 +91,7 @@ Last updated on `r Sys.Date()`.
 
 ### Bioinformatician at *Istituto Europeo di Oncologia*  |  MSc
 
-<p style="font-size:13px">Biotechnologist living around computers, interested in data analysis to support experimental research as well as in pure (bio)computational experiments and in software/pipeline development.</p>
+<p style="font-size:13px; text-align:justify;">Biotechnologist living around computers, interested in data analysis to support experimental research as well as in pure (bio)computational experiments and in software/pipeline development. More on [my website](https://amitjavilaventura.github.io).</p>
 
 ## Experience {data-icon="laptop"}
 
