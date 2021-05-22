@@ -47,9 +47,6 @@ knitr::include_graphics(path = "fotojo.png")
 **Omics data analysis:**
 
 -   Microarray, RNA-/ChIP-/ATAC-/MNase-seq
-<!--
--   High-trhoughtput sequencing: read quality control, alignment to reference genome, 
--->
 
 **Programming/scripting:**
 
