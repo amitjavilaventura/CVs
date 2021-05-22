@@ -66,12 +66,9 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Development
 
-**[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/)**
-
-**[DPomics](https://github.com/amitjavilaventura/DPomics)** (*ongoing*)
-
-**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*)
-
+**[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/)**<br>
+**[DPomics](https://github.com/amitjavilaventura/DPomics)** (*ongoing*)<br>
+**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*)<br>
 More on [my GitHub profile](https://github.com/amitjavilaventura)
 
 
