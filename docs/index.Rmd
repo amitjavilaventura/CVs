@@ -52,13 +52,9 @@ knitr::include_graphics(path = "fotojo.png")
 
 -   R/Bioconductor, Bash, Python
 
-**Other (informatics):**
+**General informatics**
 
 -   R Markdown, Snakemake, Conda, Docker, Git, HPC
-
-**Operating systems:**
-
--   Ubuntu, Windows, macOS
 
 **Experimental:**
 
@@ -113,9 +109,11 @@ Milan, Italy
 07/2019 - Present
 
 [**Pasini's lab**](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/)<br>
-Analysis of omics data analysis (RNA-seq, ChIP-seq, ATAC-seq) | Comparison of different ATAC-seq peak callers. | Development of an ATAC-seq pipeline for Snakemake.
+Study of Wnt/$\beta$catenin signaling pathway -and others- and its effects in transcription and epigenetic modifications in the context of colorectal cancer and stem cell development.
 
--   Study of Wnt/$\beta$catenin signaling pathway -and others- in the context of colorectal cancer and stem cell development.
+- Analysis and integration of omics data (RNA-/ChIP-/ATAC-seq)
+- Comparison of different ATAC-seq peak callers.
+- Development of an ATAC-seq pipeline for Snakemake.
 
 ### Master's thesis student & Research assistant
 
@@ -126,9 +124,12 @@ Seville, Spain
 09/2017 - 10/2018
 
 [**Gene expression lab**](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx) <br> 
-Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcription. | Analysis of MNase-seq data from Xrn1-, Ccr4-mutant and WT yeast strains. | MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis. 
+Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcription.
 
-- Thesis title: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
+
+- Analysis of MNase-seq data from Xrn1-, Ccr4-mutant and WT yeast strains.
+- Perform MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis.
+<br>
 - Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
 - MSc degree in Molecular Genetics and Biotechnology.
 
@@ -143,7 +144,6 @@ Girona, Spain
 [**Unit of Diabetes, Endocrinology and Nutrition**](https://idibgi.org/grups/nes-nutricio-eumetabolisme-i-salut/) <br> 
 Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity.
 
-
 ### Internship & Bachelor's thesis student
 
 *[Microbial. Sistemes i aplicacions analítiques, S.L.](https://www.microbial-systems.com/)*
@@ -152,9 +152,12 @@ Girona, Spain
 
 09/2016 - 06/2017
 
-Microbiological and molecular analyses of food and water for pathogen detection and food forensics |  Study of butyrate effects on the ileal microbiota of colectomized colorectal cancer patients. | DNA extraction of intestinal mucosa biopsies | qPCR experiments to detect clusters and families of bacteria | NGS data analysis to quantify bacterial genders in intestinal biopsies. 
+Microbiological and molecular analyses of food and water for pathogen detection and food forensics |  Study of butyrate effects on the ileal microbiota of colectomized colorectal cancer patients.
 
-- Thesis title: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*.
+- DNA extraction of intestinal mucosa biopsies.
+- qPCR experiments to detect clusters and families of bacteria.
+- NGS data analysis to quantify bacterial genders in intestinal biopsies. 
+<br>
 - Supervisor: Prof. Jesús García-Gil. 
 - BSc degree in Biotecnology.
 
@@ -176,7 +179,7 @@ Seville, Spain
 
 2017 - 2018
 
-- Specialization on Molecular Biology R&D . 
+- Specialization in Molecular Biology Research. 
 - Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*.
 - Grade: 9.33/10.
 
@@ -234,25 +237,12 @@ More on my [GitHub profile](https://github.com/amitjavilaventura).
 
 ## Organizations
 
-**[ASBTEC](https://asbtec.cat):**
+**[ASBTEC](https://asbtec.cat)** (2017 - Present)
 
--   Board member (2019 - Present)
--   Collaborator (2018 - Present)
--   Member (2017 - Present)
-
-**[SCB](https://scb.cat):**
-
--   Member (2018 - Present)
+**[SCB](https://scb.cat)** (2018 - Present)
 
 ## Honors & Awards {data-icon="award"}
 
-**Elite sportsman:**
+**Elite sportsman** (2015-2021)
 
--   *Federación Española de Remo*
--   2015 - 2021
-
-**World Rowing U23 Champion:**
-
--   BLM2x
--   Rotterdam, Netherlands. 
--   2016
+**2016 World Rowing U23 Champion**
