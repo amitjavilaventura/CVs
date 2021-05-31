@@ -41,10 +41,6 @@ updated: yes
 
 # Education \hrulefill
 
-<!--
-**PhD. Computational Biology**, *Scuola Europea di Medicina Molecolare*, Milan (Italy) \hfill {\small\emph{2019 - Present}}
--->
-
 **MSc. Bioinformatics and Biostatistics**, *Universitat Oberta de Catalunya*, Online \hfill {\small\emph{2018 - Present}}
 
 **MSc. Molecular Genetics and Biotechnology**, *Universidad de Sevilla*, Seville (Spain) \hfill {\small\emph{2017 - 2018}}
@@ -54,13 +50,13 @@ updated: yes
 \vspace{2mm}
 # Employment \hrulefill
 
+*Institut Josep Carreras*  \hfill {\small\textbf{Badalona (Spain)}}
+
+* \footnotesize Bioinformatician \hfill \emph{08/2021 - Present}
+
 *Istituto Europeo di Oncologia*  \hfill {\small\textbf{Milan (Italy)}}
 
-<!--
-* \footnotesize PhD Candidate in Computational Biology \hfill \emph{10/2019 - Present}
--->
-
-* \footnotesize Bioinformatician \hfill \emph{07/2019 - Present}
+* \footnotesize Bioinformatician \hfill \emph{07/2019 - 07/2021}
 
 ```{r eval=FALSE, echo=FALSE}
 *Universitat Oberta de Catalunya*  \hfill {\small\textbf{Online}}

@@ -95,6 +95,14 @@ Last updated on `r Sys.Date()`.
 
 ## Experience {data-icon="laptop"}
 
+### [Bioinformatician](https://amitjavilaventura.github.io/research/005-ijc/){target="_blank"}
+
+*Institut Josep Carreras*, **Vavouri's lab**
+
+Badalona, Spain
+
+08/2021 - Present
+
 <!--
 ### [Master's thesis student](https://amitjavilaventura.github.io/research/004-uoc_tfm/){target="_blank"}
 
@@ -116,7 +124,7 @@ xx/2021 - Present
 
 Milan, Italy
 
-07/2019 - Present
+07/2019 - 07/2021
 
 * Study of Wnt/$\beta$catenin signaling pathway -and others- in the context of colorectal cancer and stem cell development.
 * Analysis and integration of RNA-seq, ChIP-seq and ATAC-seq data.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.9)  5 MAY 2021 12:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.9)  31 MAY 2021 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -596,7 +596,7 @@ Package rerunfilecheck Info: File `amitjavila_short_cv2.out' has not changed.
 Here is how much of TeX's memory you used:
  14532 strings out of 480934
  215164 string characters out of 5905649
- 556613 words of memory out of 5000000
+ 557613 words of memory out of 5000000
  31221 multiletter control sequences out of 15000+600000
  471292 words of font info for 248 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -614,7 +614,7 @@ xmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/ieo5089/Library/TinyTeX/te
 xmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/ieo5089/Library/TinyTeX/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/ieo5089/Library/TinyTeX/te
 xmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on amitjavila_short_cv2.pdf (1 page, 112860 bytes).
+Output written on amitjavila_short_cv2.pdf (1 page, 113249 bytes).
 PDF statistics:
  124 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream

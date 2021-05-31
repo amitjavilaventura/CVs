@@ -82,6 +82,17 @@ Last updated on `r Sys.Date()`.
 
 ## Experience {data-icon="laptop"}
 
+### Bioinformatician
+
+*[Institut Josep Carreras](https://www.carrerasresearch.org/)*
+
+Milan, Italy
+
+08/2021 - Present
+
+[**Vavouris's lab**](https://www.carrerasresearch.org/en/regulatory-genomics/)<br>
+
+
 <!--
 
 ### Master's thesis student
@@ -106,7 +117,7 @@ Analysis of the CRC ignorome.
 
 Milan, Italy
 
-07/2019 - Present
+07/2019 - 07/2021
 
 [**Pasini's lab**](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/)<br>
 Study of Wnt/$\beta$catenin signaling pathway -and others- and its effects in transcription and epigenetic modifications in the context of colorectal cancer and stem cell development.
