@@ -70,9 +70,10 @@ knitr::include_graphics(path = "fotojo.png")
 
 -   Catalan (Native), Spanish (Native), English (C1 - IELTS 7.5), Italian (Basic)
 
-## Development
+## Code
 
 **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/)**<br>
+**[`plotmics`](https://amitjavilaventura.github.io/plotmics/)**<br>
 **[DPomics](https://github.com/amitjavilaventura/DPomics)** (*ongoing*)<br>
 **[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*)<br>
 More on [my GitHub profile](https://github.com/amitjavilaventura)

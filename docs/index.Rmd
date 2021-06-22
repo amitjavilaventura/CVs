@@ -240,7 +240,9 @@ N/A
 
 **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):** Visualize outputs from ChromHMM in R.
 
-**[DPomics](https://github.com/amitjavilaventura/DPomics) (*ongoing*):** Shiny app for omics visualization.
+**[`plotmics`](https://amitjavilaventura.github.io/plotmics/):** Visualize omics and sequencing data in R.
+
+**[DPomics](https://github.com/amitjavilaventura/DPomics) (*ongoing*):** Shiny app for omics data visualization.
 
 **[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake) (*ongoing*):** Snakemake pipeline for ATAC-seq data.
 
@@ -254,6 +256,6 @@ More on my [GitHub profile](https://github.com/amitjavilaventura).
 
 ## Honors & Awards {data-icon="award"}
 
-**Elite sportsman** (2015-2021)
+**Elite athlete** (2015-2021)
 
 **2016 World Rowing U23 Champion**
