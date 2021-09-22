@@ -46,7 +46,7 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Omics data analysis:**
 
--   Microarray, RNA-/ChIP-/ATAC-/MNase-seq
+-   Microarray, (small)RNA-/ChIP-/ATAC-/MNase-seq
 
 **Programming/scripting:**
 
@@ -104,20 +104,11 @@ Badalona, Spain
 
 08/2021 - Present
 
-<!--
-### [Master's thesis student](https://amitjavilaventura.github.io/research/004-uoc_tfm/){target="_blank"}
-
-*Universitat Oberta de Catalunya (UOC)*
-
-Online
-
-xx/2021 - Present
-
-* Analysis of the colorectal cancer ignorome.
-* Differential expression analysis in microarray and RNA-seq data.
-
+<!-- 
+<span style="font-size:9px">
+Study xxxx
+</span>
 -->
-
 
 ### [Bioinformatician](https://amitjavilaventura.github.io/research/003-ieo/){target="_blank"}
 
@@ -127,9 +118,9 @@ Milan, Italy
 
 07/2019 - 07/2021
 
-* Study of Wnt/$\beta$catenin signaling pathway -and others- in the context of colorectal cancer and stem cell development.
-* Analysis and integration of RNA-seq, ChIP-seq and ATAC-seq data.
-* Development of a Snakemake pipeline for ATAC-seq.
+<span style="font-size:9px">
+Study of Wnt/$\beta$catenin signaling pathway -and others- in the context of colorectal cancer and stem cell development.   |   Analysis and integration of RNA-seq, ChIP-seq and ATAC-seq data.
+</span>
 
 ### [Master's thesis student & Research assistant](https://amitjavilaventura.github.io/research/002-ibis/){target="_blank"}
 
@@ -139,8 +130,9 @@ Seville, Spain
 
 09/2017 - 10/2018
 
-* Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcription.
-* Analysis of MNase-seq data. Performance and analysis of MNase-qPCR experiments.
+<span style="font-size:9px">
+Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcription.   |   Analysis of MNase-seq data.   |   Performance and analysis of MNase-qPCR experiments.
+</span>
 
 ### [Internship & Bachelor's thesis student](https://amitjavilaventura.github.io/research/001-microbial/){target="_blank"}
 
@@ -150,10 +142,9 @@ Girona, Spain
 
 09/2016 - 06/2017
 
-* Microbiological and molecular analyses for pathogen detection and food forensics.
-* Study of butyrate effects on the ileal microbiota of colectomized colorectal cancer patients.
-* qPCR of intestinal biopsies to detect/quantify bacterial genders. 
-* Statistical analysis of high-throughput sequencing data to quantify bacteria species.
+<span style="font-size:9px">
+Microbiological and molecular analyses for pathogen detection and food forensics.   |   Study of butyrate effects on the ileal microbiota of colectomized colorectal cancer patients.
+</span>
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -166,7 +157,9 @@ Online
 2018 - Present
 
 <!--
-- Master's thesis: *xxx*.
+<span style="font-size:9px">
+Master's thesis: *xxx*.
+</span>
 -->
 
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/){target="_blank"}
@@ -177,7 +170,9 @@ Seville, Spain
 
 2017 - 2018
 
-- Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*. Grade: 9.2/10
+<span style="font-size:9px">
+Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*. Grade: 9.2/10
+</span>
 
 ### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215){target="_blank"}
 
@@ -187,7 +182,9 @@ Girona, Spain
 
 2012 - 2017
 
-- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10
+<span style="font-size:9px">
+Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10
+</span>
 
 ## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 

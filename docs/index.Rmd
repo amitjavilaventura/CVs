@@ -46,11 +46,11 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Omics data analysis:**
 
--   Microarray, RNA-seq, ChIP-seq, ATAC-seq, MNase-seq
+-   Microarray, RNA-seq, small RNA-seq, ChIP-seq, ATAC-seq, MNase-seq
 
 **Programming/scripting:**
 
--   R/Bioconductor, Bash, Python
+-   R/Bioconductor, Bash, Python (basic)
 
 **General informatics**
 
@@ -167,8 +167,7 @@ Microbiological and molecular analyses of food and water for pathogen detection 
 
 - DNA extraction of intestinal mucosa biopsies.
 - qPCR experiments to detect clusters and families of bacteria.
-- NGS data analysis to quantify bacterial genders in intestinal biopsies. 
-<br>
+- NGS data analysis to quantify bacterial genders in intestinal biopsies. <br>
 - Supervisor: Prof. Jesús García-Gil. 
 - BSc degree in Biotecnology.
 
