@@ -34,7 +34,7 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Contact {#contact}
 
--   `r fontawesome::fa(name = "home")` Girona (Spain) - Milan (Italy)
+-   `r fontawesome::fa(name = "home")` Girona (Spain)
 -   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
 -   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io){target="_blank"}
 -   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura){target="_blank"}
@@ -46,11 +46,11 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Omics data analysis:**
 
--   Microarray, (small)RNA-/ChIP-/ATAC-/MNase-seq
+-   Microarray, (small) RNA- / ChIP- / ATAC- / MNase-seq
 
 **Programming/scripting:**
 
--   R/Bioconductor, Python, Bash
+-   R/Bioconductor, Bash, Python
 
 <!--
 **Statistics:**
@@ -74,7 +74,7 @@ knitr::include_graphics(path = "fotojo.png")
 
 **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/)**<br>
 **[`plotmics`](https://amitjavilaventura.github.io/plotmics/)**<br>
-**[DPomics](https://github.com/amitjavilaventura/DPomics)** (*ongoing*)<br>
+**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics)** (*ongoing*)<br>
 **[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*)<br>
 More on [my GitHub profile](https://github.com/amitjavilaventura)
 
@@ -90,9 +90,9 @@ Last updated on `r Sys.Date()`.
 
 ## Adrià Mitjavila Ventura {#title}
 
-### Bioinformatician at *Istituto Europeo di Oncologia*  |  MSc
+### Bioinformatician at *Istituto Europeo di Oncologia* | MSc
 
-<p style="font-size:13px; text-align:justify;">Biotechnologist living around computers, interested in data analysis to support experimental research as well as in pure (bio)computational experiments and in software/pipeline development. More on [my website](https://amitjavilaventura.github.io).</p>
+<p style="font-size:13px; text-align:justify;">Biotechnologist living around computers, interested in data analysis to support experimental research as well as in pure (bio)computational experiments and in software/pipeline development. See more about me on [my website](https://amitjavilaventura.github.io).</p>
 
 ## Experience {data-icon="laptop"}
 
@@ -104,11 +104,9 @@ Badalona, Spain
 
 08/2021 - Present
 
-<!-- 
 <span style="font-size:9px">
-Study xxxx
+Study of PIWI-interacting RNAs (piRNAs), their biogenesis mechanisms and their conservation across species.
 </span>
--->
 
 ### [Bioinformatician](https://amitjavilaventura.github.io/research/003-ieo/){target="_blank"}
 

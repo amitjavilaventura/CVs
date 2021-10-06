@@ -33,13 +33,13 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Contact {#contact}
 
--   `r fontawesome::fa(name = "home")` Girona (Spain) - Milan (Italy)
+-   `r fontawesome::fa(name = "home")` Girona (Spain)
 -   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
 -   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io){ target="_blank" }
 -   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura){ target="_blank" }
 -   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929){ target="_blank" }
 -   `r fontawesome::fa(name = "blog")` [BioBit](https://biobit.netlify.app){ target="_blank" }
--   `r fontawesome::fa(name = "file")` [1-page resume](amitjavila_resume.pdf){ target="_blank" }
+-   `r fontawesome::fa(name = "file")` [1-page resume](https://github.com/amitjavilaventura/CVs/blob/main/docs/amitjavila_resume.pdf){ target="_blank" }
 -   `r fontawesome::fa(name = "running")` [Sports CV](amitjavila_sports.html){ target="_blank" }
 
 ## Skills {#skills}
@@ -78,7 +78,7 @@ Last updated on `r Sys.Date()`.
 
 ### Bioinformatician at *Istituto Europeo di Oncologia*
 
-<p style="font-size:13px">Biotechnologist living around computers. Interested in data analysis to support experimental research as well as in pure (bio)computational experiments and in software/pipeline development.</p>
+<p style="font-size:13px">Biotechnologist living around computers. Interested in data analysis to support experimental research as well as in pure (bio)computational experiments and in software/pipeline development. See more about me on [my website](https://amitjavilaventura.github.io).</p>
 
 ## Experience {data-icon="laptop"}
 
@@ -91,25 +91,10 @@ Milan, Italy
 08/2021 - Present
 
 [**Vavouris's lab**](https://www.carrerasresearch.org/en/regulatory-genomics/)<br>
+Study of PIWI-interacting RNAs (piRNAs), their biogenesis mechanisms and their conservation across species.
 
+- Analysis of small RNA-seq data.
 
-<!--
-
-### Master's thesis student
-
-*[Universitat Oberta de Catalunya (UOC)](https://estudis.uoc.edu/ca/masters-universitaris/bioinformatica-bioestadistica/presentacio)*
-
-Online
-
-xx/2021 - Present
-
-Analysis of the CRC ignorome.
-
-- Thesis title: *xxxx*.
-- Supervisors: Dr. Izaskun Mallona.
-- MSc degree in Bioinformatics and Biostatistics.
-
--->
 
 ### Bioinformatician
 
@@ -124,7 +109,7 @@ Study of Wnt/$\beta$catenin signaling pathway -and others- and its effects in tr
 
 - Analysis and integration of omics data (RNA-/ChIP-/ATAC-seq)
 - Comparison of different ATAC-seq peak callers.
-- Development of an ATAC-seq pipeline for Snakemake.
+- Development of an ATAC-seq pipeline for Snakemake *(ongoing)*.
 
 ### Master's thesis student & Research assistant
 
@@ -241,7 +226,7 @@ N/A
 
 **[`plotmics`](https://amitjavilaventura.github.io/plotmics/):** Visualize omics and sequencing data in R.
 
-**[DPomics](https://github.com/amitjavilaventura/DPomics) (*ongoing*):** Shiny app for omics data visualization.
+**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics) (*ongoing*):** Shiny app for omics data visualization.
 
 **[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake) (*ongoing*):** Snakemake pipeline for ATAC-seq data.
 
@@ -254,6 +239,8 @@ More on my [GitHub profile](https://github.com/amitjavilaventura).
 **[SCB](https://scb.cat)** (2018 - Present)
 
 ## Honors & Awards {data-icon="award"}
+
+**SEMM PhD Fellowship** (2019-*not ended*)
 
 **Elite athlete** (2015-2021)
 
