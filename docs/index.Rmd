@@ -76,7 +76,7 @@ Last updated on `r Sys.Date()`.
 
 ## Adrià Mitjavila Ventura {#title}
 
-### Bioinformatician at *Istituto Europeo di Oncologia*
+### Bioinformatician at *Institut Josep Carreras*
 
 <p style="font-size:13px">Biotechnologist living around computers. Interested in data analysis to support experimental research as well as in pure (bio)computational experiments and in software/pipeline development. See more about me on [my website](https://amitjavilaventura.github.io).</p>
 
