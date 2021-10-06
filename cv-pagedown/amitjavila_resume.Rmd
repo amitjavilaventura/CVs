@@ -44,27 +44,17 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Skills {#skills}
 
-**Omics data analysis:**
+**Bioinformatics:**
 
--   Microarray, (small) RNA- / ChIP- / ATAC- / MNase-seq
+-   Microarray, (small) RNA- / ChIP- / ATAC- / MNase-seq <!--, ENSEMBL, UCSC Genome Browser, IGV, NCBI Blast -->
 
-**Programming/scripting:**
+**Informatics:**
 
--   R/Bioconductor, Bash, Python
-
-<!--
-**Statistics:**
-
--   Statistical modeling, linear regression, machine learning
--->
-
-**Other (informatics):**
-
--   R Markdown, Snakemake, Git, HPC, Conda, Docker
+-   R/Bioconductor, R Markdown, Shiny, Bash, Snakemake, Python, Git, HPC, Conda, Docker, Singularity <!--, Linux (Ubuntu), Mac OS, Windows, MSOffice, LibreOffice -->
 
 **Experimental:**
 
--   (RT-)(q)PCR, primer design, electrophoresis, WB, MNase-digestion, bacterial culture
+-   (RT-)(q)PCR, primer design, electrophoresis, Western Blot, MNase-digestion, bacterial culture
 
 **Languages:**
 
