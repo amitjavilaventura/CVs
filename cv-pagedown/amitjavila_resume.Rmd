@@ -144,11 +144,9 @@ Online
 
 2018 - Present
 
-<!--
 <span style="font-size:9px">
-Master's thesis: *xxx*.
+Master's thesis: *Analysis of the variation in piRNA expression across three <u>Mus</u> species*.
 </span>
--->
 
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/){target="_blank"}
 
