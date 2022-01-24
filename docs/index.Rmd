@@ -162,7 +162,8 @@ Online
 
 2018 - Present
 
-- Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*.
+- Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*. Grade: 9.7/10.
+- Overall grade: 8.94/10.
 
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/)
 
@@ -174,7 +175,7 @@ Seville, Spain
 
 - Specialization in Molecular Biology Research. 
 - Master's thesis: *Influence of Xrn1 in nucleosome positioning across <ins>Saccharomyces cerevisiae</ins> genome and its effects in transcription*. Grade: 9.2/10
-- Grade: 9.33/10.
+- Overall grade: 9.33/10.
 
 ### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
 
@@ -186,7 +187,7 @@ Girona, Spain
 
 - Specialization in Cellular & Molecular Biotechnology.  
 - Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10
-- Grade: 8.12/10.
+- Overall grade: 8.12/10.
 
 ## Publications {data-icon="book"}
 

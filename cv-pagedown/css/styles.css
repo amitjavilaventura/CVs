@@ -131,10 +131,15 @@ sup {
   content: "• ";
 }
 
-/* Make sure elements in asside are centered and have a nice small text */
+/* Remove the fake bullets from lists */
+.aside li::before {
+  content: auto;
+}
+
+/* Make sure elements in aside are centered and have a nice small text */
 .aside {
   width: calc(var(--sidebar-width) + 9px);
-  line-height: 1.2;
+  line-height: 1.1;
   font-size: 0.75rem;
   padding: 0in var(--sidebar-horizontal-padding);
 }
@@ -143,19 +148,22 @@ sup {
   margin-top: 0.1in;
 }
 
+.aside .level2{
+  margin-top: 0.1in;
+}
+
+.aside h{
+  margin-top: 0.2in;
+  margin-bottom: 0in;
+}
+
+
 /* Make little circle outline be yellow */
 .decorator::after {
   background-color: #FED766;
 }
 
-/* Remove the fake bullets from lists */
-.aside li::before {
-  content: auto;
-}
 
-.aside .level2{
-  margin-top: 0.3in;
-}
 
 [data-id="disclaimer"] {
   margin-bottom: -1in;
