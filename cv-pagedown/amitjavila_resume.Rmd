@@ -72,13 +72,14 @@ knitr::include_graphics(path = "fotojo.png")
 
 **[`plotmics`](https://amitjavilaventura.github.io/plotmics/)**<br>
 **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/)**<br>
-<!--**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics)** (*ongoing*)<br> -->
-<!--**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*)<br> -->
+<!--**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics)** (*ongoing*) <br> -->
+<!--**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*) <br> -->
 More on [my GitHub profile](https://github.com/amitjavilaventura)
 
 ## Awards
 
-**[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (2019-*declined*) <br>
+<!-- **[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (2019-*declined*) <br> -->
+**[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (2015-2021) <br>
 **[2016 World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)**
 
 ## Disclaimer {#disclaimer}
