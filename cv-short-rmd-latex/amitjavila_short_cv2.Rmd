@@ -33,13 +33,13 @@ updated: yes
 \vspace{2mm}
 
 \small 
-\emph{Biotechnologist living around computers, interested in omics data analysis to support experimental research as well as in pure computational experiments and in software/pipeline development.}
+\emph{Biotechnologist with training in Molecular Genetics and Bioinformatics. Interested in omics data analysis to study the mechanisms of gene regulation in mammals.}
 
 \normalsize
 
 # Education \hrulefill
 
-**MSc. Bioinformatics and Biostatistics**, *Universitat Oberta de Catalunya*, Online \hfill {\small\emph{2018 - Present}}
+**MSc. Bioinformatics and Biostatistics**, *Universitat Oberta de Catalunya*, Online \hfill {\small\emph{2018 - 2022}}
 
 **MSc. Molecular Genetics and Biotechnology**, *Universidad de Sevilla*, Seville (Spain) \hfill {\small\emph{2017 - 2018}}
 
@@ -86,13 +86,25 @@ updated: yes
 
 \small \emph{Programming}: R/Bioconductor, Python, Bash
 
-\small \emph{Other}: Snakemake, Conda, Docker, Git
+\small \emph{Other}: Snakemake, Conda, Docker, Git, HPC
 
 # Publications \hrulefill
 
 ## Journal Articles
 
 \footnotesize Begley *et al*. 2020 **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
+
+<!--
+# Projects \hrulefill
+
+## Academic projects
+
+\footnotesize Master's tesis (UOC, 2022). **Analysis of the variation in piRNA expression across three _Mus_ species**. Supervisor: Dr. Tanya Vavouri. Grade: 9.7/10, *with honours*.
+
+\footnotesize Master's tesis (US, 2018). **Influence of Xrn1 in nucleosome positioning across _Saccharomyces cerevisiae_ genome and its effects in transcription**. Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo. Grade: 9.2/10.
+
+\footnotesize Bachelor's tesis (UdG, 2017). **Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy**. Supervisor: Prof. Jesús García-Gil. Grade: 9.4/10.
+-->
 
 # References \hrulefill
 

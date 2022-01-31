@@ -9,7 +9,7 @@ output:
     self_contained: yes
 ---
 
-<p style = "font-size:20px; color: black;"><i class="fas fa-user"></i> &nbsp; Ex-elite rower in <i>Club Natació Banyoles</i> </p> 
+<p style = "font-size:20px; color: black;">Ex-elite rower in <i>Club Natació Banyoles</i> </p> 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE,
@@ -35,7 +35,7 @@ I started rowing at the end of 2007 and, since then, I have trained and competed
 
 Unfortunatelly, I missed the qualification for the 2016 Olympic Games by one place. However, toghether with my crewmate, I became 2016 World Rowing Under-23 champion in the category of Under-23 Lightweight Double Scull (BLM2x). 
 
-Finally I left the high-level competition in 2019. å
+Finally I left the high-level competition in 2019.
 
 ```{r image_blm2x, fig.cap="Spanish LM2x in the 2016 World Rowing Cup I. I am the rower in the bowsite (leftside in the photo).", out.width="60%"}
 #knitr::include_graphics("assets/lm2x_wrci.png")
@@ -44,295 +44,295 @@ Finally I left the high-level competition in 2019. å
 
 ### 2018/2019
 
-*   European Rowing Championship 
+*   European Rowing Championship (Luzern, Switzerland)
     +    LM4x - **7^th^** - ESP  <br>
 
-*   Spanish Rowing Championship 
+*   Spanish Rowing Championship (Banyoles, Spain)
     +    M8+ - **2^nd^** - BNY  <br>
     
-*   Catalan Rowing Championship 
+*   Catalan Rowing Championship (Banyoles, Spain)
     +    M8+ - **1^st^** - BNY 
     +    M4- - **3^rd^** - BNY 
     +    M4x - **1^st^** - BNY  <br>
     
-*   Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    LM1x - **1^st^** - BNY  <br>
     
-*   Spanish Rowing Championship by Autonomies 
+*   Spanish Rowing Championship by Autonomies (Castrelo do Miño, Spain)
     +    M8+ - **1^st^** - CAT  <br>
 
 ### 2017/2018
 
-*   Mediterranean Games
-    +    LM2x - **2^nd^** - ESP  <br>
+*   Mediterranean Games (Barceliona, Spain)
+    +    LM2x - **4^th^** - ESP  <br>
 
-*   Spanish Rowing Championship 
+*   Spanish Rowing Championship (Banyoles, Spain)
     +    M4x - **1^st^** - BNY 
     +    M8+ - **4^th^** - BNY  <br>
     
-*   Catalan Rowing Championship 
+*   Catalan Rowing Championship (Banyoles, Spain)
     +    M8+ - **1^st^** - BNY  
     +    M4- - **2^nd^** - BNY  
     +    M4x - **1^st^** - BNY  
     +    M2x - **3^rd^** - BNY  <br>
 
-*   Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    LM1x - **3^rd^** - BNY  <br>
  
 ### 2016/2017
 
-*   Spanish Rowing Championship 
+*   Spanish Rowing Championship (Sevilla, Spain)
     +    M4x - **2^nd^** - BNY  <br>
     
-*   Catalan Rowing Championship 
+*   Catalan Rowing Championship (Banyoles, Spain)
     +    M8+ - **3^rd^** - BNY  
     +    M2x - **3^rd^** - BNY  <br>
 
-*   Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    LM1x - **6^th^** - BNY  <br>
     
-*   Spanish Indor Rowing Championship 
+*   Spanish Indor Rowing Championship (Castrelo do Miño, Spain)
     +    LM - **5^th^** - BNY  <br>
 
 ### 2015/2016
 
-*   World Rowing Under-23 Championship
+*   World Rowing Under-23 Championship (Rotterdam, Netherlands)
     +    BLM2x - **1^st^** - ESP  <br>
     
-*   European Continental Olympic Qualification Regatta
+*   European Continental Olympic Qualification Regatta (Luzern, Switzerland)
     +    LM2x - **4^th^** - ESP  <br>
 
-*   World Rowing Cup I
+*   World Rowing Cup I (Varese, Italy)
     +    LM2x - **5^th^** - ESP  <br>
 
-*   *Regatta internazionale di Piediluco - XXX Memorial Paolo d’Aloja* 
+*   *Regatta internazionale di Piediluco - XXX Memorial Paolo d’Aloja* (Piediluco, Italy)
     +    LM2x - **2^nd^** - ESP 
     +    LM2x - **2^nd^** - ESP  <br>
 
-*   Spanish Rowing Championship 
+*   Spanish Rowing Championship (Banyoles, Spain)
     +    M4x - **2^nd^** - BNY  
     +    M2x - **2^nd^** - BNY  <br>
     
-*   French Rowing Championship 
+*   French Rowing Championship (Gravelines, France)
     +    M4x - **2^nd^** - PER  <br>
     
-*   Catalan Rowing Championship 
+*   Catalan Rowing Championship (Banyoles, Spain)
     +    M8+ - **2^nd^** - BNY  
     +    M2x - **1^st^** - BNY  
     +    M4x - **1^st^** - BNY  <br>
     
-*   Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    M1x - **7^th^** - BNY  <br>
 
-*   Spanish Long Distance Rowing Championship 
+*   Spanish Long Distance Rowing Championship (Sevilla, Spain)
     +    LM1x - **4^th^** - BNY  <br>
 
-*   Spanish Indor Rowing Championship 
+*   Spanish Indor Rowing Championship (Sevilla, Spain)
     +    LM - **5^th^** - BNY  <br>
 
 ### 2014/2015
 
-*   World Rowing Under-23 Championship 
+*   World Rowing Under-23 Championship (Plovdiv, Bulgaria)
     +    BLM2x - **6^th^** - ESP  <br>
 
-*   *Regatta internazionale di Piediluco - XXX Memorial Paolo d’Aloja* 
+*   *Regatta internazionale di Piediluco - XXIX Memorial Paolo d’Aloja* (Piediluco, Italy)
     +    LM2x - **4^th^** - ESP  <br>
     
-*   *Régate internationale Savoie – Mont-blanc* 
+*   *Régate internationale Savoie – Mont-blanc* (Aiguebelette, France)
     +    M2x - **2^nd^** - CAT 
     +    M4x - **1^st^** - CAT <br>
 
-*   Spanish Rowing Championship 
+*   Spanish Rowing Championship (Sevilla, Spain) 
     +    M2x - **2^nd^** - BNY  <br>
     
-*   French Rowing Championship 
+*   French Rowing Championship (Mantes-la-Jolie, France)
     +    M4x - **7^th^** - PER <br>
     
-*   Catalan Rowing Championship 
+*   Catalan Rowing Championship (Banyoles, Spain) 
     +    M8+ - **1^st^** - BNY  
     +    M2x - **1^st^** - BNY  
     +    M4x - **1^st^** - BNY  <br>
     
-*   Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    M1x - **6^th^** - BNY  <br>
 
-*   Spanish Indor Rowing Championship 
+*   Spanish Indor Rowing Championship (Amposta, Spain)
     +    LM - **4^th^** - BNY  <br>
     
-*   *Défi Seine* 
+*   *Défi Seine* (Rouen, France)
     +    M8+ - **3^rd^** - BNY  <br>
 
 ### 2013/2014
 
-*   World Rowing Under-23 Championship 
+*   World Rowing Under-23 Championship (Varese, Italy)
     +    BLM2x - **13^th^** - ESP  <br>
 
-*   *Régate internationale Savoie – Mont-blanc* 
+*   *Régate internationale Savoie – Mont-blanc* (Aiguebelette, France)
     +    M2x - **1^st^** - CAT 
     +    M4x - **2^nd^** - CAT  <br>
 
-*   Spanish Rowing Championship 
+*   Spanish Rowing Championship (Banyoles, Spain)
     +    M2x - **1^st^** - BNY 
     +    M8+ - **6^th^** - BNY  <br>
     
-*   Catalan Rowing Championship 
+*   Catalan Rowing Championship (Banyoles, Spain)
     +    M8+ - **1^st^** - BNY  
     +    M2x - **1^st^** - BNY  
     +    M4x - **1^st^** - BNY  <br>
     
-*   Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    M1x - **6^th^** - BNY  <br>
 
-*   Spanish Indor Rowing Championship 
+*   Spanish Indor Rowing Championship (Seville, Spain) 
     +    LM - **7^th^** - BNY  <br>
 
-*   Rowing Avignon Cup Edition 
+*   Rowing Avignon Cup Edition (Avignon, France)
     +    M8+ - **6^th^** - BNY 
     +    M2x - **2^nd^** - BNY  <br>
 
 ### 2012/2013
 
-*  World Rowing Under-23 Championship 
+*  World Rowing Under-23 Championship (Ottensheim, Austria)
     +    BLM1x - **19^th^** - ESP  <br>
 
-*  Spanish Rowing Championship 
+*  Spanish Rowing Championship (Seville, Spain)
     +    M2x - **1^st^** - BNY 
     +    M4x - **6^th^** - BNY  <br>
     
-*  Catalan Rowing Championship 
+*  Catalan Rowing Championship (Banyoles, Spain)
     +    M2x - **1^st^** - BNY  
     +    M4x - **2^nd^** - BNY  
     +    M8+ - **3^rd^** - BNY  <br>
     
-*  Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    M1x - **10^th^** - BNY  <br>
 
-*  Rowing Avignon Cup Edition 
+*   Rowing Avignon Cup Edition (Avignon, France)
     +    M8+ - **2^nd^** - BNY  <br>
 
 
 ### 2011/2012
 
-*  *Coupe de la Jeunesse* 
+*  *Coupe de la Jeunesse* (Banyoles, Spain)
     +    JM1x- **2^nd^** - ESP 
     +    JM1x- **3^rd^** - ESP  <br>
 
-*  Spanish Rowing Championship 
+*  Spanish Rowing Championship (Castrelo do Miño, Spain)
     +    JM2x - **1^st^** - BNY 
     +    JM4x - **5^th^** - BNY  <br>
     
-*  Catalan Rowing Championship 
+*  Catalan Rowing Championship (Banyoles, Spain) 
     +    JM1x - **1^st^** - BNY  
     +    JM2x - **1^st^** - BNY  
     +    JM4x - **3^rd^** - BNY  <br>
 
-*   *DRV Junioren Regatta Munchen* 
+*   *DRV Junioren Regatta Munchen* (Munich, Germany)
     +    JM8+ - **7^th^* - ESP 
     
-*   Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    JM1x - **1^st^** - BNY  <br>
 
-*   Spanish Rowing Championship by Autonomies 
+*   Spanish Rowing Championship by Autonomies (Banyoles, Spain)
     +    JM4x - **1^st^** - CAT 
     +    JM8+ - **1^st^** - CAT  <br>
 
-*   Rowing Avignon Cup Edition 
+*   Rowing Avignon Cup Edition (Avignon, France)
     +    M8+ - **4^th^** - BNY  <br>
     
 ### 2010/2011
 
-*   *Coupe de la Jeunesse* 
+*   *Coupe de la Jeunesse* (Ottensheim, Austria)
     +    JM1x- **3^rd^** - ESP 
     +    JM1x- **4^th^** - ESP  <br>
 
-*   Spanish Rowing Championship 
+*   Spanish Rowing Championship (Seville, Spain)
     +    JM2x - **1^st^** - BNY 
     +    JM4x - **5^th^** - BNY  <br>
     
-*   Catalan Rowing Championship 
+*   Catalan Rowing Championship (Banyoles, Spain)
     +    JM2x - **1^st^** - BNY  
     +    JM4- - **1^st^** - BNY 
     +    JM4x - **1^st^** - BNY  
     +    M8+ - **3^rd^** - BNY  <br>
 
-*   *DRV Junioren Regatta Munchen* 
-    +    JM1x - **7^th^* - ESP 
+*   *DRV Junioren Regatta Munchen* (Munich, Germany)
+    +    JM1x - **7^th^** - ESP 
     
-*   Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    JM1x - **3^rd^** - BNY  <br>
 
-*   Spanish Rowing Championship by Autonomies 
+*   Spanish Rowing Championship by Autonomies (Castrelo do Miño, Spain)
     +    JM4x - **1^st^** - CAT  <br>
     
-*   Spanish Long Distance Rowing Championship 
+*   Spanish Long Distance Rowing Championship (Vegadeo, Spain)
     +    JM4x - **2^nd^** - BNY  <br>
 
-*   Rowing Avignon Cup Edition 
+*   Rowing Avignon Cup Edition (Avignon, France)
     +    M8+ - **1^st^** - BNY  <br>
 
 ### 2009/2010
 
-*   Nautical Atlantic Games 
+*   Nautical Atlantic Games (Santander, Spain)
     +    CM4x - **2^nd^** - CAT 
-    +    CM8+ - **4^th^** - CAT 
+    +    CM8+ - **4^th^** - CAT  <br> 
 
-*   Spanish Rowing Championship 
+*   Spanish Rowing Championship (Seville, Spain)
     +    CM4x - **1^st^** - BNY 
     +    CM1x - **2^nd^** - BNY  <br>
 
-*   Catalan Rowing Championship 
+*   Catalan Rowing Championship (Banyoles, Spain)
     +    CM4x - **1^st^** - BNY  
     +    CM4- - **2^nd^** - BNY  
     +    CM2x - **2^nd^** - BNY  
     +    CM1x - **2^nd^** - BNY  <br>
 
-*   Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    CM1x - **1^st^** - BNY  <br>
     
-*   Spanish Rowing Championship by Autonomies 
+*   Spanish Rowing Championship by Autonomies (Castrelo do Miño, Spain) 
     +    CM4x - **1^st^** - CAT 
     +    CM8+ - **2^nd^** - CAT  <br>
     
-*   Inter CTD Regatta
+*   Inter CTD Regatta (Sevilla, Spain)
     +    CM1x - **2^nd^** - CAT  <br>
     
-*   Spanish Indoor Rowing Chamapionship 
+*   Spanish Indoor Rowing Chamapionship (Tui, Spain)
     +    CM - **2^nd^** - BNY  <br>
     
-*   Spanish Long Distance Rowing Championship 
+*   Spanish Long Distance Rowing Championship (Tui, Spain)
     +    JM4x - **1^st^** - BNY  <br>
   
 ### 2008/2009
 
-*   Spanish Rowing Championship 
+*   Spanish Rowing Championship (Castrelo do Miño, Spain)
     +    CM2x - **1^st^** - BNY 
     +    CM4x - **3^rd^** - BNY  <br>
     
-*   Catalan Rowing Championship 
+*   Catalan Rowing Championship (Banyoles, Spain)
     +    CM4x - **1^st^** - BNY 
     +    CM2x - **1^st^** - BNY 
     +    CM4- - **3^rd^** - BNY  <br>
     
-*   *DRV Junioren Regatta Munchen* 
+*   *DRV Junioren Regatta Munchen* (Munich, Spain)
     +    CM4x+ - **2^nd^** - CAT  
     +    CM2x - **5^th^** - CAT  <br>
     
-*   Spring trial (entry to national team) 
+*   Spring trial - access to national team (Banyoles, Spain)
     +    CM1x - **8^th^** - BNY  <br>
     
-*   Inter CTD Regatta 
+*   Inter CTD Regatta (Seville, Spain)
     +    CM4x - **1^st^** - CAT  
     +    CM4x - **1^st^** - CAT  <br>
     
-*   Spanish Long Distance Rowing Championship 
+*   Spanish Long Distance Rowing Championship (Tortosa, Spain)
     +    CM4x - **2^nd^** - BNY  <br>
 
 ### 2007/2008
 
-*   Spanish Rowing Championship 
+*   Spanish Rowing Championship (Banyoles, Spain)
     +    IM4x - **1^st^** - BNY  <br>
     
-*   Catalan Rowing Championship 
+*   Catalan Rowing Championship (Banyoles, Spain) 
     +    IM8+ - **1^st^** - BNY  
     +    IM4x - **1^st^** - BNY  
     +    IM2x - **1^st^** - BNY 
@@ -346,7 +346,7 @@ Finally I left the high-level competition in 2019. å
 library(dplyr)
 
 data.frame(Category = c("M: Men", "LM: Lightweight men", "BM:  Under-23 men", "BLM: Under-23 lightweight men", 
-                        "JM: Junior men", "CM: Under-17 men", "IM: Under-15 men", "AM: Under-13 men"),
+                        "JM: Junior (under-19) men", "CM: Under-17 men", "IM: Under-15 men", "AM: Under-13 men"),
            Boat = c("8+: Coxed eight", "4+:  Coxed four", "4-: Coxless four", "4x: Quadruple scull", 
                     "2+: Coxed pair", "2-:   Coxless pair", "2x   Double scull", "1x:  Single scull"),
            Team = c("ESP: Spanish Rowing Team", "CAT: Catalan Rowing Team", "BNY: Club Natació Banyoles", "PER: Aviron Perpignan 66", " ", " ", " ", " ")) %>%

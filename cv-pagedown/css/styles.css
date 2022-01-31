@@ -69,7 +69,7 @@ sup {
   padding-top: 0.005rem;
 }
 .main-block.concise .details div:not(.concise) {
-    padding: 0.01in 0 0.1in 0;
+    padding: 0.005in 0 0.005in 0;
 }
 
 /* Laptop icon isn't centered by default which is lame */
