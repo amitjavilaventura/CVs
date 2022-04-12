@@ -151,10 +151,23 @@ Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\small\textbf{Giron
 * \scriptsize - \emph{Languages}: R/Bioconductor, Bash, Python (*basic*)
 * \scriptsize - \emph{Other}: R Markdown, Snakemake, Conda, Docker, Singularity, Git, HPC, LaTeX
 
+# Development \hrulefill
+
+\footnotesize \textbf{R packages}
+
+* \scriptsize - [`plOtMICS`](https://amitjavilaventura.github.io/plotmics): visualization of omics and sequencing data in R.
+* \scriptsize - [`ggmitji`](https://amitjavilaventura.github.io/ggmitji): cool functions to complement ggplots.
+* \scriptsize - [`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR): visualize outputs from [`ChromHMM`](http://compbio.mit.edu/ChromHMM/).
+
+\footnotesize \textbf{Others}.
+
+* \scriptsize - [`DNAme`](https://github.com/amitjavilaventura/DNAme): shinyApp with learning purposes that transforms a name to DNA/RNA sequence.
+* \scriptsize - [`DNApp`](https://github.com/amitjavilaventura/DNApp): shinyApp with some DNA-related applications, including [`DNAme`](https://github.com/amitjavilaventura/DNAme)
+* \scriptsize - [`MYomics`](https://github.com/amitjavilaventura/DPomics/tree/MYomics): shinyApp to visualize several omics data. *Ongoing*
+
 # Organizations \hrulefill
 
 \footnotesize \textbf{Societat Catalana de Biologia (SCB)}. 2018 - Present
-
 
 \footnotesize \textbf{Associació de Biotecnòlegs de Catalunya (ASBTEC)}. 2017 - Present
 
