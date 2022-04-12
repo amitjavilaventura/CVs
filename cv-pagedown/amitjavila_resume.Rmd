@@ -70,15 +70,17 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Code
 
+**[`ggmitji`](https://amitjavilaventura.github.io/ggmitji/)**<br>
 **[`plotmics`](https://amitjavilaventura.github.io/plotmics/)**<br>
 **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/)**<br>
 <!--**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics)** (*ongoing*) <br> -->
 <!--**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*) <br> -->
 More on [my GitHub profile](https://github.com/amitjavilaventura)
+<br>
 
 ## Awards
 
-**Master's thesis (UOC): _honours_** (2022) <br>
+**Master's thesis (UOC) _with honours_** (2022) <br>
 <!-- **[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (2019-2021 *declined*) <br> -->
 **[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (2015-2021) <br>
 **[2016 World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)**
@@ -89,14 +91,13 @@ References available upon request.<br>
 Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown/amitjavila_resume.Rmd).<br>
 Last updated on `r Sys.Date()`.
 
-
 # Main
 
-## Adrià Mitjavila Ventura {#title}
+## <span style="font-size:18px"> Adrià Mitjavila Ventura </span> {#title}
 
-### MSc | Bioinformatician at *Institut Josep Carreras*
+### <span style="font-size:11px"> MSc | Bioinformatician at *Institut Josep Carreras* </span> 
 
-<p style="font-size:13px">Biotechnologist with training in Molecular Genetics and Bioinformatics. Interested in omics data analysis to study the mechanisms of gene regulation in mammals. See more about me on [my website](https://amitjavilaventura.github.io).</p>
+<p style="font-size:11px">Biotechnologist with training in Molecular Genetics and Bioinformatics. Interested in omics data analysis to study the mechanisms of gene regulation in mammals. See more about me on [my website](https://amitjavilaventura.github.io).</p>
 
 ## Experience {data-icon="laptop"}
 
@@ -188,10 +189,22 @@ Overall grade: 8.12/10   |   Bachelor's thesis: *Butyrate-induced changes in the
 
 ## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 
-### <span style="font-size:10px; font-weight:200"> Begley *et al*. Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration. *RNA Biology* 2020. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"} </span>
+### <span style="font-size:10px; font-weight:200"> Begley *et al*. __Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration__. *RNA Biology* 2020. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"} </span>
+
+N/A <!-- <span style="font-size:9px; font-weight:200">*Journal article* </span> -->
 
 N/A
 
 N/A
 
-N/A
+<!-- 
+## Posters & Presentations {data-icon="user"}
+
+### <span style="font-size:10px; font-weight:200"> <u>Mitjavila</u> & Vavouri. __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)*. *Jornades de Biologia de la Reproducció* of the Catalan Society of Biology (March 2022) </span> 
+
+ N/A  <span style="font-size:9px; font-weight:200">*Oral presentation* </span> 
+
+N/A 
+
+N/A 
+-->

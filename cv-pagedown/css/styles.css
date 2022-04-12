@@ -12,7 +12,7 @@
 /* Main text is monserrat*/
 body {
   font-family: "Source Sans Pro", sans-serif;
-  font-weight: 300;
+  font-weight: 250;
   line-height: 1.1;
   color: #444;
 }
@@ -25,6 +25,22 @@ h4 {
   font-family: "Oxygen", serif;
   color: #000;
   margin: 0;
+}
+
+h2 {
+  margin-top: -12px;
+  padding: 0px 0px;
+}
+
+/*reset margins from headers in aside*/
+.aside h2, h3 {
+  margin-top: 0px;
+}
+
+
+h3 {
+  margin-top: -5px;
+  padding: 0px 0px;
 }
 
 a {
@@ -125,6 +141,7 @@ sup {
   padding-left: .5rem;
 }
 
+
 .aside li::before {
   position: relative;
   margin-left: -4pt;
@@ -139,8 +156,8 @@ sup {
 /* Make sure elements in aside are centered and have a nice small text */
 .aside {
   width: calc(var(--sidebar-width) + 9px);
-  line-height: 1.1;
-  font-size: 0.75rem;
+  line-height: 1.05;
+  font-size: 0.70rem;
   padding: 0in var(--sidebar-horizontal-padding);
 }
 
@@ -162,8 +179,6 @@ sup {
 .decorator::after {
   background-color: #FED766;
 }
-
-
 
 [data-id="disclaimer"] {
   margin-bottom: -1in;
