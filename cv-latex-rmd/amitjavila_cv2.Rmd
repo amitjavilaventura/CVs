@@ -114,21 +114,18 @@ Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\small\textbf{Giron
 
 \footnotesize \textbf{Analysis of the variation in piRNA expression across three \emph{Mus} species}
 
-* \scriptsize - Master's tesis (UOC, 2022).
-* \scriptsize - Supervisor: Dr. Tanya Vavouri. 
-* \scriptsize - Grade: 9.7/10, \emph{with honours}.
+* \scriptsize - Master's tesis (UOC, 2022). | Supervisor: Dr. Tanya Vavouri. | Grade: 9.7/10, \emph{with honours}.
+<!-- * \scriptsize - Description: *piRNAs are small RNAs that silence transposons in the germline of most animals. In this project, we compared three mouse species and their piRNAs to find what explains differences in piRNA production and piRNA-producing loci (piRNA cluster) across closely related species. We found that the most expressed is a piRNA cluster, the most likely is to be expressed in other species. Also, we tested whether the presence of species-specific transposons could explain the differences in piRNA expression across species. Although species specific transposons cannot explain all the changes in piRNA production, we found several cases consistent with this hypothesis*. -->
 
 \footnotesize \textbf{Influence of Xrn1 in nucleosome positioning across \emph{Saccharomyces cerevisiae} genome and its effects in transcription}
 
-* \scriptsize - Master's tesis (US, 2018). 
-* \scriptsize - Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
-* \scriptsize - Grade: 9.2/10.
+* \scriptsize - Master's tesis (US, 2018). | Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo. | Grade: 9.2/10.
+<!-- * \scriptsize - Description: *Study of Xrn1, a protein involved in the degradation of mRNA, and its role in the nucleosome localization and transcription of \emph{Saccharomyces cerevisiae}. Analizing MNase-seq data, we found that Xrn1 knockout induce an increase nuclosome occupancy around TSS, likely explaining a decrease in transcription initiation, whereas in the gene body, the nucleosome occupancy decreases as a consequence of the RNA pol II backtracking. Results were validated using MNase-qPCR for two selected genes in Xrn1 conditional mutants.*. -->
 
 \footnotesize \textbf{Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy}
 
-* \scriptsize - Bachelor's tesis (UdG, 2017). 
-* \scriptsize - Supervisor: Prof. Jesús García-Gil.
-* \scriptsize - Grade: 9.4/10.
+* \scriptsize - Bachelor's tesis (UdG, 2017). | Supervisor: Prof. Jesús García-Gil. | Grade: 9.4/10.
+<!-- * \scriptsize - Description: **. -->
 
 
 # Skills \hrulefill

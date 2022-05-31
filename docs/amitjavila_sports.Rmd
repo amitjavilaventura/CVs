@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE,
 
 One of the most relevant components in my life has been sport, specially rowing, and here I will show some the results I've had. 
 
-## <b style = "font-size:25px; color:black;">Rowing </b> {.tabset}
+## <b style = "font-size:25px; color:black;">Rowing</b> {.tabset}
 
 I started rowing at the end of 2007 and, since then, I have trained and competed at my highest level to achieve my goals in this sport. 
 
@@ -56,7 +56,7 @@ Finally I left the high-level competition in 2019.
     +    M4x - **1^st^** - BNY  <br>
     
 *   Spring trial - access to national team (Banyoles, Spain)
-    +    LM1x - **1^st^** - BNY  <br>
+    +    LM1x - **5^th^** - BNY  <br>
     
 *   Spanish Rowing Championship by Autonomies (Castrelo do Miño, Spain)
     +    M8+ - **1^st^** - CAT  <br>
@@ -359,3 +359,12 @@ data.frame(Category = c("M: Men", "LM: Lightweight men", "BM:  Under-23 men", "B
 <br><br><br><br>
 <br><br><br><br>
 <br><br><br><br>
+
+## <b style = "font-size:25px; color:black;">Others</b> {.tabset}
+
+Apart from rowing, I like to practice other sports, such as running and trail-running, cycling, etc.
+
+* 2022-03-27. *27a Mitja Marató del Pla de l'Estany* (half-marathon, 21.125km, 1h 41min)
+* 2018-09-16. *75a Travessia de l'Estany de Banyoles* (swimming, 2115m)
+* 2015-09-20. *72a Travessia de l'Estany de Banyoles* (swimming, 2115m)
+
