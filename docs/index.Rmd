@@ -89,6 +89,7 @@ Study of Piwi-interacting RNAs (piRNAs), their biogenesis mechanisms and their c
 
 - Development and application of a pipeline to process small RNA-seq data, focused on the study of piRNAs.
 - Development of a method for differential expression without gene length differences when using multiple species.
+- Mentoring of bachelor's and master's thesis students. 
 - Master's thesis (UOC): *Analysis of the variation in piRNA expression across three <u>Mus</u> species*. Grade: 9.78/10 (**with honours**). Supervisor: Dr. Tanya Vavouri.
 
 
@@ -249,7 +250,7 @@ More on my [GitHub profile](https://github.com/amitjavilaventura).
 
 ## Honors & Awards {data-icon="award"}
 
-**Master's thesis (UOC): _with honours_** (2022) <br>
+<!-- **[Master's thesis (UOC)](http://hdl.handle.net/10609/138748), _with honours_** (2022) <br> -->
 <!-- **[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (2019-2021 *declined*) <br> -->
 **[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (2015-2021) <br>
 **[2016 World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)**
