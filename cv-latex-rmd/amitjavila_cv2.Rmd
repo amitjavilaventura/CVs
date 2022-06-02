@@ -54,6 +54,7 @@ Institut Josep Carreras (IJC) \hfill {\small\textbf{Badalona (Spain)}}
   + \scriptsize - Study of the Piwi-interacting RNAs (piRNAs) and their variation across closely-related species.
   + \scriptsize - Analysis of small RNA-seq data for the study of piRNAs.
   + \scriptsize - Approach to reduce gene length differences for differential expression analysis with multiple species.
+  + \scriptsize - Mentoring of bachelor's and master's thesis students.
 
 Istituto Europeo di Oncologia (IEO) \hfill {\small\textbf{Milan (Italy)}}
 
@@ -121,6 +122,7 @@ Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\small\textbf{Giron
 
 * \scriptsize - Master's tesis (US, 2018). | Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo. | Grade: 9.2/10.
 <!-- * \scriptsize - Description: *Study of Xrn1, a protein involved in the degradation of mRNA, and its role in the nucleosome localization and transcription of \emph{Saccharomyces cerevisiae}. Analizing MNase-seq data, we found that Xrn1 knockout induce an increase nuclosome occupancy around TSS, likely explaining a decrease in transcription initiation, whereas in the gene body, the nucleosome occupancy decreases as a consequence of the RNA pol II backtracking. Results were validated using MNase-qPCR for two selected genes in Xrn1 conditional mutants.*. -->
+* \scriptsize - Related publications: [Begley *et al*., RNA Biology, 2020](https://doi.org/10.1080/15476286.2020.1845504)
 
 \footnotesize \textbf{Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy}
 
@@ -166,13 +168,13 @@ Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\small\textbf{Giron
 
 \footnotesize \textbf{Societat Catalana de Biologia (SCB)}. 2018 - Present
 
-\footnotesize \textbf{Associació de Biotecnòlegs de Catalunya (ASBTEC)}. 2017 - Present
+\footnotesize \textbf{Associació de Biotecnòlegs de Catalunya (ASBTEC)}. 2017 - Present (*Board Memmber*. 2019 - Present)
 
 # Honours & Awards \hrulefill
 
 \footnotesize Master's thesis with honours (UOC, 2022)
 
-<!-- \scriptsize SEMM PhD Fellowship (2019-2021, *declined*) -->
+<!-- \footnotesize SEMM PhD Fellowship (2019-2021, *declined*) -->
 
 \footnotesize Elite athlete (2015-2021)
 

@@ -109,7 +109,6 @@ Study of Wnt/$\beta$catenin signaling pathway -and others- and its effects in tr
 - Development of a pipeline to process and analyze ATAC-seq data.
 - Comparison of different sequencing depths for RNA-seq and their influence in differential expression analysis.
 
-
 ### Master's thesis student & research assistant
 
 *[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*
@@ -251,7 +250,7 @@ More on my [GitHub profile](https://github.com/amitjavilaventura).
 ## Honors & Awards {data-icon="award"}
 
 **[Master's thesis (UOC)](http://hdl.handle.net/10609/138748), _with honours_** (2022) <br>
-**[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (2019-2021 *declined*) <br>
+<!--**[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (2019-2021 *declined*) <br> -->
 **[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (2015-2021) <br>
 **[2016 World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)**
 
