@@ -111,7 +111,7 @@ Badalona, Spain
 08/2021 - Present
 
 <span style="font-size:10px">
-Study of PIWI-interacting RNAs (piRNAs), their biogenesis and variation across species.   |   Development of a pipeline for processing smallRNA-seq data focused to analyze piRNAs.
+Study of PIWI-interacting RNAs (piRNAs), their biogenesis and variation across species.   |   Processing and analysis of smallRNA-seq data to study piRNAs across species.
 </span>
 
 ### [Bioinformatician](https://amitjavilaventura.github.io/research/003-ieo/){target="_blank"}
@@ -151,6 +151,20 @@ Microbiological and molecular analyses for pathogen detection and food forensics
 </span>
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
+
+<!--
+
+### PhD in Computational Biology
+
+Universitat...
+
+Barcelona, Spain
+
+2022 - 2025
+
+<span style="font-size:10px">
+</span>
+
 
 ### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion){target="_blank"}
 
