@@ -47,7 +47,7 @@ knitr::include_graphics(path = "fotojo.png")
 -   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io){target="_blank"}
 -   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura){target="_blank"}
 -   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929){target="_blank"}
--   `r fontawesome::fa(name = "blog")` [biobit.netlify.app](https://biobit.netlify.app){target="_blank"}
+<!-- -   `r fontawesome::fa(name = "blog")` [biobit.netlify.app](https://biobit.netlify.app){target="_blank"} -->
 
 
 ## Skills {#skills}
@@ -71,7 +71,7 @@ knitr::include_graphics(path = "fotojo.png")
 ## Code
 
 **[`ggmitji`](https://amitjavilaventura.github.io/ggmitji/)**<br>
-**[`plotmics`](https://amitjavilaventura.github.io/plotmics/)**<br>
+**[`plOtMICS`](https://amitjavilaventura.github.io/plotmics/)**<br>
 **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/)**<br>
 <!--**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics)** (*ongoing*) <br> -->
 <!--**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*) <br> -->
@@ -80,10 +80,11 @@ More on [my GitHub profile](https://github.com/amitjavilaventura)
 
 ## Awards
 
-**Master's thesis (UOC) _with honours_** (2022) <br>
-<!-- **[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (2019-2021 *declined*) <br> -->
-**[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (2015-2021) <br>
-**[2016 World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)**
+**[INPhINIT Incoming PhD Fellowship](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-incoming)** (LaCaixa, 2022-2025) <br>
+**[Master's thesis](http://hdl.handle.net/10609/138748), _with honours_** (UOC, 2022) <br>
+<!--**[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (SEMM, 2019-2021 *declined*) <br> -->
+**[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (BOE, 2015-2021) <br>
+**[World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)** (FISA, 2016)
 
 ## Disclaimer {#disclaimer}
 
@@ -160,7 +161,7 @@ Online
 2018 - 2022
 
 <span style="font-size:10px">
-Overall grade: 8.94   |   Master's thesis: *Analysis of the variation in piRNA expression across three <u>Mus</u> species* (thesis grade 9.7/10, *with honours*).
+Overall grade: 8.94   |   Master's thesis: *Analysis of the variation in piRNA expression across three <u>Mus</u> species* (thesis grade: 9.78/10, *with honours*).
 </span>
 
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/){target="_blank"}
@@ -189,22 +190,20 @@ Overall grade: 8.12/10   |   Bachelor's thesis: *Butyrate-induced changes in the
 
 ## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 
-### <span style="font-size:10px; font-weight:200"> Begley *et al*. __Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration__. *RNA Biology* 2020. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"} </span>
-
-N/A <!-- <span style="font-size:9px; font-weight:200">*Journal article* </span> -->
+### <span style="font-size:10px; font-weight:200;"> Begley *et al*. __Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration__. *RNA Biology* 2020. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"} </span>
 
 N/A
 
 N/A
 
-<!-- 
-## Posters & Presentations {data-icon="user"}
+<p style="font-size:6px">*Journal article*</p>
 
-### <span style="font-size:10px; font-weight:200"> <u>Mitjavila</u> & Vavouri. __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)*. *Jornades de Biologia de la Reproducció* of the Catalan Society of Biology (March 2022) </span> 
-
- N/A  <span style="font-size:9px; font-weight:200">*Oral presentation* </span> 
+<!--
+### <span style="font-size:10px; font-weight:200;"> <u>Mitjavila</u> & Vavouri. __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)*. *Jornades de Biologia de la Reproducció* of the Catalan Society of Biology (March 2022) </span> 
 
 N/A 
 
 N/A 
+
+<span style="font-size:7px; font-weight:200">*Oral presentation* </span> 
 -->

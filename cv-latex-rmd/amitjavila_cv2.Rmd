@@ -172,13 +172,15 @@ Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\small\textbf{Giron
 
 # Honours & Awards \hrulefill
 
+\footnotesize LaCaixa INPhINIT Incoming PhD Fellowsip (LaCaixa, 2022-2025)
+
 \footnotesize Master's thesis with honours (UOC, 2022)
 
-<!-- \footnotesize SEMM PhD Fellowship (2019-2021, *declined*) -->
+<!-- \footnotesize SEMM PhD Fellowship (SEMM, 2019-2021, *declined*) -->
 
-\footnotesize Elite athlete (2015-2021)
+\footnotesize Elite athlete (BOE, 2015-2021)
 
-\footnotesize World Rowing Under-23 Champion (2016)
+\footnotesize World Rowing Under-23 Champion (FISA, 2016)
 
 # References \hrulefill
 
