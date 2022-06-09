@@ -71,7 +71,7 @@ knitr::include_graphics(path = "fotojo.png")
 ## Code
 
 **[`ggmitji`](https://amitjavilaventura.github.io/ggmitji/)**<br>
-**[`plOtMICS`](https://amitjavilaventura.github.io/plotmics/)**<br>
+**[`plotmics`](https://amitjavilaventura.github.io/plotmics/)**<br>
 **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/)**<br>
 <!--**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics)** (*ongoing*) <br> -->
 <!--**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*) <br> -->

@@ -239,7 +239,7 @@ N/A
 **[`ggmitji`](https://amitjavilaventura.github.io/ggmitji/):** Usefull functions for ggplots.  <br>
 **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):** Visualization of ChromHMM outputs in R.  <br>
 **[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics) (*ongoing*):** Shiny app for omics data visualization.  <br>
-**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake) (*ongoing*):** ATAC-seq pipeline for snakemake.  <br>
+**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake) (*unmantained*):** ATAC-seq pipeline for snakemake.  <br>
 More on my [GitHub profile](https://github.com/amitjavilaventura).
 
 ## Organizations
