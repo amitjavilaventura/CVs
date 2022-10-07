@@ -62,8 +62,8 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Disclaimer {#disclaimer}
 
-References available upon request.   <br>
-Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown/amitjavila_cv.Rmd).  <br>
+References available upon request.  <br>
+Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/docs/index.Rmd). <br>
 Last updated on `r Sys.Date()`.
 
 # Main
@@ -76,13 +76,28 @@ Last updated on `r Sys.Date()`.
 
 ## Experience {data-icon="laptop"}
 
-### Bioinformatician
+<!--
+### PhD student
+
+*[Institut Germans Trias i Pujol](http://www.germanstrias.org/)* and *[Institut Josep Carreras](https://www.carrerasresearch.org/)*
+
+Badalona, Spain
+
+11/2022 - Present
+
+[**Group of Regulatory Genomics (Dr. Tanya Vavouri)**](https://www.carrerasresearch.org/en/regulatory-genomics/)<br>
+...
+
+- ...
+-->
+
+### Bioinformatician & Master's thesis student
 
 *[Institut Josep Carreras](https://www.carrerasresearch.org/)*
 
 Badalona, Spain
 
-08/2021 - Present
+08/2021 - 11/2022
 
 [**Group of Regulatory Genomics (Dr. Tanya Vavouri)**](https://www.carrerasresearch.org/en/regulatory-genomics/)<br>
 Study of Piwi-interacting RNAs (piRNAs), their biogenesis mechanisms and their conservation across species.
@@ -109,7 +124,7 @@ Study of Wnt/$\beta$catenin signaling pathway -and others- and its effects in tr
 - Development of a pipeline to process and analyze ATAC-seq data.
 - Comparison of different sequencing depths for RNA-seq and their influence in differential expression analysis.
 
-### Master's thesis student & research assistant
+### Master's thesis student & Research assistant
 
 *[Instituto de Biomedicina de Sevilla](ibis-sevilla.es)*
 
@@ -158,6 +173,19 @@ Microbiological and molecular analyses of food and water for pathogen detection 
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
+<!--
+### [PhD in Bioinformatics]
+
+Universitat Autònoma de Barcelona (UAB)
+
+Barcelona, Spain
+
+2022 - Present
+
+- INPhINIT Incoming PhD Fellowship from LaCaixa.
+- Research carried out at Regulatory Genomics group of the [Institut Josep Carreras (IJC)](https://www.carrerasresearch.org/).
+-->
+
 ### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion)
 
 Universitat Oberta de Catalunya (UOC)
@@ -167,7 +195,7 @@ Online
 2018 - 2022
 
 - Focused on Computational Genomics.
-- Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*. Grade: 9.7/10 (*Honours*).
+- Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*. Grade: 9.7/10 (*with honours*).
 - Overall grade: 8.94/10.
 
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/)
@@ -235,23 +263,24 @@ N/A
 
 ## Development
 
-**[`plotmics`](https://amitjavilaventura.github.io/plotmics/):** Visualization of omics and sequencing data in R.  <br>
-**[`ggmitji`](https://amitjavilaventura.github.io/ggmitji/):** Usefull functions for ggplots.  <br>
-**[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):** Visualization of ChromHMM outputs in R.  <br>
-**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics) (*ongoing*):** Shiny app for omics data visualization.  <br>
-**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake) (*unmantained*):** ATAC-seq pipeline for snakemake.  <br>
+**[`plotmics`](https://amitjavilaventura.github.io/plotmics/):** visualization of omics and sequencing data in R.  <br>
+**[`ggmitji`](https://amitjavilaventura.github.io/ggmitji/):** complements and customization for ggplots.  <br>
+**[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):** visualization of ChromHMM outputs in R.  <br>
+**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics):** shiny app to visualize omics data (*ongoing*).  <br>
+<!-- **[piCapp](https://github.com/amitjavilaventura/piCapp):** pipeline for piRNA processing and analysis (*ongoing*).  <br> -->
+<!-- **[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake):** Snakemake pipeline for ATAC-seq (*unmantained*).  <br> -->
 More on my [GitHub profile](https://github.com/amitjavilaventura).
 
 ## Organizations
 
 **[SCB](https://scb.cat)** (2018 - Present)  <br>
-**[ASBTEC](https://asbtec.cat)** (2017 - Present)
+**[ASBTEC](https://asbtec.cat)** (2017 - Present)  <br>
 
 ## Honors & Awards {data-icon="award"}
 
-**[INPhINIT Incoming](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-incoming) PhD Fellowship** (LaCaixa, 2022-2025) <br>
+**[INPhINIT Incoming PhD Fellowship](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-incoming)** (LaCaixa, 2022-2025) <br>
 **[Master's thesis](http://hdl.handle.net/10609/138748), _with honours_** (UOC, 2022) <br>
-<!--**[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (SEMM, 2019-2021 *declined*) <br> -->
+**[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (SEMM, 2019-2021 *declined*) <br>
 **[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (BOE, 2015-2021) <br>
-**[World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)** (FISA, 2016)
+**[World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)** (FISA, 2016) <br>
 

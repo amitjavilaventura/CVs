@@ -89,7 +89,7 @@ More on [my GitHub profile](https://github.com/amitjavilaventura)
 ## Disclaimer {#disclaimer}
 
 References available upon request.<br>
-Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown/amitjavila_resume.Rmd).<br>
+Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown/amitjavila_resume.Rmd).<br> 
 Last updated on `r Sys.Date()`.
 
 # Main
@@ -153,7 +153,6 @@ Microbiological and molecular analyses for pathogen detection and food forensics
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
 <!--
-
 ### PhD in Computational Biology
 
 Universitat...
@@ -164,7 +163,7 @@ Barcelona, Spain
 
 <span style="font-size:10px">
 </span>
-
+-->
 
 ### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion){target="_blank"}
 
