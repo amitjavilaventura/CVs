@@ -32,160 +32,165 @@ updated: yes
 
 \vspace{2mm}
 
-\small 
+\normalsize 
 \emph{Biotechnologist with training in Molecular Genetics and Bioinformatics. Interested in omics data analysis to study the mechanisms of gene regulation in mammals.}
 
 \normalsize
 
 # Education \hrulefill
 
-**PhD. in Bioinformatics**, *Universitat Oberta de Catalunya (UAB)*, Online \hfill {\small\emph{2018 - 2022}}
+**PhD. in Bioinformatics**, *Universitat Oberta de Catalunya (UAB)*, Online \hfill {\normalsize\emph{2022 - Present}}
 
-**MSc. Bioinformatics and Biostatistics**, *Universitat Oberta de Catalunya (UOC)*, Online \hfill {\small\emph{2018 - 2022}}
+**MSc. Bioinformatics and Biostatistics**, *Universitat Oberta de Catalunya (UOC)*, Online \hfill {\normalsize\emph{2018 - 2022}}
 
-**MSc. Molecular Genetics and Biotechnology**, *Universidad de Sevilla (US)*, Seville (Spain) \hfill {\small\emph{2017 - 2018}}
+**MSc. Molecular Genetics and Biotechnology**, *Universidad de Sevilla (US)*, Seville (Spain) \hfill {\normalsize\emph{2017 - 2018}}
 
-**BSc. Biotechnology**, *Universitat de Girona (UdG)*, Girona (Spain)  \hfill {\small\emph{2012 - 2017}}
+**BSc. Biotechnology**, *Universitat de Girona (UdG)*, Girona (Spain)  \hfill {\normalsize\emph{2012 - 2017}}
 
 # Employment \hrulefill
 
-Institut Josep Carreras (IJC) \hfill {\small\textbf{Badalona (Spain)}}
+Institut Josep Carreras (IJC) \hfill {\normalsize\textbf{Badalona (Spain)}}
 
-* \footnotesize \textbf{PhD student in Bioinformatics} \hfill \emph{11/2022 - Present}
+* \small \textbf{PhD student in Bioinformatics} \hfill \emph{11/2022 - Present}
 
-* \footnotesize \textbf{Bioinformatician} \hfill \emph{08/2021 - 11/2022}
+  + \footnotesize - **Study of the role of transposable elements in the evolution of gene regulation in mammals.**
 
-  + \scriptsize - Study of the Piwi-interacting RNAs (piRNAs) and their variation across closely-related species.
-  + \scriptsize - Analysis of small RNA-seq data for the study of piRNAs.
-  + \scriptsize - Approach to reduce gene length differences for differential expression analysis with multiple species.
-  + \scriptsize - Mentoring of bachelor's and master's thesis students.
-  + \scriptsize - Master's thesis (UOC, 2022): *Analysis of the variation in piRNA expression across three <u>Mus</u> species*. Grade: 9.7/10 (**with honours**). Supervisor: Dr. Tanya Vavouri.
+* \small \textbf{Bioinformatician} \hfill \emph{08/2021 - 11/2022}
 
-Istituto Europeo di Oncologia (IEO) \hfill {\small\textbf{Milan (Italy)}}
+  + \footnotesize - **Study of the variation Piwi-interacting RNAs (piRNAs) across closely-related species.**
+  + \footnotesize - Analysis of small RNA-seq, RNA-seq and genomics data for the study of piRNAs.
+  
+  <!-- + \footnotesize - Master's thesis (UOC, 2022): *Analysis of the variation in piRNA expression across three \emph{Mus} species*. Grade: 9.7/10 (**with honours**). Supervisor: Dr. Tanya Vavouri. -->
 
-* \footnotesize \textbf{Bioinformatician} \hfill \emph{07/2019 - 08/2021}
+Istituto Europeo di Oncologia (IEO) \hfill {\normalsize\textbf{Milan (Italy)}}
 
-  + \scriptsize - Study of differnt signaling pathways in the development of cancer and stem cell differentiation.
-  + \scriptsize - Analysis and integration of RNA-, ChIP- and ATAC-seq data. 
-  + \scriptsize - Development of a pipeline to process and analyze ATAC-seq data.
-  + \scriptsize - Comparison of different software for ATAC-seq peak calling.
-  + \scriptsize - Comparison of sequencing depths for RNA-seq and their impact on differential expression analysis.
+* \small \textbf{Bioinformatician} \hfill \emph{07/2019 - 08/2021}
 
-Instituto de Biomedicina de Sevilla (IBiS) \hfill {\small\textbf{Seville (Spain)}}
+  + \footnotesize - **Study of differnt signaling pathways in the development of cancer and stem cell differentiation.**
+  + \footnotesize - Analysis and integration of RNA-, ChIP- and ATAC-seq data.
+  + \footnotesize - Comparison of different software for ATAC-seq peak calling.
+  + \footnotesize - Comparison of sequencing depths for RNA-seq and their impact on differential expression analysis.
 
-* \footnotesize \textbf{Research assistant} \hfill \emph{07/2018 - 10/2018} 
+Instituto de Biomedicina de Sevilla (IBiS) \hfill {\normalsize\textbf{Seville (Spain)}}
 
-  + \scriptsize - Study of protein Ccr4 and its influence in nucleosome positioning and transcriptional regulation in yeast.
-  + \scriptsize - Computational analysis of MNase-seq data. 
+* \small \textbf{Research assistant} \hfill \emph{07/2018 - 10/2018} 
 
-* \footnotesize \textbf{Master's thesis student} \hfill \emph{09/2017 - 07/2018}
+  + \footnotesize - **Study of protein Ccr4 and its influence in nucleosome positioning and transcriptional regulation in yeast.**
+  + \footnotesize - Computational analysis of MNase-seq data. 
 
-  + \scriptsize - Study of protein Xrn1 and its influence in nucleosome positioning and transcriptional regulation in yeast.
-  + \scriptsize - Computational analysis of MNase-seq data. 
-  + \scriptsize - MNase-qPCR experiments: DNA digestion, primer design, qPCR.
-  + \scriptsize - Master's thesis (US, 2018): *Influence of Xrn1 in nucleosome positioning across <u>Saccharomyces cerevisiae</u> genome and its effects in transcription*. Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
+* \small \textbf{Master's thesis student} \hfill \emph{09/2017 - 07/2018}
 
-Institut d'Investigació Biomèdica de Girona \hfill {\small\textbf{Girona (Spain)}}
+  + \footnotesize - **Study of protein Xrn1 and its influence in nucleosome positioning and transcriptional regulation in yeast.**
+  + \footnotesize - Computational analysis of MNase-seq data. 
+  + \footnotesize - MNase-qPCR experiments: DNA digestion, primer design, qPCR.
 
-* \footnotesize \textbf{Research internship student} \hfill \emph{07/2017 - 09/2017}
+<!--  + \footnotesize - Master's thesis (US, 2018): *Influence of Xrn1 in nucleosome positioning across \emph{Saccharomyces cerevisiae} genome and its effects in transcription*. Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo. -->
 
-  + \scriptsize - Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity.
-  + \scriptsize - DNA and RNA extraction from animal and human biopsies/feces.
 
-Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\small\textbf{Girona (Spain)}}
+Institut d'Investigació Biomèdica de Girona \hfill {\normalsize\textbf{Girona (Spain)}}
 
-* \footnotesize \textbf{Bachelor's thesis student} \hfill \emph{01/2017 - 07/2017} 
+* \small \textbf{Research internship student} \hfill \emph{07/2017 - 09/2017}
 
-  + \scriptsize - Analyisis of the mucosa-associated microbiota from human intestinal biopsies
-  + \scriptsize - DNA extraction, qPCR, analysis of sequencing data.
-  + \scriptsize - Bachelor's thesis (UdG, 2017): *Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil.
-
-* \footnotesize \textbf{Internship student} \hfill \emph{09/2016 - 01/2017}
-
-  + \scriptsize - Analysis of pathogens in food and water samples. Food Forensics. 
-  + \scriptsize - DNA extraction, qPCR, molecular clonning, bacterial culture.
+  + \footnotesize - Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity.
+  + \footnotesize - DNA and RNA extraction from animal and human biopsies/feces.
   
 
+Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\normalsize\textbf{Girona (Spain)}}
+
+* \small \textbf{Bachelor's thesis student} \hfill \emph{01/2017 - 07/2017} 
+
+  + \footnotesize - Analyisis of the mucosa-associated microbiota from human intestinal biopsies
+  + \footnotesize - DNA extraction, qPCR, analysis of sequencing data.
+
+<!--  + \footnotesize - Bachelor's thesis (UdG, 2017): *Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil. -->
+
+* \small \textbf{Internship student} \hfill \emph{09/2016 - 01/2017}
+
+  + \footnotesize - Analysis of pathogens in food and water samples. Food Forensics. 
+  + \footnotesize - DNA extraction, qPCR, molecular clonning, bacterial culture.
+  
 # Publications \hrulefill
 
 ## Journal Articles
 
-\footnotesize Begley *et al*. 2020 **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
+\small Begley *et al*. 2020 **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
 
 ## Presentations and posters
 
-\footnotesize \underline{Mitjavila} & Vavouri. **Analysis of piRNA variation across three _Mus_ species** *(in Catalan)*. Oral presentation at the *Jornades de Biologia de la Reproducció* from the Catalan Society of Biology (March 2022).
+\small \underline{Mitjavila} & Vavouri. **Analysis of piRNA variation across three _Mus_ species** *(in Catalan)*. Oral presentation at the *Jornades de Biologia de la Reproducció* from the Catalan Society of Biology (March 2022).
 
 # Projects \hrulefill
 
 ## Academic projects
 
-\footnotesize \textbf{Analysis of the variation in piRNA expression across three \emph{Mus} species}
+\small \textbf{Analysis of the variation in piRNA expression across three \emph{Mus} species}
 
-* \scriptsize - Role:  Bioinformatician, master student (UOC, 2022), PhD student (UAB) | Supervisor: Dr. Tanya Vavouri.
-* \scriptsize - Description: *As part of my master's thesis (UOC, 2021-22) and PhD project (UAB, 2022-Present), I am studying  Piwi-interacting RNAs (piRNAs), small RNAs that silence transposons in the germline of most animals, and the variation of piRNA-producing loci across closely related species of mouse.* 
+* \footnotesize - Master thesis (UOC, 2022) | Grade: 9.7/10 (*with honours*) | Supervisor: Dr. Tanya Vavouri.
 
-\footnotesize \textbf{Influence of Xrn1 in nucleosome positioning across \emph{Saccharomyces cerevisiae} genome and its effects in transcription}
+<!-- * \footnotesize - Description: *As part of my master's thesis (UOC, 2021-22), I am studied Piwi-interacting RNAs (piRNAs), small RNAs that silence transposons in the germline of most animals, and the variation of piRNA-producing loci across closely related species of mouse.* -->
 
-* \scriptsize - Role: Master student (US, 2018). | Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
-* \scriptsize - Description: *As part of my master's thesis (US, 2018), I participated in a project to study Xrn1, a protein involved in the degradation of mRNA, and its role in the nucleosome localization and transcription of \emph{Saccharomyces cerevisiae}. Analizing MNase-seq data, we found that Xrn1 knockout induce an increase nuclosome occupancy around TSS, likely explaining a decrease in transcription initiation, whereas in the gene body, the nucleosome occupancy decreases as a consequence of the RNA pol II backtracking. Results were validated using MNase-qPCR for two selected genes in Xrn1 conditional mutants.*
-* \scriptsize - Related publications: [Begley *et al*., RNA Biology, 2020](https://doi.org/10.1080/15476286.2020.1845504)
+\small \textbf{Influence of Xrn1 in nucleosome positioning across \emph{Saccharomyces cerevisiae} genome and its effects in transcription}
 
-\footnotesize \textbf{Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy}
+* \footnotesize - Master thesis (US, 2018). | Grade: 9.2/10. | Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
+* \footnotesize - Related publications: [Begley *et al*., RNA Biology, 2020](https://doi.org/10.1080/15476286.2020.1845504)
 
-* \scriptsize - Undergraduate student (UdG, 2017). | Supervisor: Prof. Jesús García-Gil.
-* \scriptsize - Description: *As part of my bachelor's thesis (UdG, 2017)*.
+<!-- * \footnotesize - Description: *As part of my master's thesis (US, 2018), I participated in a project to study Xrn1, a protein involved in the degradation of mRNA, and its role in the nucleosome localization and transcription of \emph{Saccharomyces cerevisiae}. Analizing MNase-seq data, we found that Xrn1 knockout induce an increase nuclosome occupancy around TSS, likely explaining a decrease in transcription initiation, whereas in the gene body, the nucleosome occupancy decreases as a consequence of the RNA pol II backtracking. Results were validated using MNase-qPCR for two selected genes in Xrn1 conditional mutants.* -->
 
+\small \textbf{Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy}
+
+* \footnotesize - Bachelor thesis (UdG, 2017). | Grade: 9.4/10. | Supervisor: Prof. Jesús García-Gil.
+
+<!-- * \footnotesize - Description: *As part of my bachelor's thesis (UdG, 2017), I studied the composition of the ileal mucosa-associated microbiota in colorectal cancer patients submitted to a butyrate treament. We found that, in the butyrate-treated group but not in control groups, several healthy-related, butyrate-producing bacteria increased in proportion. At the same time, the proportion of distinct disease-related bacteria decreased. Although the changes were not higly significant, the short period of treatment and  *. -->
 
 # Skills \hrulefill
 
-\footnotesize \textbf{Languages}
+\small \textbf{Languages}
 
-* \scriptsize - Catalan (*native*), Spanish (*bilingual*), English (*IELTS 7.5 - C1*), Italian (*basic*)
+* \footnotesize - Catalan (*native*), Spanish (*bilingual*), English (*IELTS 7.5 - C1*), Italian (*basic*)
 
-\footnotesize \textbf{Bioinformatics}
+\small \textbf{Bioinformatics}
 
-* \scriptsize - \emph{Omics data analysis}: Microarray, (small) RNA-seq, ChIP-seq, ATAC-seq, MNase-seq
-* \scriptsize - \emph{Genomic Browsers}: IGV, UCSC Genome Browser
-* \scriptsize - \emph{Other}: Analysis of sequences, ENSEMBL Compara, Biomart
+* \footnotesize - \emph{Omics data analysis}: Microarray, (small) RNA-seq, ChIP-seq, ATAC-seq, MNase-seq
+* \footnotesize - \emph{Genomic Browsers}: IGV, UCSC Genome Browser
+* \footnotesize - \emph{Other}: Analysis of sequences, ENSEMBL Compara, Biomart
 
-\footnotesize \textbf{Informatics}
+\small \textbf{Informatics}
 
-* \scriptsize - \emph{Languages}: R/Bioconductor, Bash, Python (*basic*)
-* \scriptsize - \emph{Other}: R Markdown, Snakemake, Conda, Docker, Singularity, Git, HPC, LaTeX
+* \footnotesize - \emph{Languages}: R/Bioconductor, Bash, Python (*basic*)
+* \footnotesize - \emph{Other}: R Markdown, Snakemake, Conda, Docker, Singularity, Git, HPC, LaTeX
 
 # Development \hrulefill
 
-\footnotesize \textbf{R packages}
+\small \textbf{R packages}
 
-* \scriptsize - [`plOtMICS`](https://amitjavilaventura.github.io/plotmics): visualization of omics and sequencing data in R.
-* \scriptsize - [`ggmitji`](https://amitjavilaventura.github.io/ggmitji): cool functions to complement ggplots.
-* \scriptsize - [`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR): visualize outputs from [`ChromHMM`](http://compbio.mit.edu/ChromHMM/).
+* \footnotesize - [`plOtMICS`](https://amitjavilaventura.github.io/plotmics): visualization of omics and sequencing data in R.
+* \footnotesize - [`ggmitji`](https://amitjavilaventura.github.io/ggmitji): cool functions to complement ggplots.
+* \footnotesize - [`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR): visualize outputs from [`ChromHMM`](http://compbio.mit.edu/ChromHMM/).
 
-\footnotesize \textbf{Others}.
+\small \textbf{Others}.
 
-* \scriptsize - [`DNAme`](https://github.com/amitjavilaventura/DNAme): shinyApp with learning purposes that transforms a name to DNA/RNA sequence.
-* \scriptsize - [`DNApp`](https://github.com/amitjavilaventura/DNApp): shinyApp with some DNA-related applications, including [`DNAme`](https://github.com/amitjavilaventura/DNAme)
-* \scriptsize - [`MYomics`](https://github.com/amitjavilaventura/DPomics/tree/MYomics): shinyApp to visualize several omics data. *Ongoing*
+* \footnotesize - [`DNAme`](https://github.com/amitjavilaventura/DNAme): shinyApp with learning purposes that transforms a name to DNA/RNA sequence.
+* \footnotesize - [`DNApp`](https://github.com/amitjavilaventura/DNApp): shinyApp with some DNA-related applications, including [`DNAme`](https://github.com/amitjavilaventura/DNAme)
+* \footnotesize - [`MYomics`](https://github.com/amitjavilaventura/DPomics/tree/MYomics): shinyApp to visualize several omics data. *Ongoing*
 
 # Organizations \hrulefill
 
-\footnotesize \textbf{Societat Catalana de Biologia (SCB)}. 2018 - Present
+\small \textbf{Societat Catalana de Biologia (SCB)}. 2018 - Present
 
-\footnotesize \textbf{Associació de Biotecnòlegs de Catalunya (ASBTEC)}. 2017 - Present (*Board member*. 2019 - Present)
+\small \textbf{Associació de Biotecnòlegs de Catalunya (ASBTEC)}. 2017 - Present (*Board member*. 2019 - Present)
 
 # Honours & Awards \hrulefill
 
-\footnotesize INPhINIT Incoming PhD Fellowship (LaCaixa, 2022-2025)
+\small INPhINIT Incoming PhD Fellowship (LaCaixa, 2022-2025)
 
-\footnotesize Master's thesis **with honours** (UOC, 2022)
+\small Master's thesis **with honours** (UOC, 2022)
 
-<!-- \footnotesize SEMM PhD Fellowship (SEMM, 2019-2021, *declined*) -->
+<!-- \small SEMM PhD Fellowship (SEMM, 2019, *declined*) -->
 
-\footnotesize Elite athlete (BOE, 2015-2021)
+\small Elite athlete (BOE, 2015-2021)
 
-\footnotesize World Rowing Under-23 Champion (FISA, 2016)
+\small World Rowing Under-23 Champion (FISA, 2016)
 
 # References \hrulefill
 
-\footnotesize Available upon request.
+\small Available upon request.
