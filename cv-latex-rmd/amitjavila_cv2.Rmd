@@ -39,6 +39,8 @@ updated: yes
 
 # Education \hrulefill
 
+**PhD. in Bioinformatics**, *Universitat Oberta de Catalunya (UAB)*, Online \hfill {\small\emph{2018 - 2022}}
+
 **MSc. Bioinformatics and Biostatistics**, *Universitat Oberta de Catalunya (UOC)*, Online \hfill {\small\emph{2018 - 2022}}
 
 **MSc. Molecular Genetics and Biotechnology**, *Universidad de Sevilla (US)*, Seville (Spain) \hfill {\small\emph{2017 - 2018}}
@@ -49,16 +51,19 @@ updated: yes
 
 Institut Josep Carreras (IJC) \hfill {\small\textbf{Badalona (Spain)}}
 
-* \footnotesize \textbf{Bioinformatician} \hfill \emph{08/2021 - Present}
+* \footnotesize \textbf{PhD student in Bioinformatics} \hfill \emph{11/2022 - Present}
+
+* \footnotesize \textbf{Bioinformatician} \hfill \emph{08/2021 - 11/2022}
 
   + \scriptsize - Study of the Piwi-interacting RNAs (piRNAs) and their variation across closely-related species.
   + \scriptsize - Analysis of small RNA-seq data for the study of piRNAs.
   + \scriptsize - Approach to reduce gene length differences for differential expression analysis with multiple species.
   + \scriptsize - Mentoring of bachelor's and master's thesis students.
+  + \scriptsize - Master's thesis (UOC, 2022): *Analysis of the variation in piRNA expression across three <u>Mus</u> species*. Grade: 9.7/10 (**with honours**). Supervisor: Dr. Tanya Vavouri.
 
 Istituto Europeo di Oncologia (IEO) \hfill {\small\textbf{Milan (Italy)}}
 
-* \footnotesize \textbf{Bioinformatician} \hfill \emph{07/2019 - 07/2021}
+* \footnotesize \textbf{Bioinformatician} \hfill \emph{07/2019 - 08/2021}
 
   + \scriptsize - Study of differnt signaling pathways in the development of cancer and stem cell differentiation.
   + \scriptsize - Analysis and integration of RNA-, ChIP- and ATAC-seq data. 
@@ -78,6 +83,7 @@ Instituto de Biomedicina de Sevilla (IBiS) \hfill {\small\textbf{Seville (Spain)
   + \scriptsize - Study of protein Xrn1 and its influence in nucleosome positioning and transcriptional regulation in yeast.
   + \scriptsize - Computational analysis of MNase-seq data. 
   + \scriptsize - MNase-qPCR experiments: DNA digestion, primer design, qPCR.
+  + \scriptsize - Master's thesis (US, 2018): *Influence of Xrn1 in nucleosome positioning across <u>Saccharomyces cerevisiae</u> genome and its effects in transcription*. Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
 
 Institut d'Investigació Biomèdica de Girona \hfill {\small\textbf{Girona (Spain)}}
 
@@ -88,12 +94,13 @@ Institut d'Investigació Biomèdica de Girona \hfill {\small\textbf{Girona (Spai
 
 Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\small\textbf{Girona (Spain)}}
 
-* \footnotesize \textbf{Bachelor's thesis student} \hfill \emph{01/2017 - 06/2017} 
+* \footnotesize \textbf{Bachelor's thesis student} \hfill \emph{01/2017 - 07/2017} 
 
   + \scriptsize - Analyisis of the mucosa-associated microbiota from human intestinal biopsies
   + \scriptsize - DNA extraction, qPCR, analysis of sequencing data.
+  + \scriptsize - Bachelor's thesis (UdG, 2017): *Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil.
 
-* \footnotesize \textbf{Internship student} \hfill \emph{09/2016 - 06/2017}
+* \footnotesize \textbf{Internship student} \hfill \emph{09/2016 - 01/2017}
 
   + \scriptsize - Analysis of pathogens in food and water samples. Food Forensics. 
   + \scriptsize - DNA extraction, qPCR, molecular clonning, bacterial culture.
@@ -103,11 +110,11 @@ Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\small\textbf{Giron
 
 ## Journal Articles
 
-\footnotesize V. Begley *et al*. 2020 **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
+\footnotesize Begley *et al*. 2020 **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
 
 ## Presentations and posters
 
-\footnotesize \underline{A. Mitjavila} & T. Vavouri. **Analysis of piRNA variation across three _Mus_ species** *(in Catalan)*. Oral presentation at the *Jornades de Biologia de la Reproducció* from the Catalan Society of Biology (March 2022).
+\footnotesize \underline{Mitjavila} & Vavouri. **Analysis of piRNA variation across three _Mus_ species** *(in Catalan)*. Oral presentation at the *Jornades de Biologia de la Reproducció* from the Catalan Society of Biology (March 2022).
 
 # Projects \hrulefill
 
@@ -115,29 +122,26 @@ Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\small\textbf{Giron
 
 \footnotesize \textbf{Analysis of the variation in piRNA expression across three \emph{Mus} species}
 
-* \scriptsize - Master's tesis (UOC, 2022). | Supervisor: Dr. Tanya Vavouri. | Grade: 9.7/10, \emph{with honours}.
-<!-- * \scriptsize - Description: *piRNAs are small RNAs that silence transposons in the germline of most animals. In this project, we compared three mouse species and their piRNAs to find what explains differences in piRNA production and piRNA-producing loci (piRNA cluster) across closely related species. We found that the most expressed is a piRNA cluster, the most likely is to be expressed in other species. Also, we tested whether the presence of species-specific transposons could explain the differences in piRNA expression across species. Although species specific transposons cannot explain all the changes in piRNA production, we found several cases consistent with this hypothesis*. -->
+* \scriptsize - Role:  Bioinformatician, master student (UOC, 2022), PhD student (UAB) | Supervisor: Dr. Tanya Vavouri.
+* \scriptsize - Description: *As part of my master's thesis (UOC, 2021-22) and PhD project (UAB, 2022-Present), I am studying  Piwi-interacting RNAs (piRNAs), small RNAs that silence transposons in the germline of most animals, and the variation of piRNA-producing loci across closely related species of mouse.* 
 
 \footnotesize \textbf{Influence of Xrn1 in nucleosome positioning across \emph{Saccharomyces cerevisiae} genome and its effects in transcription}
 
-* \scriptsize - Master's tesis (US, 2018). | Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo. | Grade: 9.2/10.
-<!-- * \scriptsize - Description: *Study of Xrn1, a protein involved in the degradation of mRNA, and its role in the nucleosome localization and transcription of \emph{Saccharomyces cerevisiae}. Analizing MNase-seq data, we found that Xrn1 knockout induce an increase nuclosome occupancy around TSS, likely explaining a decrease in transcription initiation, whereas in the gene body, the nucleosome occupancy decreases as a consequence of the RNA pol II backtracking. Results were validated using MNase-qPCR for two selected genes in Xrn1 conditional mutants.*. -->
+* \scriptsize - Role: Master student (US, 2018). | Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
+* \scriptsize - Description: *As part of my master's thesis (US, 2018), I participated in a project to study Xrn1, a protein involved in the degradation of mRNA, and its role in the nucleosome localization and transcription of \emph{Saccharomyces cerevisiae}. Analizing MNase-seq data, we found that Xrn1 knockout induce an increase nuclosome occupancy around TSS, likely explaining a decrease in transcription initiation, whereas in the gene body, the nucleosome occupancy decreases as a consequence of the RNA pol II backtracking. Results were validated using MNase-qPCR for two selected genes in Xrn1 conditional mutants.*
 * \scriptsize - Related publications: [Begley *et al*., RNA Biology, 2020](https://doi.org/10.1080/15476286.2020.1845504)
 
 \footnotesize \textbf{Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy}
 
-* \scriptsize - Bachelor's tesis (UdG, 2017). | Supervisor: Prof. Jesús García-Gil. | Grade: 9.4/10.
-<!-- * \scriptsize - Description: **. -->
+* \scriptsize - Undergraduate student (UdG, 2017). | Supervisor: Prof. Jesús García-Gil.
+* \scriptsize - Description: *As part of my bachelor's thesis (UdG, 2017)*.
 
 
 # Skills \hrulefill
 
 \footnotesize \textbf{Languages}
 
-* \scriptsize - Catalan (*native*)
-* \scriptsize - Spanish (*bilingual*)
-* \scriptsize - English (*IELTS 7.5 - C1*)
-* \scriptsize - Italian (*basic*)
+* \scriptsize - Catalan (*native*), Spanish (*bilingual*), English (*IELTS 7.5 - C1*), Italian (*basic*)
 
 \footnotesize \textbf{Bioinformatics}
 
@@ -172,9 +176,9 @@ Microbial. Sistemes i aplicacions analítiques, S.L. \hfill {\small\textbf{Giron
 
 # Honours & Awards \hrulefill
 
-\footnotesize LaCaixa INPhINIT Incoming PhD Fellowsip (LaCaixa, 2022-2025)
+\footnotesize INPhINIT Incoming PhD Fellowship (LaCaixa, 2022-2025)
 
-\footnotesize Master's thesis with honours (UOC, 2022)
+\footnotesize Master's thesis **with honours** (UOC, 2022)
 
 <!-- \footnotesize SEMM PhD Fellowship (SEMM, 2019-2021, *declined*) -->
 

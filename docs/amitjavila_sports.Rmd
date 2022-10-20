@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE,
 
 ***
 
-One of the most relevant components in my life has been sport, specially rowing, and here I will show some the results I've had. 
+One of the most relevant components in my life has been sport, specially rowing, and here I will show some the results I've achieved. 
 
 ## <b style = "font-size:25px; color:black;">Rowing</b> {.tabset}
 
@@ -35,7 +35,7 @@ I started rowing at the end of 2007 and, since then, I have trained and competed
 
 Unfortunatelly, I missed the qualification for the 2016 Olympic Games by one place. However, toghether with my crewmate, I became 2016 World Rowing Under-23 champion in the category of Under-23 Lightweight Double Scull (BLM2x). 
 
-Finally I left the high-level competition in 2019.
+I left the high-level competition in 2019 and, since 2022 I am involved in the organization of rowing competititons in Banyoles.
 
 ```{r image_blm2x, fig.cap="Spanish LM2x in the 2016 World Rowing Cup I. I am the rower in the bowsite (leftside in the photo).", out.width="60%"}
 #knitr::include_graphics("assets/lm2x_wrci.png")
@@ -364,7 +364,9 @@ data.frame(Category = c("M: Men", "LM: Lightweight men", "BM:  Under-23 men", "B
 
 Apart from rowing, I like to practice other sports, such as running and trail-running, cycling, etc.
 
-* 2022-03-27. *27a Mitja Marató del Pla de l'Estany* (half-marathon, 21.125km, 1h 41min)
-* 2018-09-16. *75a Travessia de l'Estany de Banyoles* (swimming, 2115m)
-* 2015-09-20. *72a Travessia de l'Estany de Banyoles* (swimming, 2115m)
+* 2022-10-01. *Oncotrail 2022* (ultra-trail running by teams, 100km, 12h 57')
+* 2018-09-16. *78a Travessia de l'Estany de Banyoles* (swimming, 2115m, 47')
+* 2022-03-27. *27a Mitja Marató del Pla de l'Estany* (half-marathon, 21.125km, 1h 41')
+* 2018-09-16. *75a Travessia de l'Estany de Banyoles* (swimming, 2115m, 43')
+* 2015-09-20. *72a Travessia de l'Estany de Banyoles* (swimming, 2115m, 45')
 

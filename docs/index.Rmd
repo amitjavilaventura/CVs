@@ -6,7 +6,7 @@ output:
     css: ['css/styles.css', 'resume']
     # set to true to be able to see it in the navigator and print as PDF; false only to visualize in the RStudio viewer panel (faster).
     self_contained: true
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
 <style> p{ text-align: justify } </style>
@@ -76,22 +76,19 @@ Last updated on `r Sys.Date()`.
 
 ## Experience {data-icon="laptop"}
 
-<!--
+
 ### PhD student
 
-*[Institut Germans Trias i Pujol](http://www.germanstrias.org/)* and *[Institut Josep Carreras](https://www.carrerasresearch.org/)*
+*[Institut Germans Trias i Pujol](http://www.germanstrias.org/)* & *[Institut Josep Carreras](https://www.carrerasresearch.org/)*
 
 Badalona, Spain
 
 11/2022 - Present
 
 [**Group of Regulatory Genomics (Dr. Tanya Vavouri)**](https://www.carrerasresearch.org/en/regulatory-genomics/)<br>
-...
+Study of the role of transposable elements in the evolution of gene regulation in mammals.
 
-- ...
--->
-
-### Bioinformatician & Master's thesis student
+### Bioinformatician & master's thesis student
 
 *[Institut Josep Carreras](https://www.carrerasresearch.org/)*
 
@@ -104,6 +101,7 @@ Study of Piwi-interacting RNAs (piRNAs), their biogenesis mechanisms and their c
 
 - Development and application of a pipeline to process small RNA-seq data, focused on the study of piRNAs.
 - Development of a method for differential expression without gene length differences when using multiple species.
+- Analysis and integration of small RNA-seq, RNA-seq and genomic data.
 - Mentoring of bachelor's and master's thesis students. 
 - Master's thesis (UOC): *Analysis of the variation in piRNA expression across three <u>Mus</u> species*. Grade: 9.78/10 (**with honours**). Supervisor: Dr. Tanya Vavouri.
 
@@ -150,11 +148,10 @@ Girona, Spain
 07/2017 - 09/2017
 
 [**Unit of Diabetes, Endocrinology and Nutrition**](https://idibgi.org/grups/nes-nutricio-eumetabolisme-i-salut/) <br> 
-*Extracurricular internship*. Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity.
+*Extracurricular internship*. Identification of novel factors (genetic and bacterial) related to adipose tissue physiology and obesity.
 
 - RNA extraction from mouse hepatic biopsies.
 - DNA extraction from human feces to study the composition of the microbiota.
-
 
 ### Internship & bachelor's thesis student
 
@@ -173,8 +170,7 @@ Microbiological and molecular analyses of food and water for pathogen detection 
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
-<!--
-### [PhD in Bioinformatics]
+### [PhD in Bioinformatics](https://www.uab.cat/web/postgraduate/phds/all-phd-programmes/general-information/bioinformatics-1345467765430.html?param2=1345725326083)
 
 Universitat Autònoma de Barcelona (UAB)
 
@@ -184,7 +180,6 @@ Barcelona, Spain
 
 - INPhINIT Incoming PhD Fellowship from LaCaixa.
 - Research carried out at Regulatory Genomics group of the [Institut Josep Carreras (IJC)](https://www.carrerasresearch.org/).
--->
 
 ### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion)
 
