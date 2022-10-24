@@ -216,7 +216,7 @@ Girona, Spain
 
 ## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 
-### <span style="font-size:10px; font-weight:200"> Begley *et al*. **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology* 2020. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"} </span>
+### <span style="font-size:10px; font-weight:200"> Begley *et al*. **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. 2021. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"} </span>
 
 N/A
 
@@ -271,7 +271,7 @@ More on my [GitHub profile](https://github.com/amitjavilaventura).
 
 **[INPhINIT Incoming PhD Fellowship](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-incoming)** (LaCaixa, 2022-2025) <br>
 **[Master's thesis](http://hdl.handle.net/10609/138748), _with honours_** (UOC, 2022) <br>
-**[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (SEMM, 2019-2021 *declined*) <br>
+**[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (SEMM, 2019-*declined*) <br>
 **[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (BOE, 2015-2021) <br>
 **[World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)** (FISA, 2016) <br>
 
