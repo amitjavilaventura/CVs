@@ -184,7 +184,7 @@ Online
 2018 - 2022
 
 <span style="font-size:10px">
-Overall grade: 8.94/10 | Master's thesis: *Analysis of the variation in piRNA expression across three <u>Mus</u> species* (thesis grade: 9.78/10, *with honours*).
+Overall grade: 8.94/10 | Master's thesis: *Analysis of the variation in piRNA expression [...]* (thesis grade: 9.78/10, *with honours*).
 </span>
 
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/){target="_blank"}
@@ -196,7 +196,7 @@ Seville, Spain
 2017 - 2018
 
 <span style="font-size:10px">
-Overall grade: 9.33/10 | Master's thesis: *Influence of Xrn1 in nucleosome positioning across <u>Saccharomyces cerevisiae</u> genome and its effects in transcription* (thesis grade: 9.2/10).
+Overall grade: 9.33/10 | Master's thesis: *Influence of Xrn1 in nucleosome positioning [...]* (thesis grade: 9.2/10).
 </span>
 
 ### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215){target="_blank"}
@@ -208,18 +208,18 @@ Girona, Spain
 2012 - 2017
 
 <span style="font-size:10px">
-Overall grade: 8.12/10   |   Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy* (thesis grade: 9.4/10)
+Overall grade: 8.12/10   |   Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota [...]* (thesis grade: 9.4/10)
 </span>
 
 ## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 
-### <span style="font-size:10px; font-weight:200;"> Begley *et al*. __Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration__. *RNA Biology* 2021. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"} </span>
+### <span style="font-size:12px; font-weight:200;"> [**Xrn1 influence on gene transcription results from [...]**](https://doi.org/10.1080/15476286.2020.1845504)</span>
+
+Begley *et al*., *RNA Biology*, 2021
 
 N/A
 
-N/A
-
-<p style="font-size:6px">*Journal article*</p>
+Research article
 
 <!--
 ### <span style="font-size:10px; font-weight:200;"> <u>Mitjavila</u> & Vavouri. __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)*. *Jornades de Biologia de la Reproducció* of the Catalan Society of Biology (March 2022) </span> 

@@ -102,7 +102,7 @@ Study of Piwi-interacting RNAs (piRNAs), their biogenesis mechanisms and their c
 - Analysis and integration of small RNA-seq, RNA-seq and genomic data.
 - Development of a method for differential expression without gene length differences when using multiple species.
 - Mentoring of bachelor's and master's thesis students. 
-- Master's thesis (UOC): *Analysis of the variation in piRNA expression across three <u>Mus</u> species*. Grade: 9.78/10 (**with honours**). Supervisor: Dr. Tanya Vavouri.
+- Master's thesis (UOC): *Analysis of the variation in piRNA expression across three <u>Mus</u> species*.
 
 
 ### Bioinformatician
@@ -133,7 +133,7 @@ Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcrip
 
 - Analysis of MNase-seq data from Xrn1-, Ccr4-mutant and WT yeast strains.
 - Perform MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis.
-- Master's thesis (US): *Influence of Xrn1 in nucleosome positioning [...] and its effects in transcription*. Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
+- Master's thesis (US): *Influence of Xrn1 in nucleosome positioning [...] and its effects in transcription*.
 
 ### Internship student
 
@@ -162,7 +162,7 @@ Microbiological and molecular analyses of food and water for pathogen detection 
 - DNA extraction of intestinal mucosa biopsies.
 - (q)PCR experiments to detect clusters and families of bacteria.
 - NGS data analysis to quantify bacterial genera in intestinal biopsies. <br>
-- Bachelor's thesis (UdG): *Butyrate-induced changes in the [...] microbiota in colorectal cancer patients [...]*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil.
+- Bachelor's thesis (UdG): *Butyrate-induced changes in the [...] microbiota in colorectal cancer patients [...]*.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -186,7 +186,7 @@ Online
 2018 - 2022
 
 - Focused on Computational Genomics.
-- Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*. Grade: 9.7/10 (*with honours*).
+- Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*. Grade: 9.7/10 (*with honours*). Supervisor: Dr. Tanya Vavouri
 - Overall grade: 8.94/10.
 
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/)
@@ -198,7 +198,7 @@ Seville, Spain
 2017 - 2018
 
 - Specialization in Molecular Biology Research. 
-- Master's thesis: *Influence of Xrn1 in nucleosome positioning across <u>Saccharomyces cerevisiae</u> genome and its effects in transcription*. Grade: 9.2/10
+- Master's thesis: *Influence of Xrn1 in nucleosome positioning across <u>Saccharomyces cerevisiae</u> genome and its effects in transcription*. Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego & Dr. Gabriel Gutiérrez Pozo.
 - Overall grade: 9.33/10.
 
 ### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
@@ -210,7 +210,7 @@ Girona, Spain
 2012 - 2017
 
 - Specialization in Cellular & Molecular Biotechnology.  
-- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10
+- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil
 - Overall grade: 8.12/10.
 
 
