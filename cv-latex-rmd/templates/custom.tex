@@ -245,7 +245,7 @@ $endif$
 \begin{document}
 
 
-{\huge \bf $author$} \hfill $if(jobtitle)${\Large $jobtitle$}$endif$ $if(academictitle)${\large ,  $academictitle$}$endif$
+{\Large \bf $author$$if(academictitle)${\large,  $academictitle$}$endif$} \hfill $if(jobtitle)${\large $jobtitle$ $if(company)${\large at \emph{$company$}}$endif$}$endif$  
 
 \vspace{3 mm}
 

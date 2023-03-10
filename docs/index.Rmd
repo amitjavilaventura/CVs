@@ -23,6 +23,15 @@ library(tidyverse)
 library(fontawesome)
 ```
 
+```{css}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
 # Aside
 
 <center>
@@ -34,31 +43,34 @@ knitr::include_graphics(path = "fotojo.png")
 ## Contact {#contact}
 
 -   `r fontawesome::fa(name = "home")` Girona (Spain)
--   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:adria.mitjavila94@gmail.com){.email}
+-   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:amitjavila@carrerasresearch.org){.email}
 -   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io){ target="_blank" }
 -   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura){ target="_blank" }
 -   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929){ target="_blank" }
-<!-- -   `r fontawesome::fa(name = "blog")` [BioBit](https://biobit.netlify.app){ target="_blank" } -->
--   `r fontawesome::fa(name = "file-invoice")` [1-page resume](https://github.com/amitjavilaventura/CVs/blob/main/docs/amitjavila_resume.pdf){ target="_blank" }
--   `r fontawesome::fa(name = "futbol")` [Sports CV](amitjavila_sports.html){ target="_blank" }
 
 ## Skills {#skills}
 
 **Bioinformatics:**
 
--   Microarray, (small) RNA-seq, ChIP-seq, ATAC-seq, MNase-seq, UCSC Genome Browser, IGV <!--, NCBI Blast -->
+-   sRNA/RNA/ChIP/ATAC/MNase-seq data analysis, Sequence analysis, Genome Browsers (UCSC, ENSEMBL, IGV)
 
 **Informatics:**
 
--   R/Bioconductor, R Markdown, Shiny, Bash, Snakemake, Python, Git, HPC (PBS & Slurm), Conda, Docker, Singularity, Linux (Ubuntu),
-
-**Experimental:**
-
--   (q)PCR, electrophoresis, molecular cloning, Western blot, MNase-digestion, bacterial/yeast culture
+-   R/Bioconductor, R Markdown, Shiny, Bash, Snakemake, Python, Git, HPC (PBS/Slurm), Conda, Docker, Singularity, Linux (Ubuntu)
 
 **Languages:**
 
 -   Catalan (Native), Spanish (Bilingual), English (IELTS 7.5 - C1), Italian (Basic)
+
+## Development {data-icon="gear"}
+
+* **[`plotmics`](https://amitjavilaventura.github.io/plotmics/):** visualization of omics and sequencing data in R.
+
+* **[`ggmitji`](https://amitjavilaventura.github.io/ggmitji/):** complements and customization for ggplots.
+
+* **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):** visualization of ChromHMM outputs in R.
+
+* More on my [GitHub profile](https://github.com/amitjavilaventura).
 
 ## Disclaimer {#disclaimer}
 
@@ -66,16 +78,16 @@ References available upon request.  <br>
 Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/docs/index.Rmd). <br>
 Last updated on `r Sys.Date()`.
 
+
 # Main
 
 ## Adrià Mitjavila Ventura {#title}
 
-### MSc | Bioinformatician at *Institut Josep Carreras*
+### MSc | PhD student in Bioinformatics at *Institut Josep Carreras*
 
-<p style="font-size:13px">Biotechnologist with training in Molecular Genetics and Bioinformatics. Interested in omics data analysis to study the mechanisms of gene regulation in mammals. See more about me on [my website](https://amitjavilaventura.github.io).</p>
+<p style="font-size:13px">Biotechnologist with training in Molecular Genetics and Bioinformatics. Interested in omics data analysis to study the mechanisms of gene regulation and their evolution. See more about me on [my website](https://amitjavilaventura.github.io).</p>
 
 ## Experience {data-icon="laptop"}
-
 
 ### PhD student
 
@@ -88,6 +100,10 @@ Badalona, Spain
 [**Group of Regulatory Genomics (Dr. Tanya Vavouri)**](https://www.carrerasresearch.org/en/regulatory-genomics/)<br>
 Study of the role of transposable elements in the evolution of gene regulation in mammals.
 
+- Analysis and integration of small RNA-seq, RNA-seq and genomics data.
+- Mentoring of graduate students and collegues.
+- Workshops addressed to high-school students. 
+
 ### Bioinformatician & master's thesis student
 
 *[Institut Josep Carreras](https://www.carrerasresearch.org/)*
@@ -99,11 +115,10 @@ Badalona, Spain
 [**Group of Regulatory Genomics (Dr. Tanya Vavouri)**](https://www.carrerasresearch.org/en/regulatory-genomics/)<br>
 Study of Piwi-interacting RNAs (piRNAs), their biogenesis mechanisms and their conservation across species.
 
-- Analysis and integration of small RNA-seq, RNA-seq and genomic data.
-- Development of a method for differential expression without gene length differences when using multiple species.
-- Mentoring of bachelor's and master's thesis students. 
+- Analysis and integration of small RNA-seq, RNA-seq and genomics data.
 - Master's thesis (UOC): *Analysis of the variation in piRNA expression across three <u>Mus</u> species*.
-
+- Mentoring of bachelor's and master's thesis students.
+- Workshops addressed to high-school students. 
 
 ### Bioinformatician
 
@@ -131,8 +146,7 @@ Seville, Spain
 [**Group of Gene Expression (Dr. Sebastián Chávez)**](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx) <br> 
 Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcription.
 
-- Analysis of MNase-seq data from Xrn1-, Ccr4-mutant and WT yeast strains.
-- Perform MNase-qPCR experiments, including MNase DNA digestion, primer desing, qPCRs and analysis.
+- Analysis of MNase-seq data and MNase-qPCR experiments from Xrn1-, Ccr4-mutant and WT yeast strains.
 - Master's thesis (US): *Influence of Xrn1 in nucleosome positioning [...] and its effects in transcription*.
 
 ### Internship student
@@ -146,8 +160,7 @@ Girona, Spain
 [**Unit of Diabetes, Endocrinology and Nutrition**](https://idibgi.org/grups/nes-nutricio-eumetabolisme-i-salut/) <br> 
 *Extracurricular internship*. Identification of novel factors (genetic and bacterial) related to adipose tissue physiology and obesity.
 
-- RNA extraction from mouse hepatic biopsies.
-- DNA extraction from human feces to study the composition of the microbiota.
+- RNA/DNA extraction from mouse hepatic biopsies and human fecal material.
 
 ### Internship & bachelor's thesis student
 
@@ -161,7 +174,7 @@ Microbiological and molecular analyses of food and water for pathogen detection 
 
 - DNA extraction of intestinal mucosa biopsies.
 - (q)PCR experiments to detect clusters and families of bacteria.
-- NGS data analysis to quantify bacterial genera in intestinal biopsies. <br>
+- Statistical analysis of NGS data to quantify bacterial genera in intestinal biopsies.
 - Bachelor's thesis (UdG): *Butyrate-induced changes in the [...] microbiota in colorectal cancer patients [...]*.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
@@ -176,6 +189,7 @@ Barcelona, Spain
 
 - INPhINIT Incoming PhD Fellowship from LaCaixa.
 - Research carried out at Regulatory Genomics group of the [Institut Josep Carreras (IJC)](https://www.carrerasresearch.org/).
+- Supervisor: Dr. Tanya Vavouri.
 
 ### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion)
 
@@ -186,7 +200,7 @@ Online
 2018 - 2022
 
 - Focused on Computational Genomics.
-- Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*. Grade: 9.7/10 (*with honours*). Supervisor: Dr. Tanya Vavouri
+- Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*. Grade: 9.7/10 (*with honours*). Supervisor: Dr. Tanya Vavouri.
 - Overall grade: 8.94/10.
 
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/)
@@ -210,68 +224,98 @@ Girona, Spain
 2012 - 2017
 
 - Specialization in Cellular & Molecular Biotechnology.  
-- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil
+- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil.
 - Overall grade: 8.12/10.
 
 
 ## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 
-### <span style="font-size:10px; font-weight:200"> Begley *et al*. **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. 2021. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"} </span>
+### <span style="font-size:10px; font-weight:200">  **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration** </span>
+
+Begley *et al*., *RNA Biology*, 2021. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"}
 
 N/A
 
-N/A
-
-N/A
+2021
 
 ## Posters & presentations {data-icon="user"}
 
-### <span style="font-size:10px; font-weight:200"> <u>Mitjavila</u> & Vavouri. __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)*. Oral presentation at the *Jornades de Biologia de la Reproducció* from the Catalan Society of Biology (March 2022) </span>
+### <span style="font-size:10px; font-weight:200">  __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)* </span>
+
+<u>Mitjavila</u> & Vavouri. Presentation at the *Jornades de Biologia de la Reproducció* from the *Societat Catalana de Biologia*.
 
 N/A
 
-N/A
+03/2022
+
+### <span style="font-size:10px; font-weight:200"> __Fast evolution of piRNA cluster expression across three mouse species__. </span>
+
+<u>Mitjavila</u> & Vavouri. Poster at the Workshop of the PhD program in Bioinformatics from UAB.
 
 N/A
 
-```{css}
-/* things for extra sidebar */
-.extra-sidebar {
-  top: 0;
-  padding-top: 0;
-}
+02/2023
 
-.extra-sidebar h1 {
-  display: none;
-}
-
-.extra-sidebar .level2:first-of-type {
-  margin-top: 0;
-}
-```
-
-# Aside2 {.aside .extra-sidebar}
-
-## Development
-
-**[`plotmics`](https://amitjavilaventura.github.io/plotmics/):** visualization of omics and sequencing data in R.  <br>
-**[`ggmitji`](https://amitjavilaventura.github.io/ggmitji/):** complements and customization for ggplots.  <br>
-**[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):** visualization of ChromHMM outputs in R.  <br>
-**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics):** shiny app to visualize omics data (*ongoing*).  <br>
-<!-- **[piCapp](https://github.com/amitjavilaventura/piCapp):** pipeline for piRNA processing and analysis (*ongoing*).  <br> -->
-<!-- **[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake):** Snakemake pipeline for ATAC-seq (*unmantained*).  <br> -->
-More on my [GitHub profile](https://github.com/amitjavilaventura).
-
-## Organizations
-
-**[SCB](https://scb.cat)** (2018 - Present)  <br>
-**[ASBTEC](https://asbtec.cat)** (2017 - Present)  <br>
 
 ## Honors & Awards {data-icon="award"}
 
-**[INPhINIT Incoming PhD Fellowship](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-incoming)** (LaCaixa, 2022-2025) <br>
-**[Master's thesis](http://hdl.handle.net/10609/138748), _with honours_** (UOC, 2022) <br>
-**[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (SEMM, 2019-*declined*) <br>
-**[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (BOE, 2015-2021) <br>
-**[World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)** (FISA, 2016) <br>
+### <span style="font-size:10px; font-weight:200"> **[INPhINIT Incoming PhD Fellowship](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-incoming)** </span> 
 
+*La Caixa Foundation*
+
+N/A
+
+2022 - 2025 
+
+### <span style="font-size:10px; font-weight:200"> **[Master's thesis](http://hdl.handle.net/10609/138748), _with honours_** </span> 
+
+*Universitat Oberta de Catalunya*
+
+N/A
+
+2022
+
+### <span style="font-size:10px; font-weight:200"> **[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** </span>
+
+*Scuola Europea di Medicina Molecolare* (declined)
+
+N/A
+
+2019 - 2021
+
+### <span style="font-size:10px; font-weight:200"> **[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** </span> 
+
+*Boletin Oficial del Estado*
+
+N/A
+
+2015 - 2021
+
+### <span style="font-size:10px; font-weight:200"> **[World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)** </span>  
+
+*FISA - World Rowing*
+
+N/A
+
+2016
+
+
+
+
+## Organizations {data-icon="building"}
+
+### <span style="font-size:10px; font-weight:200"> **_Societat Catalana de Biologia_ ([SCB](https://scb.cat))** </span>
+
+*Member (2018-Present)*
+
+N/A
+
+2018 - Present
+
+### <span style="font-size:10px; font-weight:200"> **_Associació de Biotecnòlegs de Catalunya_ ([ASBTEC](https://asbtec.cat))** </span>
+
+*Member (2017-Present), collaborator (2018-Present) and board member (2019-Present)*
+
+N/A
+
+2017 - Present

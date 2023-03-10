@@ -76,16 +76,15 @@ sup {
 }
 
 
-
 .details .place {
-  margin-top: 0.15rem;
+  margin-top: 0.05rem;
 }
 
 .main-block:not(.concise) .details div {
-  padding-top: 0.005rem;
+  padding-top: -0.05in;
 }
 .main-block.concise .details div:not(.concise) {
-    padding: 0.005in 0 0.005in 0;
+    padding: -0.05in 0 0.005in 0;
 }
 
 /* Laptop icon isn't centered by default which is lame */
@@ -192,5 +191,5 @@ sup {
 
 /* Change position of the tilte */
 [data-id="title"] {
-  margin: 0in .5in 0.08in -0.5in;
+  margin: -0.2in .5in 0.08in -0.5in;
 }

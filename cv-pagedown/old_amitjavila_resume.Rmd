@@ -1,0 +1,213 @@
+---
+title: "Adria Mitjavila - CV"
+author: Adrià Mitjavila Ventura
+output:
+  pagedown::html_resume:
+    css: ['css/styles.css', 'resume']
+    # set to true to be able to see it in the navigator; false to visualize in the RStudio viewer
+    self_contained: true
+# this will produce the pdf output directly
+knit: pagedown::chrome_print
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  results = "asis", 
+  echo = FALSE,
+  warning = FALSE,
+  message = FALSE
+)
+
+library(tidyverse)
+library(fontawesome)
+```
+
+```{css, echo = FALSE}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+# Aside
+
+<center>
+```{r logo, warning = FALSE, message = FALSE, error = FALSE, out.width="75%", eval=T, fig.align="center"}
+knitr::include_graphics(path = "fotojo.png")
+```
+</center>
+
+## Contact {#contact}
+
+-   `r fontawesome::fa(name = "home")` Girona (Spain)
+-   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:amitjavila@carrerasresearch.org){.email}
+-   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io){target="_blank"}
+-   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura){target="_blank"}
+-   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929){target="_blank"}
+<!-- -   `r fontawesome::fa(name = "blog")` [biobit.netlify.app](https://biobit.netlify.app){target="_blank"} -->
+
+
+## Skills {#skills}
+
+**Bioinformatics:**
+
+-   Microarray, (small) RNA-/ChIP-/ATAC-/MNase-seq <!--, ENSEMBL, UCSC Genome Browser, IGV, NCBI Blast -->
+
+-   UCSC Genome Browser, ENSEMBL (multiple) Browser, ENSEMBL Compara, sequence analysis
+
+**Informatics**
+
+-   R/Bioconductor, R Markdown, Shiny, Bash, Python, Snakemake, LaTeX , Git, HPC, Conda, Docker, Singularity
+
+<!-- **Experimental:** -->
+
+<!-- -   (RT-)(q)PCR, primer design, electrophoresis, Western Blot, MNase-digestion, bacterial culture -->
+
+**Languages:**
+
+-   Catalan (Native), Spanish (Bilingual), English (C1 - IELTS 7.5), Italian (Basic)
+
+## Code
+
+**[`ggmitji`](https://amitjavilaventura.github.io/ggmitji/)**<br>
+**[`plotmics`](https://amitjavilaventura.github.io/plotmics/)**<br>
+**[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/)**<br>
+<!--**[MYomics](https://github.com/amitjavilaventura/DPomics/tree/MYomics)** (*ongoing*) <br> -->
+<!--**[ATAC-seq snakemake](https://github.com/amitjavilaventura/ATACseq-snakemake)** (*ongoing*) <br> -->
+More on [my GitHub profile](https://github.com/amitjavilaventura)
+<br>
+
+## Awards
+
+**[INPhINIT Incoming PhD Fellowship](https://fundacionlacaixa.org/es/becas-doctorado-inphinit-incoming)** (LaCaixa, 2022-2025) <br>
+**[Master's thesis](http://hdl.handle.net/10609/138748), _with honours_** (UOC, 2022) <br>
+**[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (SEMM, 2019, *declined*) <br>
+**[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (BOE, 2015-2021) <br>
+**[World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)** (FISA, 2016)
+
+## Disclaimer {#disclaimer}
+
+References available upon request.<br>
+Build with [**pagedown**](https://github.com/rstudio/pagedown), code [here](https://github.com/amitjavilaventura/CVs/blob/main/cv-pagedown/amitjavila_resume.Rmd).<br> 
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## <span style="font-size:18px"> Adrià Mitjavila Ventura </span> {#title}
+
+### <span style="font-size:11px"> PhD student | Bioinformatician at *Institut Josep Carreras* </span> 
+
+<p style="font-size:11px">Biotechnologist with training in Molecular Genetics and Bioinformatics. Interested in omics data analysis to study the mechanisms of gene regulation in mammals. See more about me on [my website](https://amitjavilaventura.github.io).</p>
+
+## Experience {data-icon="laptop"}
+
+### [PhD student in Bioinformatics](https://amitjavilaventura.github.io/research/005-ijc/){target="_blank"}
+
+*Institut Josep Carreras* & *Institut Germans Trias i Pujol*
+
+Badalona, Spain
+
+11/2022 - Present
+
+<span style="font-size:10px; color:gray">PhD student (*UAB*) | Study of the role of transposable elements in the evolution of gene regulation in mammals.</span>
+
+### [Bioinformatician](https://amitjavilaventura.github.io/research/005-ijc/){target="_blank"}
+
+*Institut Josep Carreras*
+
+Badalona, Spain
+
+08/2021 - 10/2022
+
+<span style="font-size:10px; color:gray"> Master's thesis student (*UOC*) | Study of the biogenesis, expression and inter-species variation of Piwi-interacting RNAs (piRNAs). </span>
+
+### [Bioinformatician](https://amitjavilaventura.github.io/research/003-ieo/){target="_blank"}
+
+*Istituto Europeo di Oncologia*
+
+Milan, Italy
+
+07/2019 - 07/2021
+
+<span style="font-size:10px; color:gray"> Study of the Wnt/$\beta$catenin signaling pathway -and others- in the context of colorectal cancer and stem cell development. </span>
+
+### [Master student](https://amitjavilaventura.github.io/research/002-ibis/){target="_blank"}
+
+*Instituto de Biomedicina de Sevilla* 
+
+Seville, Spain
+
+09/2017 - 10/2018
+
+<span style="font-size:10px; color:gray">Master's thesis student (*US*) | Study of the role of Xrn1 and Ccr4 in yeast nucleosome architecture and gene transcription.</span>
+
+### [Undergraduate student](https://amitjavilaventura.github.io/research/001-microbial/){target="_blank"}
+
+*Microbial. Sistemes i aplicacions analítiques, S.L.*
+
+Girona, Spain
+
+09/2016 - 06/2017
+
+<span style="font-size:10px; color:gray"> Bachelor's thesis (*UdG*) student | Microbiological and molecular analyses for pathogen detection and food forensics. | Study of butyrate effects on the ileal microbiota colorectal cancer patients. </span>
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### [PhD in Bioinformatics](https://www.uab.cat/web/postgraduate/phds/all-phd-programmes/general-information/bioinformatics-1345467765430.html?param2=1345725326083)
+
+*Universitat Autònoma de Barcelona* (UAB) <br>
+<span style="font-size:10px; color:gray"> </span>
+
+Barcelona, Spain
+
+2022 - 2025
+
+### [MSc in Bioinformatics and Biostatistics](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion){target="_blank"}
+
+*Universitat Oberta de Catalunya* (UOC) <br>
+<span style="font-size:10px; color:gray"> Overall grade: 8.94/10 | Master's thesis grade: 9.78/10, *with honours*. </span>
+
+Online
+
+2018 - 2022
+
+### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/){target="_blank"}
+
+*Universidad de Sevilla* (US) <br>
+<span style="font-size:10px; color:gray"> Overall grade: 9.33/10 | Master's thesis: grade: 9.2/10. </span>
+
+Seville, Spain
+
+2017 - 2018
+
+### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215){target="_blank"}
+
+*Universitat de Girona* (UdG) <br>
+<span style="font-size:10px; color:gray"> Overall grade: 8.12/10   |   Bachelor's thesis grade: 9.4/10. </span>
+
+Girona, Spain
+
+2012 - 2017
+
+## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
+
+### <span style="font-size:10px; font-weight:200;">[__Begley *et al*., *RNA Biology*, 2021__](https://doi.org/10.1080/15476286.2020.1845504)</span>
+
+<span style="font-size:10px; font-weight:200; color:gray"> Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration </span>
+
+N/A
+
+Research article
+
+<!--
+### <span style="font-size:10px; font-weight:200;"> <u>Mitjavila</u> & Vavouri. __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)*. *Jornades de Biologia de la Reproducció* of the Catalan Society of Biology (March 2022) </span> 
+
+N/A 
+
+N/A 
+
+<span style="font-size:7px; font-weight:200">*Oral presentation* </span> 
+-->
