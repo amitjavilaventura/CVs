@@ -43,7 +43,7 @@ knitr::include_graphics(path = "fotojo.png")
 ## Contact {#contact}
 
 -   `r fontawesome::fa(name = "home")` Girona (Spain)
--   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:amitjavila@carrerasresearch.org){.email}
+-   `r fontawesome::fa(name = "at")` [amitjavila\@carrerasresearch.org](mailto:amitjavila@carrerasresearch.org){.email}
 -   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io){ target="_blank" }
 -   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura){ target="_blank" }
 -   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929){ target="_blank" }
