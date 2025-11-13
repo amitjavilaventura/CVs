@@ -91,7 +91,7 @@ Last updated on `r Sys.Date()`.
 
 ### PhD student
 
-*[Institut Germans Trias i Pujol](http://www.germanstrias.org/)* & *[Institut Josep Carreras](https://www.carrerasresearch.org/)*
+*[Institut Josep Carreras](https://www.carrerasresearch.org/)* & *[Institut Germans Trias i Pujol](http://www.germanstrias.org/)*
 
 Badalona, Spain
 
@@ -230,6 +230,14 @@ Girona, Spain
 
 ## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 
+### <span style="font-size:10px; font-weight:200">  **Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse** </span>
+
+Casas, <u>Mitjavila-Ventura</u> *et al*., *EMBO Journal*, 2025. doi: [10.1038/s44318-025-00475-4](https://doi.org/10.1038/s44318-025-00475-4){target="_blank"}
+
+N/A
+
+2025
+
 ### <span style="font-size:10px; font-weight:200">  **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration** </span>
 
 Begley *et al*., *RNA Biology*, 2021. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"}
@@ -240,21 +248,21 @@ N/A
 
 ## Posters & presentations {data-icon="user"}
 
-### <span style="font-size:10px; font-weight:200">  __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)* </span>
+### <span style="font-size:10px; font-weight:200">  __Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse__ </span>
 
-<u>Mitjavila</u> & Vavouri. Presentation at the *Jornades de Biologia de la Reproducció* from the *Societat Catalana de Biologia*.
+<u>Mitjavila-Ventura</u>, Casas et al. Poster at the *Jornades de Bioinformàtica i Genòmica* from the *Societat Catalana de Biologia*.
 
-N/A
+Lleida, Spain
 
-03/2022
+12/2024
 
-### <span style="font-size:10px; font-weight:200"> __Fast evolution of piRNA cluster expression across three mouse species__. </span>
+### <span style="font-size:10px; font-weight:200"> __Fast evolution of piRNA cluster expression in mouse__. </span>
 
-<u>Mitjavila</u> & Vavouri. Poster at the Workshop of the PhD program in Bioinformatics from UAB.
+<u>Mitjavila</u> & Vavouri. Poster at the Microsymposium in RNA Biology.
 
-N/A
+Vienna, Austria
 
-02/2023
+05/2023
 
 
 ## Honors & Awards {data-icon="award"}

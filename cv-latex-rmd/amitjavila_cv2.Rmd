@@ -34,7 +34,7 @@ updated: yes
 \vspace{2mm}
 
 \normalsize 
-Bioinformatician with training in Molecular Genetics and Biotechnology. Interested in omics data analysis to study the mechanisms of gene regulation and their evolution.
+Bioinformatician with training in Molecular Genetics and Biotechnology and over 5 years of experience in omics data analysis, mainly transcriptomics and epigenomics. I am currently interested in regulation of gene expression. Outside of academia, I have participated in several scientific outreach events. On the other hand, I have practiced rowing at international level, which has given me the opportunity to apply the values acquired during training and competition, such as teamwork and perseverance, to my personal and professional life.
 
 \normalsize
 
@@ -51,35 +51,35 @@ Bioinformatician with training in Molecular Genetics and Biotechnology. Interest
 # Employment \hrulefill
 
 <!-- PHD STUDENT IN BIOINFORMATICS AT IGTP, IJC AND UAB -->
-\textbf{PhD student in Bioinformatics} \hfill \emph{11/2022 - Present}
+\textbf{PhD candidate in Bioinformatics} \hfill \emph{11/2022 - Present}
 
-* \small [*Institut Germans Trias i Pujol (IGTP)*](http://igtp.cat/en/) & [*Institut Josep Carreras (IJC)*](https://www.carrerasresearch.org/en) \hfill {\normalsize{Badalona (Spain)}}
+* \small [*Institut Josep Carreras (IJC)*](https://www.carrerasresearch.org/en) & [*Institut Germans Trias i Pujol (IGTP)*](http://igtp.cat/en/) \hfill {\small{Badalona (Spain)}}
 
-  + \footnotesize - Study of the role of transposable elements in the evolution of gene regulation in mammals.
-  + \footnotesize - Analysis and integration of small RNA-seq, RNA-seq and other genomics data.
-  + \footnotesize - Mentoring of undergraduade students and colleagues.
-  + \footnotesize - Workshops addressed to high-school students.
-
+  + \footnotesize - Study of the variation Piwi-interacting RNAs (piRNAs) across closely-related mouse strains and species.
+  + \footnotesize - Analysis and integration of small RNA-seq, RNA-seq, ChIP-seq, MNase-seq and other genomics data.
+  + \footnotesize - Analysis of single-cell and spatial transcriptomics data (10x Xenium), including design of custom probes.
+  + \footnotesize - Collaboration with external researchers and mentoring of undergraduate students.
+  + \footnotesize - Outreach workshops addressed to high-school students.
 
 <!-- BIOINFORMATICIAN AT IJC -->
 \textbf{Bioinformatician} \hfill \emph{08/2021 - 11/2022}
 
-* \small [*Institut Josep Carreras (IJC)*](https://www.carrerasresearch.org/en) \hfill {\normalsize{Badalona (Spain)}}
+* \small [*Institut Josep Carreras (IJC)*](https://www.carrerasresearch.org/en) \hfill {\small{Badalona (Spain)}}
 
   + \footnotesize - Study of the variation Piwi-interacting RNAs (piRNAs) across closely-related species.
-  + \footnotesize - Analysis and integration of small RNA-seq, RNA-seq and other genomics data.
-  + \footnotesize - Mentoring of BSc and MSc degree students.
-  + \footnotesize - Workshops addressed to high-school students.
+  + \footnotesize - Analysis and integration of small RNA-seq, RNA-seq, ChIP-seq, MNase-seq and other genomics data.
+  + \footnotesize - Collaboration with external researchers, and mentoring of BSc and MSc degree students.
+  + \footnotesize - Outreach workshops addressed to high-school students.
   + \footnotesize - Master's thesis (UOC, 2022): *Analysis of the variation in piRNA expression across three \emph{Mus} species*. Grade: 9.7/10 (**with honours**). Supervisor: Dr. Tanya Vavouri.
 
 
 <!-- BIOINFORMATICIAN AT IEO -->
 \textbf{Bioinformatician} \hfill \emph{07/2019 - 08/2021}
 
-* \small [*Istituto Europeo di Oncologia (IEO)*](https://www.ieo.it/en/) \hfill {\normalsize{Milan (Italy)}}
+* \small [*Istituto Europeo di Oncologia (IEO)*](https://www.ieo.it/en/) \hfill {\small{Milan (Italy)}}
 
   + \footnotesize - Study of several signaling pathways in the development of cancer and stem cell differentiation.
-  + \footnotesize - Analysis and integration of RNA-seq, ChIP-seq and ATAC-seq data.
+  + \footnotesize - Analysis and integration of RNA-seq, ChIP-seq and ATAC-seq data in the context of colorectal cancer.
   + \footnotesize - Comparison of distinct peak callers for ATAC-seq data.
   + \footnotesize - Comparison of sequencing depths for RNA-seq and their impact on differential expression analysis.
 
@@ -87,7 +87,7 @@ Bioinformatician with training in Molecular Genetics and Biotechnology. Interest
 <!-- MASTER'S THESIS AT IBIS-SEVILLA -->
 \textbf{Master's thesis student} & \textbf{Research assistant} \hfill \emph{09/2017 - 10/2018} 
 
-* \small [*Instituto de Biomedicina de Sevilla (IBiS)*](https://www.ibis-sevilla.es/inicio.aspx?lang=en-US) \hfill {\normalsize{Seville (Spain)}}
+* \small [*Instituto de Biomedicina de Sevilla (IBiS)*](https://www.ibis-sevilla.es/inicio.aspx?lang=en-US) \hfill {\small{Seville (Spain)}}
 
   + \footnotesize - Study of Ccr4 and Xrn1 and their influence in nucleosome positioning and transcription in yeast.
   + \footnotesize - Computational analysis of MNase-seq data. 
@@ -95,19 +95,18 @@ Bioinformatician with training in Molecular Genetics and Biotechnology. Interest
   + \footnotesize - Master's thesis (US, 2018): *Influence of Xrn1 in nucleosome positioning across \emph{Saccharomyces cerevisiae} genome and its effects in transcription*. Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
 
 
-<!-- <!-- INTERNSHIP AT IDIBGI --> 
-<!-- \textbf{Internship student} \hfill \emph{07/2017 - 09/2017} -->
+<!-- INTERNSHIP AT IDIBGI --> 
+\textbf{Internship student} \hfill \emph{07/2017 - 09/2017}
 
-<!-- * \small [*Institut d'Investigació Biomèdica de Girona (IdIBGi)*](https://idibgi.org/en/) \hfill {\normalsize{Girona (Spain)}} -->
+* \small [*Institut d'Investigació Biomèdica de Girona (IdIBGi)*](https://idibgi.org/en/) \hfill {\small{Girona (Spain)}}
 
-<!--   + \footnotesize - Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity. -->
-<!--   + \footnotesize - DNA and RNA extraction from animal and human biopsies/feces. -->
-
+   + \footnotesize - Identification of new factors (genetic and bacterial) related to adipose tissue physiology and obesity. 
+   + \footnotesize - DNA and RNA extraction from animal and human biopsies/feces.
   
 <!-- BACHELOR'S THESIS AT MICROBIAL -->
 \textbf{Internship} & \textbf{Bachelor's thesis student} \hfill \emph{09/2016 - 07/2017} 
 
-* \small [*Microbial. Sistemes i aplicacions analítiques, S.L.*](https://www.microbial-systems.com/) \hfill {\normalsize{Girona (Spain)}}
+* \small [*Microbial. Sistemes i aplicacions analítiques, S.L.*](https://www.microbial-systems.com/) \hfill {\small{Girona (Spain)}}
 
   + \footnotesize - Analysis of the mucosa-associated microbiota from human intestinal biopsies
   + \footnotesize - Analysis of food and water samples for pathogen identification and food forensics. 
@@ -119,16 +118,27 @@ Bioinformatician with training in Molecular Genetics and Biotechnology. Interest
 
 ## Journal Articles
 
+<!-- CASAS ET AL., EMBO Journal, 2025. -->
+\small Casas, \underline{Mitjavila-Ventura} *et al*. **Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse**. *EMBO Journal*. 2025. DOI: [10.1038/s44318-025-00475-4](https://doi.org/10.1038/s44318-025-00475-4).
+
+
 <!-- BEGLEY ET AL., RNA BIOLOGY, 2021. Xrn4 and nucleosomes -->
 \small Begley *et al*. **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. 2021. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).
 
 ## Presentations and posters
 
-<!-- Oral presentation. Jornades de biologia de la reproducció, SCB. piRNA clusters in mouse species -->
-\small \underline{Mitjavila} & Vavouri. **Analysis of piRNA variation across three _Mus_ species** *(in Catalan)*. Oral presentation at the *Jornades de Biologia de la Reproducció* from the Catalan Society of Biology (March 2022).
+<!-- Poster. Casas et al., 202*.  April 2024 -->
+\small \underline{Mitjavila-Ventura}, Casas et al. **Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse**. Poster presentation at the *Jornades de Bioinformàtica i Genòmica* from the Catalan Society of Biology (Lleida, December 2024).
 
-<!-- Poster. Workshop, UAB, PhD in Bioinformatics. piRNA clusters in mouse species -->
-\small \underline{Mitjavila} & Vavouri. **Fast evolution of piRNA cluster expression across three mouse species**. Poster presentation at the annual workshop of the PhD program in Bioinformatics from the *Universitat Autònoma de Barcelona* (February 2023).
+<!-- Poster. piRNAs and PIWI proteins meeting.  April 2024 -->
+\small \underline{Mitjavila-Ventura} & Vavouri. **Transposons and the evolution of piRNA cluster expression in mice**. Poster presentation at the piRNAs and PIWI proteins meeting (Montpellier, April 2024).
+
+
+<!-- Poster. Microsymposium in RNA biology. piRNA clusters in April 2023. -->
+<!-- \small \underline{Mitjavila-Ventura} & Vavouri. **Fast evolution of piRNA cluster expression in mouse**. Poster presentation at the Microsymposium in RNA Biology (Viena, May 2023). -->
+
+<!-- Oral presentation. Jornades de biologia de la reproducció, SCB. piRNA clusters in mouse species -->
+<!-- \small \underline{Mitjavila} & Vavouri. **Analysis of piRNA variation across three _Mus_ species** *(in Catalan)*. Oral presentation at the *Jornades de Biologia de la Reproducció* from the Catalan Society of Biology (Barcelona, March 2022). -->
 
 <!-- # Projects \hrulefill -->
 
@@ -167,7 +177,7 @@ Bioinformatician with training in Molecular Genetics and Biotechnology. Interest
 
 \small \textbf{Informatics}
 
-* \footnotesize - \emph{Languages}: R/Bioconductor, Bash, Python (*basic*)
+* \footnotesize - \emph{Languages}: R/Bioconductor, Bash, AWK, Python (*basic*)
 * \footnotesize - \emph{Other}: R Markdown, Snakemake, Conda, Docker, Singularity, Git, HPC (PBS/Slurm), LaTeX
 
 # Development \hrulefill
@@ -186,7 +196,10 @@ Bioinformatician with training in Molecular Genetics and Biotechnology. Interest
 
 \small [Catalan Society of Biology (SCB)](https://scb.iec.cat/). 2018 - Present
 
-\small [Biotechnologists Association of Catalunya (ASBTEC)](https://asbtec.cat/). 2017 - Present (*Board member since 2019*)
+\small [Biotechnologists Association of Catalunya (ASBTEC)](https://asbtec.cat/). 2017 - 2024 
+
+* \footnotesize - *Active collaborator from 2018 to 2024*
+* \footnotesize - *Board member and communication manager from 2019 to 2022*
 
 # Honours & Awards \hrulefill
 
@@ -200,6 +213,6 @@ Bioinformatician with training in Molecular Genetics and Biotechnology. Interest
 
 \small [World Rowing Under-23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383) (FISA, 2016)
 
-# References \hrulefill
+<!-- # References \hrulefill -->
 
-<!-- \small Available upon request. -->
+
