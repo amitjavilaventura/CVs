@@ -34,43 +34,61 @@ library(fontawesome)
 
 # Aside
 
-<center>
+<!-- <center> 
 ```{r logo, warning = FALSE, message = FALSE, error = FALSE, out.width="75%", eval=TRUE, fig.align="center"}
 knitr::include_graphics(path = "fotojo.png")
 ```
-</center>
+</center> -->
 
-## Contact {#contact}
+## {#contact}
 
 -   `r fontawesome::fa(name = "home")` Girona (Spain)
 -   `r fontawesome::fa(name = "at")` [adria.mitjavila94\@gmail.com](mailto:amitjavila@carrerasresearch.org){.email}
 -   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io){ target="_blank" }
+-   `r fontawesome::fa(name = "linkedin")` [/adria-mitjavila-ventura](https://www.linkedin.com/in/adria-mitjavila-ventura/){ target="_blank" }
 -   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura){ target="_blank" }
 -   `r fontawesome::fa(name = "orcid")` [0000-0002-0337-1929](https://orcid.org/0000-0002-0337-1929){ target="_blank" }
 
+----
+
 ## Skills {#skills}
 
-**Bioinformatics:**
+### <br> Informatics
 
--   sRNA/RNA/ChIP/ATAC/MNase-seq data analysis, Sequence analysis, Genome Browsers (UCSC, ENSEMBL, IGV)
+-   R/Bioconductor, Bash, AWK, Python (basic)
+-   Snakemake, Conda, Docker, Singularity, HPC (PBS & SLURM)
+-   Linux (Ubuntu), Windows, MacOS
 
-**Informatics:**
+### Bioinformatics
 
--   R/Bioconductor, R Markdown, Shiny, Bash, Snakemake, Python, Git, HPC (PBS/Slurm), Conda, Docker, Singularity, Linux (Ubuntu)
+-   (small) RNA-/ChIP-/ATAC-/MNase-seq data analysis
+-   Single-cell RNA data analysis
+-   Spatial transcriptomics (10x Xenium) custom panel design and data analysis
+-   UCSC, ENSEMBL and IGV genome browsers
+-   Multiple sequence alignment, ENSEMBL Compara, BLAST, QIIME2
 
-**Languages:**
+### Languages
 
--   Catalan (Native), Spanish (Bilingual), English (IELTS 7.5 - C1), Italian (Basic)
+-   Catalan (Native)
+-   Spanish (Bilingual)
+-   English (IELTS 7.5 - C1)
+-   Italian (Basic)
+
+----
 
 ## Development {data-icon="gear"}
 
-* **[`plotmics`](https://amitjavilaventura.github.io/plotmics/):** visualization of omics and sequencing data in R.
-
 * **[`ggmitji`](https://amitjavilaventura.github.io/ggmitji/):** complements and customization for ggplots.
 
-* **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):** visualization of ChromHMM outputs in R.
+* **[ATAC-seq Snakemake pipeline](https://github.com/amitjavilaventura/ATACseq-snakemake)**
+
+<!-- * **[`plotmics`](https://amitjavilaventura.github.io/plotmics/):** visualization of omics and sequencing data in R. -->
+
+<!-- * **[`chromHMMviewR`](https://amitjavilaventura.github.io/chromHMMviewR/):** visualization of ChromHMM outputs in R. -->
 
 * More on my [GitHub profile](https://github.com/amitjavilaventura).
+
+----
 
 ## Honors & Awards {data-icon="award"}
 
@@ -78,11 +96,13 @@ knitr::include_graphics(path = "fotojo.png")
 
 * **[Master's thesis](http://hdl.handle.net/10609/138748), _with honours_** (UOC, 2022)  
 
-* **[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (SEMM, 2019-*declined*) 
+* **[SEMM PhD Fellowship](https://www.semm.it/education/phd-program-systems-medicine)** (2019-*declined*) 
 
 * **[Elite athlete](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12577)** (BOE, 2015-2021)  
 
 * **[World Rowing U23 Champion](https://worldrowing.com/athlete/adria-mitjavila?id=44383)** (FISA, 2016)  
+
+----
 
 ## Disclaimer {#disclaimer}
 
@@ -95,9 +115,15 @@ Last updated on `r Sys.Date()`.
 
 ## Adrià Mitjavila Ventura {#title}
 
-### MSc | PhD student in Bioinformatics at *Institut Josep Carreras*
+### Bioinformatician | LaCaixa INPhINIT Fellow | PhD student at *Institut Josep Carreras* | MSc
 
-<p style="font-size:13px">Biotechnologist with training in Molecular Genetics and Bioinformatics. Interested in omics data analysis to study the mechanisms of gene regulation and their evolution. See more about me on [my website](https://amitjavilaventura.github.io).</p>
+Bioinformatician with training in Molecular Genetics and Biotechnology, and more than 5 years of experience working in well known research centers in Spain and Italy.
+
+With a solid background in Genomics and Transcriptomics, I aim to analyse large NGS data sets and develop analysis workflows to solve complex biological problems in the context of evolution, gene regulation and cancer.
+
+Innovative and agile thinker always striving to face a challenge and find the right solution. I enjoy working independently as well as in a collaborative environment to deliver the best results. With experience in mentoring and support students, and in scientific training and outreach activities.
+
+I look forward to joining an international team in the healthcare sector where I can make the most of my skills and to grow in a stimulating work environment.
 
 ## Experience {data-icon="laptop"}
 
@@ -110,6 +136,7 @@ Badalona, Spain
 11/2022 - Present
 
 [**Group of Regulatory Genomics (Dr. Tanya Vavouri)**](https://www.carrerasresearch.org/en/regulatory-genomics/)
+
 
 ### Bioinformatician & master's thesis student
 
@@ -150,7 +177,7 @@ Girona, Spain
 09/2016 - 06/2017
 
 
-## Education {data-icon="graduation-cap" data-concise="true"}
+## Education {data-icon="university" data-concise="true"}
 
 ### [PhD in Bioinformatics](https://www.uab.cat/web/postgraduate/phds/all-phd-programmes/general-information/bioinformatics-1345467765430.html?param2=1345725326083)
 
@@ -168,6 +195,8 @@ Online
 
 2018 - 2022
 
+* Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*. Grade: 9.7/10 (*with honours*). Supervisor: Dr. Tanya Vavouri.
+
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/)
 
 Universidad de Sevilla (US)
@@ -175,6 +204,8 @@ Universidad de Sevilla (US)
 Seville, Spain
 
 2017 - 2018
+
+* Master's thesis: *Influence of Xrn1 in nucleosome positioning across <u>Saccharomyces cerevisiae</u> genome and its effects in transcription*. Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego & Dr. Gabriel Gutiérrez Pozo.
 
 ### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
 
@@ -184,34 +215,105 @@ Girona, Spain
 
 2012 - 2017
 
-## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
+* Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil.
 
-### <span style="font-size:10px; font-weight:200"> Begley *et al*. **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. 2021. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"} </span>
+## Further training {data-icon="lightbulb-o" data-concise="true"}
+
+### <span style="font-size:11px; font-weight:200"> INPhINIT PhD Fellowship annual gathering </span>
+
+*La Caixa*
 
 N/A
+
+2023<br>2024<br>2025
+
+* Three 4-day annual gatherings with other PhD fellows in which we worked on soft skills, networking, career development, wellbeing and other topics related to academy and industry.
+
+### <span style="font-size:11px; font-weight:200"> R for multiomics data analysis </span>
+
+*Decode Life*
+
+N/A
+
+2025
+
+* R data analysis, Transcriptomics, Metabolomics
+
+### <span style="font-size:11px; font-weight:200"> [International course on Non-codiong genome](https://training.institut-curie.org/courses/non-coding-genome-8) </span>
+
+*Institute Curie*
+
+N/A
+
+03/2023
+
+* Poster presentation: *Fast evolution of piRNA cluster expression in mouse*.
+* Evaluation of MSc students in a Journal Club.
+
+## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
+
+### <span style="font-size:11px; font-weight:200"> <u>Mitjavila-Ventura</u> & Vavouri. **Mechanisms seeding the emergence of new piRNAs**.</span>
+
+*Trends in Genetics*. 2026. doi: [10.1016/j.tig.2026.04.004](https://doi.org/10.1016/j.tig.2026.04.004){target="_blank"}
+
+N/A
+
+2026
+
+
+### <span style="font-size:11px; font-weight:200"> Casas, <u>Mitjavila-Ventura</u> *et al*. **Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse**.  </span>
+
+*EMBO Journal*. 2025. doi: [10.1038/s44318-025-00475-4](https://doi.org/10.1038/s44318-025-00475-4){target="_blank"}
+
+N/A
+
+2025
+
+
+### <span style="font-size:11px; font-weight:200"> Begley *et al*. **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**.  </span>
+
+*RNA Biology*. 2021. doi: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504){target="_blank"}
 
 N/A
 
 2021
 
-## Posters & presentations {data-icon="user"}
+<!-- ## Posters & presentations {data-icon="user"} -->
 
-### <span style="font-size:10px; font-weight:200"> <u>Mitjavila</u> & Vavouri. __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)*. Oral presentation at the *Jornades de Biologia de la Reproducció* from the Catalan Society of Biology (March 2022) </span>
+<!-- ### <span style="font-size:10px; font-weight:200"> <u>Mitjavila</u>, Casas et al.  **Genetic polymorphisms  lead to major, locus-specific, variation in piRNA production in mouse**. Poster presentation at the *Jornades de Bioinformàtica i Genòmica* from the Catalan Society of Biology (December 2024). </span> -->
 
-N/A
+<!-- N/A -->
 
-N/A
+<!-- N/A -->
 
-03/2022
+<!-- 12/2024 -->
 
-### <span style="font-size:10px; font-weight:200"> <u>Mitjavila</u> & Vavouri. __Fast evolution of piRNA cluster expression across three mouse species__. Poster at PhD in Bioinformatics Workshop (February 2023) </span>
+<!-- ### <span style="font-size:10px; font-weight:200"> <u>Mitjavila</u> & Vavouri.  **Transposons and the evolution of piRNA cluster expression in mice**. Poster presentation at the piRNAs and PIWI proteins meeting (April 2024). </span> -->
 
-N/A
+<!-- N/A -->
 
-N/A
+<!-- N/A -->
 
-02/2023
+<!-- 04/2024 -->
 
+<!-- <!-- -->
+<!-- ### <span style="font-size:10px; font-weight:200"> <u>Mitjavila</u> & Vavouri. __Fast evolution of piRNA cluster expression in mouse mouse__. Poster at the Microsymposium in RNA Biology (May 2023) </span> -->
+
+<!-- N/A -->
+
+<!-- N/A -->
+
+<!-- 05/2023 -->
+<!-- --> 
+<!-- <!-- -->
+<!-- ### <span style="font-size:10px; font-weight:200"> <u>Mitjavila</u> & Vavouri. __Analysis of piRNA variation across three *Mus* species__ *(in Catalan)*. Oral presentation at the *Jornades de Biologia de la Reproducció* from the Catalan Society of Biology (March 2022) </span> -->
+
+<!-- N/A -->
+
+<!-- N/A -->
+
+<!-- 03/2022 -->
+<!-- --> 
 
 
 

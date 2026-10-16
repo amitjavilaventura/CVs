@@ -89,6 +89,8 @@ Bioinformatician with training in Molecular Genetics and Biotechnology and over 
 
 # Publications \hrulefill
 
+<!-- MITJAVILA AND VAVOURI, Trends in Genetics, 2026. -->
+\footnotesize \underline{Mitjavila-Ventura} & Vavouri. **Mechanisms seeding the emergence of new piRNAs**. *Trends in Genetics*. 2026. doi: [10.1016/j.tig.2026.04.004](https://doi.org/10.1016/j.tig.2026.04.004)
 
 <!-- CASAS ET AL., EMBO Journal, 2025. -->
 \footnotesize Casas, \underline{Mitjavila-Ventura} *et al*. **Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse**. *EMBO Journal*. 2025. DOI: [10.1038/s44318-025-00475-4](https://doi.org/10.1038/s44318-025-00475-4).

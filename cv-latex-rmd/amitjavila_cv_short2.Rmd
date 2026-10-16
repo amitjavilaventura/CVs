@@ -79,9 +79,11 @@ Bioinformatician with training in Molecular Genetics and Biotechnology and over 
 
 # Publications \hrulefill
 
+<!-- MITJAVILA AND VAVOURI, Trends in Genetics, 2026. -->
+\footnotesize \underline{Mitjavila-Ventura} & Vavouri. **Mechanisms seeding the emergence of new piRNAs**. *Trends in Genetics*. 2026. doi: [10.1016/j.tig.2026.04.004](https://doi.org/10.1016/j.tig.2026.04.004)
+
 <!-- CASAS ET AL., EMBO Journal, 2025. -->
 \footnotesize Casas, \underline{Mitjavila-Ventura} *et al*. **Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse**. *EMBO Journal*. 2025. DOI: [10.1038/s44318-025-00475-4](https://doi.org/10.1038/s44318-025-00475-4).
-
 
 <!-- BEGLEY ET AL., RNA BIOLOGY, 2021. Xrn4 and nucleosomes -->
 \footnotesize Begley *et al*. **Xrn1 influence on gene transcription results from the combination of general effects on elongating RNA pol II and gene-specific chromatin configuration**. *RNA Biology*. 2021. DOI: [10.1080/15476286.2020.1845504](https://doi.org/10.1080/15476286.2020.1845504).

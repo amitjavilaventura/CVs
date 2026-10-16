@@ -32,6 +32,12 @@ h2 {
   padding: 0px 0px;
 }
 
+p {
+  font-family: "Oxygen", serif;
+  color: #000;
+  font-size: 11px;
+}
+
 /*reset margins from headers in aside*/
 .aside h2, h3 {
   margin-top: 0px;
@@ -68,7 +74,7 @@ sup {
 
 /* Customize some of the sizing variables */
 :root {
-  --sidebar-width: 12rem; /* Shrink sidebar width  */
+  --sidebar-width: 14rem;
   --sidebar-background-color: #F2FCFF; /* Make sidebar light gray/blue */
   --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
   --decorator-outer-dim: 10px; /* Make position deliniating circles larger */
@@ -122,7 +128,7 @@ sup {
 
 /* Less line spaceing for skills section */
 [data-id="skills"] {
-    line-height: 1;
+    line-height: 1.1;
 }
 
 /* When we have links at bottom in a list make sure they actually are numbered */
@@ -143,20 +149,16 @@ sup {
 
 .aside li::before {
   position: relative;
-  margin-left: -4pt;
-  content: "• ";
+  margin-left: -3pt;
+  content: "· ";
 }
 
-/* Remove the fake bullets from lists */
-.aside li::before {
-  content: auto;
-}
 
 /* Make sure elements in aside are centered and have a nice small text */
 .aside {
   width: calc(var(--sidebar-width) + 9px);
-  line-height: 1.05;
-  font-size: 0.6rem;
+  line-height: 1.1;
+  font-size: 0.75rem;
   padding: 0in var(--sidebar-horizontal-padding);
 }
 

@@ -42,7 +42,7 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Contact {#contact}
 
--   `r fontawesome::fa(name = "home")` Girona (Spain)
+-   `r fontawesome::fa(name = "home")` Banyoles (Spain)
 -   `r fontawesome::fa(name = "at")` [amitjavila\@carrerasresearch.org](mailto:amitjavila@carrerasresearch.org){.email}
 -   `r fontawesome::fa(name = "globe")` [amitjavilaventura.github.io](https://amitjavilaventura.github.io){ target="_blank" }
 -   `r fontawesome::fa(name = "github")` [/amitjavilaventura](https://github.com/amitjavilaventura){ target="_blank" }
@@ -56,7 +56,7 @@ knitr::include_graphics(path = "fotojo.png")
 
 **Informatics:**
 
--   R/Bioconductor, R Markdown, Shiny, Bash, Snakemake, Python, Git, HPC (PBS/Slurm), Conda, Docker, Singularity, Linux (Ubuntu)
+-   R/Bioconductor, R Markdown, Shiny, Bash, Snakemake, Python, Git, HPC (PBS & Slurm), Conda, Docker, Singularity, Linux (Ubuntu)
 
 **Languages:**
 
@@ -98,11 +98,19 @@ Badalona, Spain
 11/2022 - Present
 
 [**Group of Regulatory Genomics (Dr. Tanya Vavouri)**](https://www.carrerasresearch.org/en/regulatory-genomics/)<br>
-Study of the role of transposable elements in the evolution of gene regulation in mammals.
+Study of Piwi-interacting RNAs (piRNAs), their biogenesis mechanisms and their conservation across species. |
+Analysis and integration of bulk small RNA-seq, RNA-seq, ChIP-seq and other genomics data. | 
+Analysis of single-cell RNA-seq and 10x Xenium spatial transcriptomics data. | Mentoring and outreach activities adressed to high-school and undergraduate students.
 
-- Analysis and integration of small RNA-seq, RNA-seq and genomics data.
-- Mentoring of graduate students and collegues.
-- Workshops addressed to high-school students. 
+::: concise
+- Bioinformatics and statistical analysis (R, Bash, Python). 
+- Pipeline development (Snakemake).
+- Workflow and environment management (conda, docker, singularity). 
+- Scientific writing.
+- Version control (git, GitHub).
+- High performance computing (Slurm).
+- Outreach and mentoring.
+:::
 
 ### Bioinformatician & master's thesis student
 
@@ -115,10 +123,15 @@ Badalona, Spain
 [**Group of Regulatory Genomics (Dr. Tanya Vavouri)**](https://www.carrerasresearch.org/en/regulatory-genomics/)<br>
 Study of Piwi-interacting RNAs (piRNAs), their biogenesis mechanisms and their conservation across species.
 
-- Analysis and integration of small RNA-seq, RNA-seq and genomics data.
-- Master's thesis (UOC): *Analysis of the variation in piRNA expression across three <u>Mus</u> species*.
-- Mentoring of bachelor's and master's thesis students.
-- Workshops addressed to high-school students. 
+::: concise
+- Bioinformatics and statistical analysis (R, Bash, Python). 
+- Pipeline development (Snakemake).
+- Workflow and environment management (conda, docker, singularity). 
+- Scientific writing.
+- Version control (git, GitHub).
+- High performance computing (Slurm).
+- Outreach and mentoring.
+:::
 
 ### Bioinformatician
 
@@ -129,11 +142,18 @@ Milan, Italy
 07/2019 - 07/2021
 
 [**Group of Epigenetic Mechanisms in Cancer (Dr. Diego Pasini)**](https://www.research.ieo.it/research-and-technology/principal-investigators/epigenetic-mechanisms-in-cancer/)<br>
-Study of Wnt/$\beta$catenin signaling pathway -and others- and its effects in transcription and epigenetic modifications in the context of colorectal cancer and stem cell development.
+Study of Wnt signaling pathway -and others- and its effects in transcription and epigenetic modifications in the context of colorectal cancer and stem cell development. |
+Analysis and integration of distinct omics data (RNA-/ChIP-/ATAC-seq) |
+Comparison of different ATAC-seq peak callers | 
+Comparison of different sequencing depths for RNA-seq for DE analysis.
 
-- Analysis and integration of omics data (RNA-/ChIP-/ATAC-seq).
-- Comparison of different ATAC-seq peak callers.
-- Comparison of different sequencing depths for RNA-seq and their influence in differential expression analysis.
+::: concise
+- Bioinformatics and statistical analysis (R, Bash, Python). 
+- Pipeline development (Snakemake).
+- Workflow and environment management (conda, docker, singularity). 
+- Version control (git, GitHub).
+- High performance computing (PBS).
+:::
 
 ### Master's thesis student & Research assistant
 
@@ -144,10 +164,16 @@ Seville, Spain
 09/2017 - 10/2018
 
 [**Group of Gene Expression (Dr. Sebastián Chávez)**](https://www.ibis-sevilla.es/investigacion/oncohematologia-y-genetica/expresion-genica/chavez-de-diego-sebastian.aspx) <br> 
-Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcription.
+Study of Xrn1 and Ccr4 roles in yeast nucleosome architecture and gene transcription. | Analysis of MNase-seq data and MNase-qPCR experiments from Xrn1-, Ccr4-mutant and WT yeast strains.
 
-- Analysis of MNase-seq data and MNase-qPCR experiments from Xrn1-, Ccr4-mutant and WT yeast strains.
-- Master's thesis (US): *Influence of Xrn1 in nucleosome positioning [...] and its effects in transcription*.
+::: concise
+- Bioinformatics and statistical analysis (Bash, R, Past).
+- UCSC Genome Browser.
+- DNA extraction.
+- MNase-qPCR.
+- Microbiological cultures.
+- Scientific writing.
+:::
 
 ### Internship student
 
@@ -158,9 +184,13 @@ Girona, Spain
 07/2017 - 09/2017
 
 [**Unit of Diabetes, Endocrinology and Nutrition**](https://idibgi.org/grups/nes-nutricio-eumetabolisme-i-salut/) <br> 
-*Extracurricular internship*. Identification of novel factors (genetic and bacterial) related to adipose tissue physiology and obesity.
+*Extracurricular internship*. Identification of novel factors (genetic and bacterial) related to adipose tissue physiology and obesity. 
+| RNA/DNA extraction from mouse hepatic biopsies and human fecal material.
 
-- RNA/DNA extraction from mouse hepatic biopsies and human fecal material.
+::: concise
+- DNA/RNA extraction & qPCR.
+:::
+
 
 ### Internship & bachelor's thesis student
 
@@ -170,12 +200,15 @@ Girona, Spain
 
 09/2016 - 06/2017
 
-Microbiological and molecular analyses of food and water for pathogen detection and food forensics |  Study of butyrate effects on the ileal microbiota of colectomized colorectal cancer patients.
+Microbiological and molecular analyses of food and water for pathogen detection and food forensics | Study of butyrate effects on the ileal microbiota of colectomized colorectal cancer patients.
 
-- DNA extraction of intestinal mucosa biopsies.
-- (q)PCR experiments to detect clusters and families of bacteria.
-- Statistical analysis of NGS data to quantify bacterial genera in intestinal biopsies.
-- Bachelor's thesis (UdG): *Butyrate-induced changes in the [...] microbiota in colorectal cancer patients [...]*.
+::: concise
+- DNA extraction, qPCR & molecular cloning.
+- Bacterial cultures.
+- Statistical analysis of NGS data (SPSS).
+- Scientific writing.
+- Sample traceability and results documentation
+:::
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -229,6 +262,22 @@ Girona, Spain
 
 
 ## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
+
+<!-- ### <span style="font-size:11px; font-weight:200"> <u>Mitjavila-Ventura</u> & Vavouri. **High piRNA abundance is a hallmark of evolutionarily persistent piRNA-producing loci **.</span> -->
+
+<!-- *bioRxiv*. 2026. doi: [](){target="_blank"} -->
+
+<!-- N/A -->
+
+<!-- 2026 -->
+
+### <span style="font-size:11px; font-weight:200"> <u>Mitjavila-Ventura</u> & Vavouri. **Mechanisms seeding the emergence of new piRNAs**.</span>
+
+*Trends in Genetics*. 2026. doi: [10.1016/j.tig.2026.04.004](https://doi.org/10.1016/j.tig.2026.04.004){target="_blank"}
+
+N/A
+
+2026
 
 ### <span style="font-size:10px; font-weight:200">  **Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse** </span>
 
@@ -322,8 +371,8 @@ N/A
 
 ### <span style="font-size:10px; font-weight:200"> **_Associació de Biotecnòlegs de Catalunya_ ([ASBTEC](https://asbtec.cat))** </span>
 
-*Member (2017-Present), collaborator (2018-Present) and board member (2019-Present)*
+*Member (2017-2025), collaborator (2018-2025) and board member (2019-2023)*
 
 N/A
 
-2017 - Present
+2017 - 2025
