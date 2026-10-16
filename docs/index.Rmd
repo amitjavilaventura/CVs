@@ -50,13 +50,9 @@ knitr::include_graphics(path = "fotojo.png")
 
 ## Skills {#skills}
 
-**Bioinformatics:**
-
--   sRNA/RNA/ChIP/ATAC/MNase-seq data analysis, Sequence analysis, Genome Browsers (UCSC, ENSEMBL, IGV)
-
 **Informatics:**
 
--   R/Bioconductor, R Markdown, Shiny, Bash, Snakemake, Python, Git, HPC (PBS & Slurm), Conda, Docker, Singularity, Linux (Ubuntu)
+-   R/Bioconductor, R Markdown, Shiny, Bash, Snakemake, Python, Git/GitHub, HPC (PBS & Slurm), Conda, Docker, Singularity, Linux (Ubuntu)
 
 **Languages:**
 
@@ -271,9 +267,9 @@ Girona, Spain
 
 <!-- 2026 -->
 
-### <span style="font-size:11px; font-weight:200"> <u>Mitjavila-Ventura</u> & Vavouri. **Mechanisms seeding the emergence of new piRNAs**.</span>
+### <span style="font-size:11px; font-weight:200"> **Mechanisms seeding the emergence of new piRNAs**.</span>
 
-*Trends in Genetics*. 2026. doi: [10.1016/j.tig.2026.04.004](https://doi.org/10.1016/j.tig.2026.04.004){target="_blank"}
+<u>Mitjavila-Ventura</u> & Vavouri. *Trends in Genetics*. 2026. doi: [10.1016/j.tig.2026.04.004](https://doi.org/10.1016/j.tig.2026.04.004){target="_blank"}
 
 N/A
 
