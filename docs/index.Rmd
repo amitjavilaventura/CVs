@@ -229,7 +229,7 @@ Online
 2018 - 2022
 
 - Focused on Computational Genomics.
-- Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*. Grade: 9.7/10 (*with honours*). Supervisor: Dr. Tanya Vavouri.
+<!-- - Master's thesis: *Analysis of the variation in piRNA expression across three close related <u>Mus</u> species*. Grade: 9.7/10 (*with honours*). Supervisor: Dr. Tanya Vavouri. -->
 - Overall grade: 8.94/10.
 
 ### [MSc in Molecular Genetics and Biotechnology](https://masteroficial.us.es/gmb/)
@@ -241,7 +241,7 @@ Seville, Spain
 2017 - 2018
 
 - Specialization in Molecular Biology Research. 
-- Master's thesis: *Influence of Xrn1 in nucleosome positioning across <u>Saccharomyces cerevisiae</u> genome and its effects in transcription*. Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego & Dr. Gabriel Gutiérrez Pozo.
+<!-- - Master's thesis: *Influence of Xrn1 in nucleosome positioning across <u>Saccharomyces cerevisiae</u> genome and its effects in transcription*. Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego & Dr. Gabriel Gutiérrez Pozo. -->
 - Overall grade: 9.33/10.
 
 ### [BSc in Biotechnology](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=993&ID=3103G0215)
@@ -253,7 +253,7 @@ Girona, Spain
 2012 - 2017
 
 - Specialization in Cellular & Molecular Biotechnology.  
-- Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil.
+<!-- - Bachelor's thesis: *Butyrate-induced changes in the diversity of intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil. -->
 - Overall grade: 8.12/10.
 
 
@@ -291,23 +291,49 @@ N/A
 
 2021
 
-## Posters & presentations {data-icon="user"}
+## Academic works {data-icon="graduation-cap"}
 
-### <span style="font-size:10px; font-weight:200">  __Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse__ </span>
+### <span style="font-size:10px; font-weight:200"> [__Analysis of the variation in piRNA expression across three \emph{Mus} species__](https://openaccess.uoc.edu/server/api/core/bitstreams/cfc01d12-926c-45f2-ab30-6925b33f5f68/content) </span>
 
-<u>Mitjavila-Ventura</u>, Casas et al. Poster at the *Jornades de Bioinformàtica i Genòmica* from the *Societat Catalana de Biologia*.
+<u>Mitjavila-Ventura</u>. Master's thesis at *Universitat Oberta de Catalunya* (UOC). Grade: 9.7/10 (**honours**). Supervisor: Dr. Tanya Vavouri.
 
-Lleida, Spain
+N/A
 
-12/2024
+02/2022
 
-### <span style="font-size:10px; font-weight:200"> __Fast evolution of piRNA cluster expression in mouse__. </span>
+### <span style="font-size:10px; font-weight:200">  __Influence of Xrn1 in nucleosome positioning across \emph{Saccharomyces cerevisiae} genome and its effects in transcription__ </span>
 
-<u>Mitjavila</u> & Vavouri. Poster at the Microsymposium in RNA Biology.
+<u>Mitjavila-Ventura</u>. Master's thesis at *Universidad de Sevilla* (US). Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo.
 
-Vienna, Austria
+N/A
 
-05/2023
+07/2018
+
+### <span style="font-size:10px; font-weight:200">  __Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy__ </span>
+
+<u>Mitjavila-Ventura</u>. Bachelor's thesis at *Universitat de Girona* (UdG). Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil.
+
+N/A
+
+07/2017
+
+<!-- ## Posters & presentations {data-icon="user"} -->
+
+<!-- ### <span style="font-size:10px; font-weight:200">  __Genetic polymorphisms lead to major, locus-specific, variation in piRNA production in mouse__ </span> -->
+
+<!-- <u>Mitjavila-Ventura</u>, Casas et al. Poster at the *Jornades de Bioinformàtica i Genòmica* from the *Societat Catalana de Biologia*. -->
+
+<!-- Lleida, Spain -->
+
+<!-- 12/2024 -->
+
+<!-- ### <span style="font-size:10px; font-weight:200"> __Fast evolution of piRNA cluster expression in mouse__. </span> -->
+
+<!-- <u>Mitjavila</u> & Vavouri. Poster at the Microsymposium in RNA Biology. -->
+
+<!-- Vienna, Austria -->
+
+<!-- 05/2023 -->
 
 
 ## Honors & Awards {data-icon="award"}

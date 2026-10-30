@@ -41,72 +41,48 @@ Bioinformatician with training in Molecular Genetics and Biotechnology and over 
 \small
 
 <!-- PHD STUDENT IN BIOINFORMATICS AT IGTP, IJC AND UAB -->
-\textbf{Predoctoral researcher}, [*IJC*](https://www.carrerasresearch.org/en) & [*Institut Germans Trias i Pujol (IGTP)*](http://igtp.cat/en/), Badalona (Spain) \hfill \emph{11/2022 - Present}
+\textbf{Bioinformatician} & \textbf{PhD candidate}, [*Institut Josep Carreras*](https://www.carrerasresearch.org/en) & [*Institut Germans Trias i Pujol*](http://igtp.cat/en/), Badalona (Spain) \hfill \emph{08/2021 - Present}
 
 \footnotesize
 
-* Analysis and integration of small RNA-seq, RNA-seq data.
-* Analysis of single-cell and spatial transcriptomics (10x Xenium) data. Design of 10x Xenium custom panel.
-* Writing of scientific papers and reviews.
-* Mentoring of undergraduate and master students.
-* Outreach workshops addressed to high school students.
-
-\small
-
-<!-- BIOINFORMATICIAN AT IJC -->
-\textbf{Bioinformatician} [*Institut Josep Carreras (IJC)*](https://www.carrerasresearch.org/en), Badalona (Spain) \hfill \emph{08/2021 - 11/2022}
-
-\footnotesize
-
-* Analysis and integration of small RNA-seq, RNA-seq, ChIP-seq and other genomics data.
-* Collaboration with external researchers. 
-
-<!-- * Mentoring of undergraduate and master students.  -->
-<!-- * Outreach workshops addressed to high school students. -->
+* \- Analysis and integration of small RNA-seq, RNA-seq, small RNA-seq data and 10x Xenium spatial transcriptomics data. Computational design of probes for 10x Xenium custom panel. 
+* \- Writing of scientific papers and reviews.
+* \- Mentoring and outreach workshops adressed to students.
+* \- \underline{Skills}: bioinformatics and statistical analysis (R, Bash, Python), pipeline development (Snakemake), workflow and environment management (conda, docker, singularity), scientific writing, version control (git, GitHub), high performance computing (Slurm), outreach and mentoring.   
 
 \small
 
 <!-- BIOINFORMATICIAN AT IEO -->
-\textbf{Bioinformatician} [*Istituto Europeo di Oncologia (IEO)*](https://www.ieo.it/en/), Milan (Italy) \hfill \emph{07/2019 - 08/2021}
+\textbf{Bioinformatician} [*Istituto Europeo di Oncologia*](https://www.ieo.it/en/), Milan (Italy) \hfill \emph{07/2019 - 08/2021}
 
 \footnotesize
 
-* Analysis and integration of RNA-, ChIP- and ATAC-seq data in the context of colorectal cancer.
-* Comparison of distinct peak callers for ATAC-seq data. 
-* Development of a [Snakemake pipeline for ATAC-seq data](https://github.com/amitjavilaventura/ATACseq-snakemake/tree/master) processing and analysis.
-* Comparison of sequencing depths for RNA-seq and their impact on differential expression analysis.
+* \- Analysis and integration of RNA-, ChIP- and ATAC-seq data in the context of colorectal cancer.
+* \- Development of a [Snakemake pipeline for ATAC-seq data](https://github.com/amitjavilaventura/ATACseq-snakemake/tree/master) processing and analysis.
+* \- \underline{Skills}: bioinformatics and statistical analysis (R, Bash, Python), pipeline development (Snakemake), environment management (conda, docker, singularity), scientific writing, version control (git, GitHub), high performance computing (PBS).
 
 \small
 
 <!-- MASTER'S THESIS AT IBIS-SEVILLA -->
-\textbf{Master's thesis student} & \textbf{Research assistant}, [*Instituto de Biomedicina de Sevilla (IBiS)*](https://www.ibis-sevilla.es/inicio.aspx?lang=en-US), Seville (Spain) \hfill \emph{09/2017 - 10/2018} 
+\textbf{Master's thesis student} & \textbf{Research assistant}, [*Instituto de Biomedicina de Sevilla*](https://www.ibis-sevilla.es/inicio.aspx?lang=en-US), Seville (Spain) \hfill \emph{09/2017 - 10/2018} 
 
 \footnotesize
 
-* Analysis of MNase-seq data. 
-* Design of PCR primers, performing and analysis of MNase-qPCR data.
+* \- Bioinformatic pre-processing and analysis of MNase-seq data. 
+* \- Designing of PCR primers, and performing and analysis of MNase-qPCR data.
+* \- \underline{Skills}: DNA extraction, MNase-qPCR, microbiological cultures, bioinformatics and statistical analysis (Bash, R, [Past](https://www.nhm.uio.no/english/research/resources/past/)), scientific writing.
 
 \small
 
-<!-- INTERNSHIP AT IDIBGI
-<!-- \textbf{Bachelor's internship student}, [*Institut d'Investigació Biomèdica de Girona (IdIBGi)*](https://idibgi.org/en/), Girona (Spain) \hfill \emph{07/2017 - 09/2017}
-
-\footnotesize
-
-* DNA and RNA extraction from animal and human biopsies and fecal samples.
-
-\small --> 
-
 <!-- BACHELOR'S THESIS AT MICROBIAL -->
-\textbf{Research internship} & \textbf{Bachelor's thesis student}, [*Microbial*](https://www.microbial-systems.com/), Girona (Spain) \hfill \emph{09/2016 - 07/2017} 
+\textbf{Undergraduate internship} & \textbf{Bachelor's thesis student}, [*Microbial*](https://www.microbial-systems.com/), Girona (Spain) \hfill \emph{09/2016 - 07/2017} 
 
 \footnotesize
 
-* Analysis of mucosa-associated intestinal microbiota from human biopsies.
-* Analysis of food and water samples for pathogen detection and food forensics.
-* Statistical analysis of metagenomics data (with SPSS).
-* DNA extraction, qPCR, molecular cloning, bacterial cultures. 
-* Design of qPCR kits.
+* \- Analysis and processing of human intestinal biopsies, food and water samples for pathogen detection and food forensics.
+* \- Statistical analysis of metagenomics data.
+* \- Sample traceability and results documentation.
+* \- \underline{Skills}: DNA extraction, qPCR, molecular cloning, bacterial cultures, statistical analysis (SPSS), scientific writing.
 
 \small
 
@@ -119,27 +95,17 @@ Bioinformatician with training in Molecular Genetics and Biotechnology and over 
 
 [**MSc. Bioinformatics and Biostatistics**](https://estudios.uoc.edu/es/masters-universitarios/bioinformatica-bioestadistica/presentacion), *Universitat Oberta de Catalunya (UOC)*, Online \hfill {\normalsize\emph{2018 - 2022}}
 
-<!-- * \footnotesize - Master's thesis (UOC, 2022): *Analysis of the variation in piRNA expression across three \emph{Mus} species*. Grade: 9.7/10 (**with honours**). Supervisor: Dr. Tanya Vavouri. -->
-
 [**MSc. Molecular Genetics and Biotechnology**](https://masteroficial.us.es/gmb/), *Universidad de Sevilla (US)*, Seville (Spain) \hfill {\normalsize\emph{2017 - 2018}}
 
-<!-- * \footnotesize - Master's thesis (US, 2018): *Influence of Xrn1 in nucleosome positioning across \emph{Saccharomyces cerevisiae} genome and its effects in transcription*. Grade: 9.2/10. Supervisors: Dr. Sebastián Chávez de Diego and Dr. Gabriel Gutiérrez Pozo. -->
-
 [**BSc. Biotechnology**](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=1209&ID=3103G0215), *Universitat de Girona (UdG)*, Girona (Spain)  \hfill {\normalsize\emph{2012 - 2017}}
-
-<!-- * \footnotesize - Bachelor's thesis (UdG, 2017): *Butyrate-induced changes in the diversity of the intestinal mucosa-associated microbiota in colorectal cancer patients submitted to a lateral ileostomy*. Grade: 9.4/10. Supervisor: Prof. Jesús García-Gil. -->
-
-
-
-
 
 # Skills \hrulefill
 
 \footnotesize \textbf{Languages}: Catalan (*native*), Spanish (*bilingual*), English (*IELTS 7.5 - C1*), Italian (*basic*)
 
-\footnotesize \textbf{Bioinformatics}: (small) RNA-/ChIP-/ATAC-/MNase-seq, single-cell RNA-seq, 10x Xenium... 
+\footnotesize \textbf{Bioinformatics}: (small) RNA-/ChIP-/ATAC-/MNase-seq, single-cell RNA-seq, 10x Xenium
 
-\footnotesize \textbf{Informatics}: R/Bioconductor, R Markdown, Bash, AWK, Python, Snakemake, Conda, Docker, Singularity, HPC (PBS/Slurm) 
+\footnotesize \textbf{Informatics \& Statistics}: R/Bioconductor, R Markdown, Bash, AWK, Python, Snakemake, Conda, Docker, Singularity, HPC (PBS & Slurm), SPSS, git, GitHub.
 
 
 # Publications \hrulefill
