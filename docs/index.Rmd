@@ -259,13 +259,13 @@ Girona, Spain
 
 ## Publications [`r fontawesome::fa(name = "orcid")`](https://orcid.org/0000-0002-0337-1929) {data-icon="book"}
 
-<!-- ### <span style="font-size:11px; font-weight:200"> <u>Mitjavila-Ventura</u> & Vavouri. **High piRNA abundance is a hallmark of evolutionarily persistent piRNA-producing loci **.</span> -->
+### <span style="font-size:11px; font-weight:200"> <u>Mitjavila-Ventura</u> et al. **High piRNA abundance is a hallmark of evolutionarily persistent piRNA-producing loci **.</span>
 
-<!-- *bioRxiv*. 2026. doi: [](){target="_blank"} -->
+*bioRxiv*. 2026. doi: [10.64898/2026.11.04.764267](https://doi.org/10.64898/2026.11.04.764267){target="_blank"}
 
-<!-- N/A -->
+N/A
 
-<!-- 2026 -->
+2026
 
 ### <span style="font-size:11px; font-weight:200"> **Mechanisms seeding the emergence of new piRNAs**.</span>
 
